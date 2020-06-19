@@ -1,0 +1,2332 @@
+Clustering on dataset: cora, model: arga, number of iteration: 100
+Epoch: 0002
+ACC=0.348966, f1_macro=0.311983, precision_macro=0.315878, recall_macro=0.333181, f1_micro=0.348966, precision_micro=0.348966, recall_micro=0.348966, NMI=0.114396, ADJ_RAND_SCORE=0.089739
+Epoch: 0004
+ACC=0.442024, f1_macro=0.409473, precision_macro=0.434160, recall_macro=0.435951, f1_micro=0.442024, precision_micro=0.442024, recall_micro=0.442024, NMI=0.243059, ADJ_RAND_SCORE=0.198120
+Epoch: 0006
+ACC=0.566470, f1_macro=0.515947, precision_macro=0.518544, recall_macro=0.542133, f1_micro=0.566470, precision_micro=0.566470, recall_micro=0.566470, NMI=0.351626, ADJ_RAND_SCORE=0.299509
+Epoch: 0008
+ACC=0.499261, f1_macro=0.433740, precision_macro=0.446256, recall_macro=0.464952, f1_micro=0.499261, precision_micro=0.499261, recall_micro=0.499261, NMI=0.403371, ADJ_RAND_SCORE=0.325394
+Epoch: 0010
+ACC=0.602290, f1_macro=0.571925, precision_macro=0.588446, recall_macro=0.580629, f1_micro=0.602290, precision_micro=0.602290, recall_micro=0.602290, NMI=0.453793, ADJ_RAND_SCORE=0.384819
+Epoch: 0012
+ACC=0.630355, f1_macro=0.598839, precision_macro=0.614076, recall_macro=0.611165, f1_micro=0.630355, precision_micro=0.630355, recall_micro=0.630355, NMI=0.472308, ADJ_RAND_SCORE=0.406752
+Epoch: 0014
+ACC=0.633309, f1_macro=0.600069, precision_macro=0.614741, recall_macro=0.613004, f1_micro=0.633309, precision_micro=0.633309, recall_micro=0.633309, NMI=0.479958, ADJ_RAND_SCORE=0.412106
+Epoch: 0016
+ACC=0.635894, f1_macro=0.607372, precision_macro=0.621645, recall_macro=0.619641, f1_micro=0.635894, precision_micro=0.635894, recall_micro=0.635894, NMI=0.485811, ADJ_RAND_SCORE=0.414233
+Epoch: 0018
+ACC=0.697194, f1_macro=0.675933, precision_macro=0.684527, recall_macro=0.701903, f1_micro=0.697194, precision_micro=0.697194, recall_micro=0.697194, NMI=0.497640, ADJ_RAND_SCORE=0.476906
+Epoch: 0020
+ACC=0.700517, f1_macro=0.679100, precision_macro=0.688131, recall_macro=0.706385, f1_micro=0.700517, precision_micro=0.700517, recall_micro=0.700517, NMI=0.505504, ADJ_RAND_SCORE=0.483131
+Epoch: 0022
+ACC=0.698301, f1_macro=0.675944, precision_macro=0.680130, recall_macro=0.702412, f1_micro=0.698301, precision_micro=0.698301, recall_micro=0.698301, NMI=0.503509, ADJ_RAND_SCORE=0.482545
+Epoch: 0024
+ACC=0.705318, f1_macro=0.684627, precision_macro=0.692601, recall_macro=0.709299, f1_micro=0.705318, precision_micro=0.705318, recall_micro=0.705318, NMI=0.501566, ADJ_RAND_SCORE=0.483160
+Epoch: 0026
+ACC=0.666174, f1_macro=0.636238, precision_macro=0.652226, recall_macro=0.645873, f1_micro=0.666174, precision_micro=0.666174, recall_micro=0.666174, NMI=0.503480, ADJ_RAND_SCORE=0.453061
+Epoch: 0028
+ACC=0.676883, f1_macro=0.649370, precision_macro=0.668703, recall_macro=0.658991, f1_micro=0.676883, precision_micro=0.676883, recall_micro=0.676883, NMI=0.507157, ADJ_RAND_SCORE=0.456169
+Epoch: 0030
+ACC=0.665066, f1_macro=0.634818, precision_macro=0.644125, recall_macro=0.644570, f1_micro=0.665066, precision_micro=0.665066, recall_micro=0.665066, NMI=0.491262, ADJ_RAND_SCORE=0.451466
+Epoch: 0032
+ACC=0.658419, f1_macro=0.629206, precision_macro=0.646375, recall_macro=0.635735, f1_micro=0.658419, precision_micro=0.658419, recall_micro=0.658419, NMI=0.494142, ADJ_RAND_SCORE=0.450228
+Epoch: 0034
+ACC=0.660635, f1_macro=0.648060, precision_macro=0.664630, recall_macro=0.673913, f1_micro=0.660635, precision_micro=0.660635, recall_micro=0.660635, NMI=0.487680, ADJ_RAND_SCORE=0.439714
+Epoch: 0036
+ACC=0.669867, f1_macro=0.658037, precision_macro=0.669650, recall_macro=0.686821, f1_micro=0.669867, precision_micro=0.669867, recall_micro=0.669867, NMI=0.482510, ADJ_RAND_SCORE=0.436501
+Epoch: 0038
+ACC=0.665436, f1_macro=0.654169, precision_macro=0.666743, recall_macro=0.680489, f1_micro=0.665436, precision_micro=0.665436, recall_micro=0.665436, NMI=0.481189, ADJ_RAND_SCORE=0.435116
+Epoch: 0040
+ACC=0.658789, f1_macro=0.647348, precision_macro=0.658688, recall_macro=0.673088, f1_micro=0.658789, precision_micro=0.658789, recall_micro=0.658789, NMI=0.474813, ADJ_RAND_SCORE=0.428405
+Epoch: 0042
+ACC=0.670975, f1_macro=0.659205, precision_macro=0.668260, recall_macro=0.685251, f1_micro=0.670975, precision_micro=0.670975, recall_micro=0.670975, NMI=0.481154, ADJ_RAND_SCORE=0.437906
+Epoch: 0044
+ACC=0.666913, f1_macro=0.656874, precision_macro=0.667360, recall_macro=0.684566, f1_micro=0.666913, precision_micro=0.666913, recall_micro=0.666913, NMI=0.479323, ADJ_RAND_SCORE=0.429653
+Epoch: 0046
+ACC=0.665805, f1_macro=0.654445, precision_macro=0.664313, recall_macro=0.680679, f1_micro=0.665805, precision_micro=0.665805, recall_micro=0.665805, NMI=0.472487, ADJ_RAND_SCORE=0.428123
+Epoch: 0048
+ACC=0.664328, f1_macro=0.656821, precision_macro=0.664550, recall_macro=0.685260, f1_micro=0.664328, precision_micro=0.664328, recall_micro=0.664328, NMI=0.464870, ADJ_RAND_SCORE=0.416697
+Epoch: 0050
+ACC=0.665805, f1_macro=0.656676, precision_macro=0.666523, recall_macro=0.681034, f1_micro=0.665805, precision_micro=0.665805, recall_micro=0.665805, NMI=0.471495, ADJ_RAND_SCORE=0.424216
+Epoch: 0052
+ACC=0.656204, f1_macro=0.653956, precision_macro=0.669629, recall_macro=0.680795, f1_micro=0.656204, precision_micro=0.656204, recall_micro=0.656204, NMI=0.469448, ADJ_RAND_SCORE=0.404811
+Epoch: 0054
+ACC=0.649557, f1_macro=0.647787, precision_macro=0.663305, recall_macro=0.671585, f1_micro=0.649557, precision_micro=0.649557, recall_micro=0.649557, NMI=0.464956, ADJ_RAND_SCORE=0.401562
+Epoch: 0056
+ACC=0.640325, f1_macro=0.639359, precision_macro=0.659051, recall_macro=0.660935, f1_micro=0.640325, precision_micro=0.640325, recall_micro=0.640325, NMI=0.461535, ADJ_RAND_SCORE=0.395696
+Epoch: 0058
+ACC=0.642910, f1_macro=0.642683, precision_macro=0.662041, recall_macro=0.666582, f1_micro=0.642910, precision_micro=0.642910, recall_micro=0.642910, NMI=0.470851, ADJ_RAND_SCORE=0.397179
+Epoch: 0060
+ACC=0.640325, f1_macro=0.641046, precision_macro=0.662015, recall_macro=0.664863, f1_micro=0.640325, precision_micro=0.640325, recall_micro=0.640325, NMI=0.466575, ADJ_RAND_SCORE=0.390472
+Epoch: 0062
+ACC=0.632201, f1_macro=0.635201, precision_macro=0.661731, recall_macro=0.653747, f1_micro=0.632201, precision_micro=0.632201, recall_micro=0.632201, NMI=0.457984, ADJ_RAND_SCORE=0.381687
+Epoch: 0064
+ACC=0.637740, f1_macro=0.639514, precision_macro=0.660029, recall_macro=0.662014, f1_micro=0.637740, precision_micro=0.637740, recall_micro=0.637740, NMI=0.460085, ADJ_RAND_SCORE=0.385758
+Epoch: 0066
+ACC=0.629985, f1_macro=0.632720, precision_macro=0.651166, recall_macro=0.657221, f1_micro=0.629985, precision_micro=0.629985, recall_micro=0.629985, NMI=0.444119, ADJ_RAND_SCORE=0.369829
+Epoch: 0068
+ACC=0.636263, f1_macro=0.637971, precision_macro=0.657287, recall_macro=0.659740, f1_micro=0.636263, precision_micro=0.636263, recall_micro=0.636263, NMI=0.458333, ADJ_RAND_SCORE=0.383058
+Epoch: 0070
+ACC=0.645126, f1_macro=0.645456, precision_macro=0.666985, recall_macro=0.667175, f1_micro=0.645126, precision_micro=0.645126, recall_micro=0.645126, NMI=0.464028, ADJ_RAND_SCORE=0.391756
+Epoch: 0072
+ACC=0.632939, f1_macro=0.636874, precision_macro=0.662349, recall_macro=0.658474, f1_micro=0.632939, precision_micro=0.632939, recall_micro=0.632939, NMI=0.454602, ADJ_RAND_SCORE=0.371843
+Epoch: 0074
+ACC=0.624815, f1_macro=0.629655, precision_macro=0.656113, recall_macro=0.649282, f1_micro=0.624815, precision_micro=0.624815, recall_micro=0.624815, NMI=0.443740, ADJ_RAND_SCORE=0.361153
+Epoch: 0076
+ACC=0.631093, f1_macro=0.632939, precision_macro=0.654714, recall_macro=0.654074, f1_micro=0.631093, precision_micro=0.631093, recall_micro=0.631093, NMI=0.445214, ADJ_RAND_SCORE=0.373045
+Epoch: 0078
+ACC=0.640694, f1_macro=0.641137, precision_macro=0.663764, recall_macro=0.663770, f1_micro=0.640694, precision_micro=0.640694, recall_micro=0.640694, NMI=0.456046, ADJ_RAND_SCORE=0.384808
+Epoch: 0080
+ACC=0.631093, f1_macro=0.633954, precision_macro=0.662217, recall_macro=0.652853, f1_micro=0.631093, precision_micro=0.631093, recall_micro=0.631093, NMI=0.447787, ADJ_RAND_SCORE=0.371163
+Epoch: 0082
+ACC=0.629616, f1_macro=0.635650, precision_macro=0.660513, recall_macro=0.655626, f1_micro=0.629616, precision_micro=0.629616, recall_micro=0.629616, NMI=0.452237, ADJ_RAND_SCORE=0.366538
+Epoch: 0084
+ACC=0.628139, f1_macro=0.632149, precision_macro=0.655643, recall_macro=0.654710, f1_micro=0.628139, precision_micro=0.628139, recall_micro=0.628139, NMI=0.447268, ADJ_RAND_SCORE=0.365910
+Epoch: 0086
+ACC=0.606352, f1_macro=0.620992, precision_macro=0.638051, recall_macro=0.643195, f1_micro=0.606352, precision_micro=0.606352, recall_micro=0.606352, NMI=0.424787, ADJ_RAND_SCORE=0.331525
+Epoch: 0088
+ACC=0.606352, f1_macro=0.611687, precision_macro=0.626753, recall_macro=0.642406, f1_micro=0.606352, precision_micro=0.606352, recall_micro=0.606352, NMI=0.420424, ADJ_RAND_SCORE=0.337346
+Epoch: 0090
+ACC=0.626292, f1_macro=0.627525, precision_macro=0.630564, recall_macro=0.659354, f1_micro=0.626292, precision_micro=0.626292, recall_micro=0.626292, NMI=0.423475, ADJ_RAND_SCORE=0.349327
+Epoch: 0092
+ACC=0.622230, f1_macro=0.632954, precision_macro=0.651407, recall_macro=0.660423, f1_micro=0.622230, precision_micro=0.622230, recall_micro=0.622230, NMI=0.449461, ADJ_RAND_SCORE=0.348780
+Epoch: 0094
+ACC=0.620384, f1_macro=0.630805, precision_macro=0.665468, recall_macro=0.648243, f1_micro=0.620384, precision_micro=0.620384, recall_micro=0.620384, NMI=0.449142, ADJ_RAND_SCORE=0.352398
+Epoch: 0096
+ACC=0.614476, f1_macro=0.628827, precision_macro=0.655164, recall_macro=0.649200, f1_micro=0.614476, precision_micro=0.614476, recall_micro=0.614476, NMI=0.438887, ADJ_RAND_SCORE=0.338284
+Epoch: 0098
+ACC=0.625923, f1_macro=0.639507, precision_macro=0.662515, recall_macro=0.660801, f1_micro=0.625923, precision_micro=0.625923, recall_micro=0.625923, NMI=0.450293, ADJ_RAND_SCORE=0.352004
+Epoch: 0100
+ACC=0.620015, f1_macro=0.632359, precision_macro=0.660205, recall_macro=0.655810, f1_micro=0.620015, precision_micro=0.620015, recall_micro=0.620015, NMI=0.446185, ADJ_RAND_SCORE=0.351942
+
+Clustering on dataset: citeseer, model: arga, number of iteration: 100
+Epoch: 0002
+ACC=0.288248, f1_macro=0.277135, precision_macro=0.291627, recall_macro=0.278618, f1_micro=0.288248, precision_micro=0.288248, recall_micro=0.288248, NMI=0.060909, ADJ_RAND_SCORE=0.047506
+Epoch: 0004
+ACC=0.389540, f1_macro=0.386821, precision_macro=0.445608, recall_macro=0.374889, f1_micro=0.389540, precision_micro=0.389540, recall_micro=0.389540, NMI=0.184623, ADJ_RAND_SCORE=0.133147
+Epoch: 0006
+ACC=0.429817, f1_macro=0.397782, precision_macro=0.428182, recall_macro=0.389324, f1_micro=0.429817, precision_micro=0.429817, recall_micro=0.429817, NMI=0.236758, ADJ_RAND_SCORE=0.189563
+Epoch: 0008
+ACC=0.527202, f1_macro=0.519456, precision_macro=0.559395, recall_macro=0.509525, f1_micro=0.527202, precision_micro=0.527202, recall_micro=0.527202, NMI=0.287072, ADJ_RAND_SCORE=0.251300
+Epoch: 0010
+ACC=0.569883, f1_macro=0.552140, precision_macro=0.573785, recall_macro=0.547442, f1_micro=0.569883, precision_micro=0.569883, recall_micro=0.569883, NMI=0.305264, ADJ_RAND_SCORE=0.294613
+Epoch: 0012
+ACC=0.572287, f1_macro=0.556824, precision_macro=0.578829, recall_macro=0.564775, f1_micro=0.572287, precision_micro=0.572287, recall_micro=0.572287, NMI=0.332461, ADJ_RAND_SCORE=0.309449
+Epoch: 0014
+ACC=0.567779, f1_macro=0.547941, precision_macro=0.563564, recall_macro=0.555097, f1_micro=0.567779, precision_micro=0.567779, recall_micro=0.567779, NMI=0.325256, ADJ_RAND_SCORE=0.309198
+Epoch: 0016
+ACC=0.563571, f1_macro=0.539198, precision_macro=0.552709, recall_macro=0.546173, f1_micro=0.563571, precision_micro=0.563571, recall_micro=0.563571, NMI=0.324903, ADJ_RAND_SCORE=0.314623
+Epoch: 0018
+ACC=0.553953, f1_macro=0.534359, precision_macro=0.552269, recall_macro=0.539768, f1_micro=0.553953, precision_micro=0.553953, recall_micro=0.553953, NMI=0.315555, ADJ_RAND_SCORE=0.299216
+Epoch: 0020
+ACC=0.562369, f1_macro=0.542584, precision_macro=0.561112, recall_macro=0.551457, f1_micro=0.562369, precision_micro=0.562369, recall_micro=0.562369, NMI=0.329090, ADJ_RAND_SCORE=0.311912
+Epoch: 0022
+ACC=0.549745, f1_macro=0.517159, precision_macro=0.542391, recall_macro=0.508826, f1_micro=0.549745, precision_micro=0.549745, recall_micro=0.549745, NMI=0.323523, ADJ_RAND_SCORE=0.291187
+Epoch: 0024
+ACC=0.540727, f1_macro=0.510313, precision_macro=0.541040, recall_macro=0.502036, f1_micro=0.540727, precision_micro=0.540727, recall_micro=0.540727, NMI=0.313522, ADJ_RAND_SCORE=0.279611
+Epoch: 0026
+ACC=0.543132, f1_macro=0.509166, precision_macro=0.538671, recall_macro=0.500681, f1_micro=0.543132, precision_micro=0.543132, recall_micro=0.543132, NMI=0.315451, ADJ_RAND_SCORE=0.286101
+Epoch: 0028
+ACC=0.532913, f1_macro=0.498726, precision_macro=0.533625, recall_macro=0.493239, f1_micro=0.532913, precision_micro=0.532913, recall_micro=0.532913, NMI=0.303334, ADJ_RAND_SCORE=0.263861
+Epoch: 0030
+ACC=0.535317, f1_macro=0.501441, precision_macro=0.535348, recall_macro=0.495640, f1_micro=0.535317, precision_micro=0.535317, recall_micro=0.535317, NMI=0.305456, ADJ_RAND_SCORE=0.265522
+Epoch: 0032
+ACC=0.540126, f1_macro=0.503060, precision_macro=0.535647, recall_macro=0.497852, f1_micro=0.540126, precision_micro=0.540126, recall_micro=0.540126, NMI=0.302546, ADJ_RAND_SCORE=0.270578
+Epoch: 0034
+ACC=0.539525, f1_macro=0.502595, precision_macro=0.539301, recall_macro=0.497686, f1_micro=0.539525, precision_micro=0.539525, recall_micro=0.539525, NMI=0.303110, ADJ_RAND_SCORE=0.270963
+Epoch: 0036
+ACC=0.523595, f1_macro=0.491602, precision_macro=0.544998, recall_macro=0.486102, f1_micro=0.523595, precision_micro=0.523595, recall_micro=0.523595, NMI=0.298827, ADJ_RAND_SCORE=0.242439
+Epoch: 0038
+ACC=0.527803, f1_macro=0.493842, precision_macro=0.539815, recall_macro=0.490037, f1_micro=0.527803, precision_micro=0.527803, recall_micro=0.527803, NMI=0.298153, ADJ_RAND_SCORE=0.247563
+Epoch: 0040
+ACC=0.526601, f1_macro=0.489689, precision_macro=0.535313, recall_macro=0.484730, f1_micro=0.526601, precision_micro=0.526601, recall_micro=0.526601, NMI=0.293665, ADJ_RAND_SCORE=0.246554
+Epoch: 0042
+ACC=0.514578, f1_macro=0.483964, precision_macro=0.543551, recall_macro=0.478908, f1_micro=0.514578, precision_micro=0.514578, recall_micro=0.514578, NMI=0.291882, ADJ_RAND_SCORE=0.229930
+Epoch: 0044
+ACC=0.522092, f1_macro=0.486621, precision_macro=0.538702, recall_macro=0.482742, f1_micro=0.522092, precision_micro=0.522092, recall_micro=0.522092, NMI=0.291241, ADJ_RAND_SCORE=0.236415
+Epoch: 0046
+ACC=0.534115, f1_macro=0.490943, precision_macro=0.539615, recall_macro=0.492023, f1_micro=0.534115, precision_micro=0.534115, recall_micro=0.534115, NMI=0.294373, ADJ_RAND_SCORE=0.247526
+Epoch: 0048
+ACC=0.504959, f1_macro=0.464605, precision_macro=0.513896, recall_macro=0.464190, f1_micro=0.504959, precision_micro=0.504959, recall_micro=0.504959, NMI=0.264757, ADJ_RAND_SCORE=0.216294
+Epoch: 0050
+ACC=0.507364, f1_macro=0.473949, precision_macro=0.543342, recall_macro=0.473374, f1_micro=0.507364, precision_micro=0.507364, recall_micro=0.507364, NMI=0.290154, ADJ_RAND_SCORE=0.213537
+Epoch: 0052
+ACC=0.509167, f1_macro=0.475139, precision_macro=0.538340, recall_macro=0.472046, f1_micro=0.509167, precision_micro=0.509167, recall_micro=0.509167, NMI=0.278199, ADJ_RAND_SCORE=0.213840
+Epoch: 0054
+ACC=0.521491, f1_macro=0.481142, precision_macro=0.536767, recall_macro=0.480990, f1_micro=0.521491, precision_micro=0.521491, recall_micro=0.521491, NMI=0.280930, ADJ_RAND_SCORE=0.226401
+Epoch: 0056
+ACC=0.528103, f1_macro=0.484651, precision_macro=0.538174, recall_macro=0.487592, f1_micro=0.528103, precision_micro=0.528103, recall_micro=0.528103, NMI=0.284440, ADJ_RAND_SCORE=0.236860
+Epoch: 0058
+ACC=0.510670, f1_macro=0.476815, precision_macro=0.540256, recall_macro=0.475387, f1_micro=0.510670, precision_micro=0.510670, recall_micro=0.510670, NMI=0.279518, ADJ_RAND_SCORE=0.211147
+Epoch: 0060
+ACC=0.533814, f1_macro=0.487615, precision_macro=0.540309, recall_macro=0.491439, f1_micro=0.533814, precision_micro=0.533814, recall_micro=0.533814, NMI=0.291344, ADJ_RAND_SCORE=0.240244
+Epoch: 0062
+ACC=0.523895, f1_macro=0.480164, precision_macro=0.532658, recall_macro=0.482157, f1_micro=0.523895, precision_micro=0.523895, recall_micro=0.523895, NMI=0.276781, ADJ_RAND_SCORE=0.228723
+Epoch: 0064
+ACC=0.516982, f1_macro=0.476952, precision_macro=0.532872, recall_macro=0.478114, f1_micro=0.516982, precision_micro=0.516982, recall_micro=0.516982, NMI=0.275004, ADJ_RAND_SCORE=0.223919
+Epoch: 0066
+ACC=0.522393, f1_macro=0.482935, precision_macro=0.542252, recall_macro=0.484354, f1_micro=0.522393, precision_micro=0.522393, recall_micro=0.522393, NMI=0.286127, ADJ_RAND_SCORE=0.226612
+Epoch: 0068
+ACC=0.518485, f1_macro=0.476175, precision_macro=0.534927, recall_macro=0.479094, f1_micro=0.518485, precision_micro=0.518485, recall_micro=0.518485, NMI=0.283172, ADJ_RAND_SCORE=0.221341
+Epoch: 0070
+ACC=0.506162, f1_macro=0.462886, precision_macro=0.522505, recall_macro=0.471220, f1_micro=0.506162, precision_micro=0.506162, recall_micro=0.506162, NMI=0.262338, ADJ_RAND_SCORE=0.200151
+Epoch: 0072
+ACC=0.516982, f1_macro=0.475030, precision_macro=0.537058, recall_macro=0.479646, f1_micro=0.516982, precision_micro=0.516982, recall_micro=0.516982, NMI=0.285724, ADJ_RAND_SCORE=0.219231
+Epoch: 0074
+ACC=0.519988, f1_macro=0.475455, precision_macro=0.531334, recall_macro=0.480778, f1_micro=0.519988, precision_micro=0.519988, recall_micro=0.519988, NMI=0.275379, ADJ_RAND_SCORE=0.219202
+Epoch: 0076
+ACC=0.501353, f1_macro=0.461693, precision_macro=0.531426, recall_macro=0.465853, f1_micro=0.501353, precision_micro=0.501353, recall_micro=0.501353, NMI=0.267494, ADJ_RAND_SCORE=0.195121
+Epoch: 0078
+ACC=0.488127, f1_macro=0.451987, precision_macro=0.520599, recall_macro=0.456494, f1_micro=0.488127, precision_micro=0.488127, recall_micro=0.488127, NMI=0.251817, ADJ_RAND_SCORE=0.178037
+Epoch: 0080
+ACC=0.535918, f1_macro=0.484699, precision_macro=0.534899, recall_macro=0.496466, f1_micro=0.535918, precision_micro=0.535918, recall_micro=0.535918, NMI=0.286131, ADJ_RAND_SCORE=0.236406
+Epoch: 0082
+ACC=0.508266, f1_macro=0.462311, precision_macro=0.520776, recall_macro=0.474987, f1_micro=0.508266, precision_micro=0.508266, recall_micro=0.508266, NMI=0.259807, ADJ_RAND_SCORE=0.196998
+Epoch: 0084
+ACC=0.490833, f1_macro=0.448038, precision_macro=0.504196, recall_macro=0.457300, f1_micro=0.490833, precision_micro=0.490833, recall_micro=0.490833, NMI=0.246932, ADJ_RAND_SCORE=0.185988
+Epoch: 0086
+ACC=0.497746, f1_macro=0.454925, precision_macro=0.513585, recall_macro=0.465240, f1_micro=0.497746, precision_micro=0.497746, recall_micro=0.497746, NMI=0.258392, ADJ_RAND_SCORE=0.195778
+Epoch: 0088
+ACC=0.436730, f1_macro=0.406774, precision_macro=0.476464, recall_macro=0.403021, f1_micro=0.436730, precision_micro=0.436730, recall_micro=0.436730, NMI=0.218564, ADJ_RAND_SCORE=0.143543
+Epoch: 0090
+ACC=0.414488, f1_macro=0.396052, precision_macro=0.461530, recall_macro=0.411682, f1_micro=0.414488, precision_micro=0.414488, recall_micro=0.414488, NMI=0.200350, ADJ_RAND_SCORE=0.141010
+Epoch: 0092
+ACC=0.478209, f1_macro=0.440012, precision_macro=0.500857, recall_macro=0.446236, f1_micro=0.478209, precision_micro=0.478209, recall_micro=0.478209, NMI=0.239666, ADJ_RAND_SCORE=0.177155
+Epoch: 0094
+ACC=0.475804, f1_macro=0.435225, precision_macro=0.495326, recall_macro=0.442361, f1_micro=0.475804, precision_micro=0.475804, recall_micro=0.475804, NMI=0.238573, ADJ_RAND_SCORE=0.172710
+Epoch: 0096
+ACC=0.475503, f1_macro=0.434401, precision_macro=0.493827, recall_macro=0.442995, f1_micro=0.475503, precision_micro=0.475503, recall_micro=0.475503, NMI=0.237450, ADJ_RAND_SCORE=0.171843
+Epoch: 0098
+ACC=0.428614, f1_macro=0.403213, precision_macro=0.473312, recall_macro=0.392951, f1_micro=0.428614, precision_micro=0.428614, recall_micro=0.428614, NMI=0.220328, ADJ_RAND_SCORE=0.148884
+Epoch: 0100
+ACC=0.427713, f1_macro=0.423097, precision_macro=0.494047, recall_macro=0.412491, f1_micro=0.427713, precision_micro=0.427713, recall_micro=0.427713, NMI=0.187010, ADJ_RAND_SCORE=0.140109
+
+Clustering on dataset: cora, model: arvga, number of iteration: 100
+Epoch: 0002
+ACC=0.317208, f1_macro=0.286513, precision_macro=0.299567, recall_macro=0.301757, f1_micro=0.317208, precision_micro=0.317208, recall_micro=0.317208, NMI=0.087685, ADJ_RAND_SCORE=0.062885
+Epoch: 0004
+ACC=0.320162, f1_macro=0.299425, precision_macro=0.306162, recall_macro=0.320949, f1_micro=0.320162, precision_micro=0.320162, recall_micro=0.320162, NMI=0.083537, ADJ_RAND_SCORE=0.055384
+Epoch: 0006
+ACC=0.299483, f1_macro=0.275539, precision_macro=0.292298, recall_macro=0.302341, f1_micro=0.299483, precision_micro=0.299483, recall_micro=0.299483, NMI=0.066657, ADJ_RAND_SCORE=0.042504
+Epoch: 0008
+ACC=0.257386, f1_macro=0.232113, precision_macro=0.250100, recall_macro=0.246558, f1_micro=0.257386, precision_micro=0.257386, recall_micro=0.257386, NMI=0.062202, ADJ_RAND_SCORE=0.029857
+Epoch: 0010
+ACC=0.286189, f1_macro=0.249149, precision_macro=0.260511, recall_macro=0.279665, f1_micro=0.286189, precision_micro=0.286189, recall_micro=0.286189, NMI=0.069315, ADJ_RAND_SCORE=0.040245
+Epoch: 0012
+ACC=0.303545, f1_macro=0.284893, precision_macro=0.295550, recall_macro=0.310124, f1_micro=0.303545, precision_micro=0.303545, recall_micro=0.303545, NMI=0.091385, ADJ_RAND_SCORE=0.056395
+Epoch: 0014
+ACC=0.345273, f1_macro=0.323768, precision_macro=0.336462, recall_macro=0.353329, f1_micro=0.345273, precision_micro=0.345273, recall_micro=0.345273, NMI=0.120691, ADJ_RAND_SCORE=0.085213
+Epoch: 0016
+ACC=0.358936, f1_macro=0.329904, precision_macro=0.345197, recall_macro=0.350932, f1_micro=0.358936, precision_micro=0.358936, recall_micro=0.358936, NMI=0.138008, ADJ_RAND_SCORE=0.098561
+Epoch: 0018
+ACC=0.388479, f1_macro=0.354622, precision_macro=0.371262, recall_macro=0.379699, f1_micro=0.388479, precision_micro=0.388479, recall_micro=0.388479, NMI=0.166270, ADJ_RAND_SCORE=0.121335
+Epoch: 0020
+ACC=0.396603, f1_macro=0.359063, precision_macro=0.370805, recall_macro=0.394338, f1_micro=0.396603, precision_micro=0.396603, recall_micro=0.396603, NMI=0.178556, ADJ_RAND_SCORE=0.138529
+Epoch: 0022
+ACC=0.408419, f1_macro=0.377524, precision_macro=0.386234, recall_macro=0.408571, f1_micro=0.408419, precision_micro=0.408419, recall_micro=0.408419, NMI=0.211011, ADJ_RAND_SCORE=0.149420
+Epoch: 0024
+ACC=0.441654, f1_macro=0.419517, precision_macro=0.465421, recall_macro=0.449709, f1_micro=0.441654, precision_micro=0.441654, recall_micro=0.441654, NMI=0.251566, ADJ_RAND_SCORE=0.176632
+Epoch: 0026
+ACC=0.429468, f1_macro=0.409975, precision_macro=0.463179, recall_macro=0.438021, f1_micro=0.429468, precision_micro=0.429468, recall_micro=0.429468, NMI=0.274292, ADJ_RAND_SCORE=0.191796
+Epoch: 0028
+ACC=0.471566, f1_macro=0.404875, precision_macro=0.401442, recall_macro=0.444656, f1_micro=0.471566, precision_micro=0.471566, recall_micro=0.471566, NMI=0.320557, ADJ_RAND_SCORE=0.227705
+Epoch: 0030
+ACC=0.473043, f1_macro=0.411034, precision_macro=0.414902, recall_macro=0.450805, f1_micro=0.473043, precision_micro=0.473043, recall_micro=0.473043, NMI=0.349164, ADJ_RAND_SCORE=0.241279
+Epoch: 0032
+ACC=0.480428, f1_macro=0.418620, precision_macro=0.423887, recall_macro=0.457619, f1_micro=0.480428, precision_micro=0.480428, recall_micro=0.480428, NMI=0.370687, ADJ_RAND_SCORE=0.260982
+Epoch: 0034
+ACC=0.471196, f1_macro=0.411456, precision_macro=0.417676, recall_macro=0.452143, f1_micro=0.471196, precision_micro=0.471196, recall_micro=0.471196, NMI=0.383995, ADJ_RAND_SCORE=0.273752
+Epoch: 0036
+ACC=0.461595, f1_macro=0.402058, precision_macro=0.413739, recall_macro=0.443210, f1_micro=0.461595, precision_micro=0.461595, recall_micro=0.461595, NMI=0.393149, ADJ_RAND_SCORE=0.277971
+Epoch: 0038
+ACC=0.451994, f1_macro=0.394729, precision_macro=0.410299, recall_macro=0.435989, f1_micro=0.451994, precision_micro=0.451994, recall_micro=0.451994, NMI=0.395366, ADJ_RAND_SCORE=0.276907
+Epoch: 0040
+ACC=0.526219, f1_macro=0.494739, precision_macro=0.529638, recall_macro=0.517368, f1_micro=0.526219, precision_micro=0.526219, recall_micro=0.526219, NMI=0.405777, ADJ_RAND_SCORE=0.307571
+Epoch: 0042
+ACC=0.553545, f1_macro=0.530706, precision_macro=0.557696, recall_macro=0.554143, f1_micro=0.553545, precision_micro=0.553545, recall_micro=0.553545, NMI=0.426517, ADJ_RAND_SCORE=0.340501
+Epoch: 0044
+ACC=0.573486, f1_macro=0.557254, precision_macro=0.591784, recall_macro=0.577140, f1_micro=0.573486, precision_micro=0.573486, recall_micro=0.573486, NMI=0.446249, ADJ_RAND_SCORE=0.364467
+Epoch: 0046
+ACC=0.586780, f1_macro=0.575608, precision_macro=0.611779, recall_macro=0.590665, f1_micro=0.586780, precision_micro=0.586780, recall_micro=0.586780, NMI=0.460108, ADJ_RAND_SCORE=0.371370
+Epoch: 0048
+ACC=0.604136, f1_macro=0.584186, precision_macro=0.618282, recall_macro=0.597885, f1_micro=0.604136, precision_micro=0.604136, recall_micro=0.604136, NMI=0.459385, ADJ_RAND_SCORE=0.374431
+Epoch: 0050
+ACC=0.687592, f1_macro=0.657393, precision_macro=0.668788, recall_macro=0.683799, f1_micro=0.687592, precision_micro=0.687592, recall_micro=0.687592, NMI=0.476405, ADJ_RAND_SCORE=0.468011
+Epoch: 0052
+ACC=0.687223, f1_macro=0.657801, precision_macro=0.667440, recall_macro=0.685344, f1_micro=0.687223, precision_micro=0.687223, recall_micro=0.687223, NMI=0.475764, ADJ_RAND_SCORE=0.466420
+Epoch: 0054
+ACC=0.689439, f1_macro=0.660521, precision_macro=0.670032, recall_macro=0.687084, f1_micro=0.689439, precision_micro=0.689439, recall_micro=0.689439, NMI=0.480005, ADJ_RAND_SCORE=0.471996
+Epoch: 0056
+ACC=0.694239, f1_macro=0.666655, precision_macro=0.675881, recall_macro=0.693741, f1_micro=0.694239, precision_micro=0.694239, recall_micro=0.694239, NMI=0.486407, ADJ_RAND_SCORE=0.477638
+Epoch: 0058
+ACC=0.692024, f1_macro=0.664293, precision_macro=0.673584, recall_macro=0.692456, f1_micro=0.692024, precision_micro=0.692024, recall_micro=0.692024, NMI=0.485877, ADJ_RAND_SCORE=0.475807
+Epoch: 0060
+ACC=0.692024, f1_macro=0.664263, precision_macro=0.673298, recall_macro=0.692223, f1_micro=0.692024, precision_micro=0.692024, recall_micro=0.692024, NMI=0.487278, ADJ_RAND_SCORE=0.476981
+Epoch: 0062
+ACC=0.687962, f1_macro=0.661875, precision_macro=0.670494, recall_macro=0.690448, f1_micro=0.687962, precision_micro=0.687962, recall_micro=0.687962, NMI=0.486019, ADJ_RAND_SCORE=0.469873
+Epoch: 0064
+ACC=0.685377, f1_macro=0.660196, precision_macro=0.668018, recall_macro=0.689072, f1_micro=0.685377, precision_micro=0.685377, recall_micro=0.685377, NMI=0.483700, ADJ_RAND_SCORE=0.466106
+Epoch: 0066
+ACC=0.685377, f1_macro=0.660820, precision_macro=0.669242, recall_macro=0.689923, f1_micro=0.685377, precision_micro=0.685377, recall_micro=0.685377, NMI=0.486498, ADJ_RAND_SCORE=0.465915
+Epoch: 0068
+ACC=0.685746, f1_macro=0.661161, precision_macro=0.668827, recall_macro=0.689714, f1_micro=0.685746, precision_micro=0.685746, recall_micro=0.685746, NMI=0.490878, ADJ_RAND_SCORE=0.468294
+Epoch: 0070
+ACC=0.685007, f1_macro=0.661263, precision_macro=0.669696, recall_macro=0.689776, f1_micro=0.685007, precision_micro=0.685007, recall_micro=0.685007, NMI=0.492026, ADJ_RAND_SCORE=0.466783
+Epoch: 0072
+ACC=0.692762, f1_macro=0.665649, precision_macro=0.692172, recall_macro=0.692934, f1_micro=0.692762, precision_micro=0.692762, recall_micro=0.692762, NMI=0.498171, ADJ_RAND_SCORE=0.476023
+Epoch: 0074
+ACC=0.641802, f1_macro=0.618446, precision_macro=0.631528, recall_macro=0.650510, f1_micro=0.641802, precision_micro=0.641802, recall_micro=0.641802, NMI=0.471958, ADJ_RAND_SCORE=0.428332
+Epoch: 0076
+ACC=0.643648, f1_macro=0.610845, precision_macro=0.618862, recall_macro=0.622502, f1_micro=0.643648, precision_micro=0.643648, recall_micro=0.643648, NMI=0.471990, ADJ_RAND_SCORE=0.427553
+Epoch: 0078
+ACC=0.641064, f1_macro=0.608890, precision_macro=0.616778, recall_macro=0.620384, f1_micro=0.641064, precision_micro=0.641064, recall_micro=0.641064, NMI=0.469387, ADJ_RAND_SCORE=0.423681
+Epoch: 0080
+ACC=0.639956, f1_macro=0.608293, precision_macro=0.616474, recall_macro=0.620408, f1_micro=0.639956, precision_micro=0.639956, recall_micro=0.639956, NMI=0.467713, ADJ_RAND_SCORE=0.421547
+Epoch: 0082
+ACC=0.638479, f1_macro=0.607748, precision_macro=0.616530, recall_macro=0.619654, f1_micro=0.638479, precision_micro=0.638479, recall_micro=0.638479, NMI=0.467694, ADJ_RAND_SCORE=0.418261
+Epoch: 0084
+ACC=0.637001, f1_macro=0.606961, precision_macro=0.616618, recall_macro=0.618896, f1_micro=0.637001, precision_micro=0.637001, recall_micro=0.637001, NMI=0.467452, ADJ_RAND_SCORE=0.417331
+Epoch: 0086
+ACC=0.638848, f1_macro=0.609951, precision_macro=0.619688, recall_macro=0.622341, f1_micro=0.638848, precision_micro=0.638848, recall_micro=0.638848, NMI=0.467667, ADJ_RAND_SCORE=0.417715
+Epoch: 0088
+ACC=0.638109, f1_macro=0.609802, precision_macro=0.619933, recall_macro=0.621991, f1_micro=0.638109, precision_micro=0.638109, recall_micro=0.638109, NMI=0.467509, ADJ_RAND_SCORE=0.416417
+Epoch: 0090
+ACC=0.634417, f1_macro=0.606701, precision_macro=0.616221, recall_macro=0.619387, f1_micro=0.634417, precision_micro=0.634417, recall_micro=0.634417, NMI=0.462292, ADJ_RAND_SCORE=0.410730
+Epoch: 0092
+ACC=0.633678, f1_macro=0.606360, precision_macro=0.615604, recall_macro=0.619425, f1_micro=0.633678, precision_micro=0.633678, recall_micro=0.633678, NMI=0.460297, ADJ_RAND_SCORE=0.409077
+Epoch: 0094
+ACC=0.634047, f1_macro=0.606928, precision_macro=0.615952, recall_macro=0.620107, f1_micro=0.634047, precision_micro=0.634047, recall_micro=0.634047, NMI=0.463409, ADJ_RAND_SCORE=0.410413
+Epoch: 0096
+ACC=0.634417, f1_macro=0.608277, precision_macro=0.617323, recall_macro=0.621928, f1_micro=0.634417, precision_micro=0.634417, recall_micro=0.634417, NMI=0.464899, ADJ_RAND_SCORE=0.409396
+Epoch: 0098
+ACC=0.632201, f1_macro=0.614747, precision_macro=0.624563, recall_macro=0.646414, f1_micro=0.632201, precision_micro=0.632201, recall_micro=0.632201, NMI=0.462086, ADJ_RAND_SCORE=0.408086
+Epoch: 0100
+ACC=0.629616, f1_macro=0.612201, precision_macro=0.621570, recall_macro=0.643263, f1_micro=0.629616, precision_micro=0.629616, recall_micro=0.629616, NMI=0.461076, ADJ_RAND_SCORE=0.406148
+
+Clustering on dataset: citeseer, model: arvga, number of iteration: 100
+Epoch: 0002
+ACC=0.253983, f1_macro=0.245416, precision_macro=0.263871, recall_macro=0.247224, f1_micro=0.253983, precision_micro=0.253983, recall_micro=0.253983, NMI=0.049313, ADJ_RAND_SCORE=0.028466
+Epoch: 0004
+ACC=0.263901, f1_macro=0.248657, precision_macro=0.260189, recall_macro=0.245060, f1_micro=0.263901, precision_micro=0.263901, recall_micro=0.263901, NMI=0.049372, ADJ_RAND_SCORE=0.035692
+Epoch: 0006
+ACC=0.273820, f1_macro=0.255681, precision_macro=0.264829, recall_macro=0.251813, f1_micro=0.273820, precision_micro=0.273820, recall_micro=0.273820, NMI=0.055570, ADJ_RAND_SCORE=0.041833
+Epoch: 0008
+ACC=0.298768, f1_macro=0.273125, precision_macro=0.280499, recall_macro=0.270842, f1_micro=0.298768, precision_micro=0.298768, recall_micro=0.298768, NMI=0.079945, ADJ_RAND_SCORE=0.058330
+Epoch: 0010
+ACC=0.303577, f1_macro=0.271314, precision_macro=0.266736, recall_macro=0.283957, f1_micro=0.303577, precision_micro=0.303577, recall_micro=0.303577, NMI=0.100707, ADJ_RAND_SCORE=0.074851
+Epoch: 0012
+ACC=0.313496, f1_macro=0.283042, precision_macro=0.291173, recall_macro=0.280965, f1_micro=0.313496, precision_micro=0.313496, recall_micro=0.313496, NMI=0.118329, ADJ_RAND_SCORE=0.076046
+Epoch: 0014
+ACC=0.344755, f1_macro=0.310149, precision_macro=0.320787, recall_macro=0.310696, f1_micro=0.344755, precision_micro=0.344755, recall_micro=0.344755, NMI=0.142677, ADJ_RAND_SCORE=0.090472
+Epoch: 0016
+ACC=0.358882, f1_macro=0.326332, precision_macro=0.333720, recall_macro=0.325211, f1_micro=0.358882, precision_micro=0.358882, recall_micro=0.358882, NMI=0.158831, ADJ_RAND_SCORE=0.105620
+Epoch: 0018
+ACC=0.367598, f1_macro=0.335355, precision_macro=0.340110, recall_macro=0.334832, f1_micro=0.367598, precision_micro=0.367598, recall_micro=0.367598, NMI=0.175720, ADJ_RAND_SCORE=0.120541
+Epoch: 0020
+ACC=0.387436, f1_macro=0.354261, precision_macro=0.358515, recall_macro=0.353639, f1_micro=0.387436, precision_micro=0.387436, recall_micro=0.387436, NMI=0.188856, ADJ_RAND_SCORE=0.133687
+Epoch: 0022
+ACC=0.397355, f1_macro=0.359474, precision_macro=0.360146, recall_macro=0.363975, f1_micro=0.397355, precision_micro=0.397355, recall_micro=0.397355, NMI=0.201582, ADJ_RAND_SCORE=0.150610
+Epoch: 0024
+ACC=0.394349, f1_macro=0.392553, precision_macro=0.421951, recall_macro=0.379906, f1_micro=0.394349, precision_micro=0.394349, recall_micro=0.394349, NMI=0.212412, ADJ_RAND_SCORE=0.153156
+Epoch: 0026
+ACC=0.406372, f1_macro=0.397112, precision_macro=0.419170, recall_macro=0.401381, f1_micro=0.406372, precision_micro=0.406372, recall_micro=0.406372, NMI=0.211694, ADJ_RAND_SCORE=0.168529
+Epoch: 0028
+ACC=0.411482, f1_macro=0.394697, precision_macro=0.405093, recall_macro=0.395070, f1_micro=0.411482, precision_micro=0.411482, recall_micro=0.411482, NMI=0.212734, ADJ_RAND_SCORE=0.173796
+Epoch: 0030
+ACC=0.430117, f1_macro=0.411260, precision_macro=0.412269, recall_macro=0.415905, f1_micro=0.430117, precision_micro=0.430117, recall_micro=0.430117, NMI=0.216373, ADJ_RAND_SCORE=0.185458
+Epoch: 0032
+ACC=0.437631, f1_macro=0.416781, precision_macro=0.416479, recall_macro=0.422504, f1_micro=0.437631, precision_micro=0.437631, recall_micro=0.437631, NMI=0.220963, ADJ_RAND_SCORE=0.192932
+Epoch: 0034
+ACC=0.441539, f1_macro=0.420600, precision_macro=0.426946, recall_macro=0.429429, f1_micro=0.441539, precision_micro=0.441539, recall_micro=0.441539, NMI=0.224684, ADJ_RAND_SCORE=0.201907
+Epoch: 0036
+ACC=0.444545, f1_macro=0.422416, precision_macro=0.436302, recall_macro=0.429166, f1_micro=0.444545, precision_micro=0.444545, recall_micro=0.444545, NMI=0.227573, ADJ_RAND_SCORE=0.203035
+Epoch: 0038
+ACC=0.441238, f1_macro=0.417895, precision_macro=0.428155, recall_macro=0.425296, f1_micro=0.441238, precision_micro=0.441238, recall_micro=0.441238, NMI=0.226444, ADJ_RAND_SCORE=0.202599
+Epoch: 0040
+ACC=0.441539, f1_macro=0.418597, precision_macro=0.430015, recall_macro=0.427386, f1_micro=0.441539, precision_micro=0.441539, recall_micro=0.441539, NMI=0.226965, ADJ_RAND_SCORE=0.202186
+Epoch: 0042
+ACC=0.476105, f1_macro=0.451219, precision_macro=0.468305, recall_macro=0.452997, f1_micro=0.476105, precision_micro=0.476105, recall_micro=0.476105, NMI=0.244742, ADJ_RAND_SCORE=0.208750
+Epoch: 0044
+ACC=0.492636, f1_macro=0.465695, precision_macro=0.491963, recall_macro=0.482377, f1_micro=0.492636, precision_micro=0.492636, recall_micro=0.492636, NMI=0.251820, ADJ_RAND_SCORE=0.226387
+Epoch: 0046
+ACC=0.495041, f1_macro=0.469750, precision_macro=0.497690, recall_macro=0.484705, f1_micro=0.495041, precision_micro=0.495041, recall_micro=0.495041, NMI=0.250855, ADJ_RAND_SCORE=0.223584
+Epoch: 0048
+ACC=0.510971, f1_macro=0.484974, precision_macro=0.503789, recall_macro=0.499442, f1_micro=0.510971, precision_micro=0.510971, recall_micro=0.510971, NMI=0.257879, ADJ_RAND_SCORE=0.243237
+Epoch: 0050
+ACC=0.513676, f1_macro=0.487825, precision_macro=0.507382, recall_macro=0.500492, f1_micro=0.513676, precision_micro=0.513676, recall_micro=0.513676, NMI=0.256105, ADJ_RAND_SCORE=0.240717
+Epoch: 0052
+ACC=0.511873, f1_macro=0.488227, precision_macro=0.506294, recall_macro=0.499075, f1_micro=0.511873, precision_micro=0.511873, recall_micro=0.511873, NMI=0.254226, ADJ_RAND_SCORE=0.237248
+Epoch: 0054
+ACC=0.522393, f1_macro=0.494653, precision_macro=0.512232, recall_macro=0.500918, f1_micro=0.522393, precision_micro=0.522393, recall_micro=0.522393, NMI=0.251663, ADJ_RAND_SCORE=0.239980
+Epoch: 0056
+ACC=0.502855, f1_macro=0.479794, precision_macro=0.498158, recall_macro=0.486357, f1_micro=0.502855, precision_micro=0.502855, recall_micro=0.502855, NMI=0.251302, ADJ_RAND_SCORE=0.225990
+Epoch: 0058
+ACC=0.493538, f1_macro=0.451319, precision_macro=0.454798, recall_macro=0.452498, f1_micro=0.493538, precision_micro=0.493538, recall_micro=0.493538, NMI=0.247397, ADJ_RAND_SCORE=0.217568
+Epoch: 0060
+ACC=0.498948, f1_macro=0.456018, precision_macro=0.458896, recall_macro=0.457450, f1_micro=0.498948, precision_micro=0.498948, recall_micro=0.498948, NMI=0.249493, ADJ_RAND_SCORE=0.220002
+Epoch: 0062
+ACC=0.487526, f1_macro=0.461192, precision_macro=0.471845, recall_macro=0.457212, f1_micro=0.487526, precision_micro=0.487526, recall_micro=0.487526, NMI=0.227327, ADJ_RAND_SCORE=0.206130
+Epoch: 0064
+ACC=0.470093, f1_macro=0.447858, precision_macro=0.461479, recall_macro=0.444548, f1_micro=0.470093, precision_micro=0.470093, recall_micro=0.470093, NMI=0.222622, ADJ_RAND_SCORE=0.193679
+Epoch: 0066
+ACC=0.478810, f1_macro=0.451790, precision_macro=0.463177, recall_macro=0.446684, f1_micro=0.478810, precision_micro=0.478810, recall_micro=0.478810, NMI=0.228545, ADJ_RAND_SCORE=0.203758
+Epoch: 0068
+ACC=0.456267, f1_macro=0.439128, precision_macro=0.455814, recall_macro=0.440759, f1_micro=0.456267, precision_micro=0.456267, recall_micro=0.456267, NMI=0.225821, ADJ_RAND_SCORE=0.191285
+Epoch: 0070
+ACC=0.465885, f1_macro=0.432361, precision_macro=0.441340, recall_macro=0.427724, f1_micro=0.465885, precision_micro=0.465885, recall_micro=0.465885, NMI=0.226037, ADJ_RAND_SCORE=0.191909
+Epoch: 0072
+ACC=0.455666, f1_macro=0.424387, precision_macro=0.435332, recall_macro=0.418160, f1_micro=0.455666, precision_micro=0.455666, recall_micro=0.455666, NMI=0.224119, ADJ_RAND_SCORE=0.190534
+Epoch: 0074
+ACC=0.466787, f1_macro=0.432704, precision_macro=0.442232, recall_macro=0.427767, f1_micro=0.466787, precision_micro=0.466787, recall_micro=0.466787, NMI=0.226232, ADJ_RAND_SCORE=0.192447
+Epoch: 0076
+ACC=0.449354, f1_macro=0.426561, precision_macro=0.442213, recall_macro=0.426663, f1_micro=0.449354, precision_micro=0.449354, recall_micro=0.449354, NMI=0.217780, ADJ_RAND_SCORE=0.185112
+Epoch: 0078
+ACC=0.451157, f1_macro=0.417184, precision_macro=0.429076, recall_macro=0.411735, f1_micro=0.451157, precision_micro=0.451157, recall_micro=0.451157, NMI=0.221701, ADJ_RAND_SCORE=0.185767
+Epoch: 0080
+ACC=0.441539, f1_macro=0.411235, precision_macro=0.428204, recall_macro=0.402840, f1_micro=0.441539, precision_micro=0.441539, recall_micro=0.441539, NMI=0.211961, ADJ_RAND_SCORE=0.175021
+Epoch: 0082
+ACC=0.437932, f1_macro=0.412334, precision_macro=0.422245, recall_macro=0.410430, f1_micro=0.437932, precision_micro=0.437932, recall_micro=0.437932, NMI=0.206213, ADJ_RAND_SCORE=0.172772
+Epoch: 0084
+ACC=0.442741, f1_macro=0.415993, precision_macro=0.431996, recall_macro=0.413390, f1_micro=0.442741, precision_micro=0.442741, recall_micro=0.442741, NMI=0.208543, ADJ_RAND_SCORE=0.178632
+Epoch: 0086
+ACC=0.449654, f1_macro=0.423620, precision_macro=0.441168, recall_macro=0.420291, f1_micro=0.449654, precision_micro=0.449654, recall_micro=0.449654, NMI=0.212068, ADJ_RAND_SCORE=0.180365
+Epoch: 0088
+ACC=0.454764, f1_macro=0.430582, precision_macro=0.448652, recall_macro=0.425305, f1_micro=0.454764, precision_micro=0.454764, recall_micro=0.454764, NMI=0.213308, ADJ_RAND_SCORE=0.182394
+Epoch: 0090
+ACC=0.456267, f1_macro=0.430088, precision_macro=0.447331, recall_macro=0.425200, f1_micro=0.456267, precision_micro=0.456267, recall_micro=0.456267, NMI=0.217404, ADJ_RAND_SCORE=0.183878
+Epoch: 0092
+ACC=0.458671, f1_macro=0.432538, precision_macro=0.450656, recall_macro=0.427859, f1_micro=0.458671, precision_micro=0.458671, recall_micro=0.458671, NMI=0.216322, ADJ_RAND_SCORE=0.183718
+Epoch: 0094
+ACC=0.471596, f1_macro=0.456930, precision_macro=0.494587, recall_macro=0.445247, f1_micro=0.471596, precision_micro=0.471596, recall_micro=0.471596, NMI=0.219424, ADJ_RAND_SCORE=0.192195
+Epoch: 0096
+ACC=0.469191, f1_macro=0.456301, precision_macro=0.497452, recall_macro=0.443714, f1_micro=0.469191, precision_micro=0.469191, recall_micro=0.469191, NMI=0.214768, ADJ_RAND_SCORE=0.186009
+Epoch: 0098
+ACC=0.456267, f1_macro=0.444316, precision_macro=0.485159, recall_macro=0.432940, f1_micro=0.456267, precision_micro=0.456267, recall_micro=0.456267, NMI=0.202194, ADJ_RAND_SCORE=0.172942
+Epoch: 0100
+ACC=0.443643, f1_macro=0.433771, precision_macro=0.477907, recall_macro=0.420773, f1_micro=0.443643, precision_micro=0.443643, recall_micro=0.443643, NMI=0.197335, ADJ_RAND_SCORE=0.164724
+
+Epoch: 0001 train_loss= 0.74299 val_roc= 0.71473 val_ap= 0.73447
+Epoch: 0002 train_loss= 0.71789 val_roc= 0.75902 val_ap= 0.77248
+Epoch: 0003 train_loss= 0.70576 val_roc= 0.75729 val_ap= 0.75810
+Epoch: 0004 train_loss= 0.68149 val_roc= 0.78399 val_ap= 0.78386
+Epoch: 0005 train_loss= 0.65235 val_roc= 0.84505 val_ap= 0.84159
+Epoch: 0006 train_loss= 0.62278 val_roc= 0.86566 val_ap= 0.85244
+Epoch: 0007 train_loss= 0.59032 val_roc= 0.88000 val_ap= 0.86825
+Epoch: 0008 train_loss= 0.55898 val_roc= 0.88340 val_ap= 0.87006
+Epoch: 0009 train_loss= 0.53344 val_roc= 0.88026 val_ap= 0.86560
+Epoch: 0010 train_loss= 0.51291 val_roc= 0.87993 val_ap= 0.86706
+Test ROC score: 0.8866340929467214
+Test AP score: 0.8840301006320008
+Epoch: 0011 train_loss= 0.49865 val_roc= 0.89020 val_ap= 0.87702
+Epoch: 0012 train_loss= 0.48901 val_roc= 0.89263 val_ap= 0.87986
+Epoch: 0013 train_loss= 0.48169 val_roc= 0.88927 val_ap= 0.87679
+Epoch: 0014 train_loss= 0.47582 val_roc= 0.89877 val_ap= 0.88747
+Epoch: 0015 train_loss= 0.47163 val_roc= 0.90097 val_ap= 0.88757
+Epoch: 0016 train_loss= 0.46756 val_roc= 0.89942 val_ap= 0.88382
+Epoch: 0017 train_loss= 0.46470 val_roc= 0.90231 val_ap= 0.88794
+Epoch: 0018 train_loss= 0.46124 val_roc= 0.90792 val_ap= 0.88777
+Epoch: 0019 train_loss= 0.45901 val_roc= 0.90838 val_ap= 0.89042
+Epoch: 0020 train_loss= 0.45692 val_roc= 0.91411 val_ap= 0.89453
+Test ROC score: 0.9131239445646656
+Test AP score: 0.9134373810179873
+Epoch: 0021 train_loss= 0.45415 val_roc= 0.91933 val_ap= 0.89762
+Epoch: 0022 train_loss= 0.45289 val_roc= 0.92134 val_ap= 0.89866
+Epoch: 0023 train_loss= 0.45132 val_roc= 0.91521 val_ap= 0.89496
+Epoch: 0024 train_loss= 0.44993 val_roc= 0.91979 val_ap= 0.89607
+Epoch: 0025 train_loss= 0.44804 val_roc= 0.92219 val_ap= 0.89872
+Epoch: 0026 train_loss= 0.44655 val_roc= 0.92371 val_ap= 0.90223
+Epoch: 0027 train_loss= 0.44517 val_roc= 0.92127 val_ap= 0.89729
+Epoch: 0028 train_loss= 0.44399 val_roc= 0.92455 val_ap= 0.90440
+Epoch: 0029 train_loss= 0.44268 val_roc= 0.92200 val_ap= 0.90353
+Epoch: 0030 train_loss= 0.44157 val_roc= 0.92166 val_ap= 0.89902
+Test ROC score: 0.9187913397592619
+Test AP score: 0.9201612579555125
+Epoch: 0031 train_loss= 0.44004 val_roc= 0.92382 val_ap= 0.90502
+Epoch: 0032 train_loss= 0.43880 val_roc= 0.91686 val_ap= 0.89964
+Epoch: 0033 train_loss= 0.43745 val_roc= 0.92589 val_ap= 0.90709
+Epoch: 0034 train_loss= 0.43627 val_roc= 0.92459 val_ap= 0.90755
+Epoch: 0035 train_loss= 0.43524 val_roc= 0.92646 val_ap= 0.90903
+Epoch: 0036 train_loss= 0.43458 val_roc= 0.92352 val_ap= 0.90447
+Epoch: 0037 train_loss= 0.43329 val_roc= 0.92579 val_ap= 0.90901
+Epoch: 0038 train_loss= 0.43239 val_roc= 0.92994 val_ap= 0.90950
+Epoch: 0039 train_loss= 0.43126 val_roc= 0.93238 val_ap= 0.91560
+Epoch: 0040 train_loss= 0.43084 val_roc= 0.93024 val_ap= 0.91493
+Test ROC score: 0.9126270573112638
+Test AP score: 0.9185286859482352
+Epoch: 0041 train_loss= 0.42970 val_roc= 0.93029 val_ap= 0.91147
+Epoch: 0042 train_loss= 0.42900 val_roc= 0.92981 val_ap= 0.91534
+Epoch: 0043 train_loss= 0.42790 val_roc= 0.92851 val_ap= 0.91408
+Epoch: 0044 train_loss= 0.42767 val_roc= 0.92867 val_ap= 0.91639
+Epoch: 0045 train_loss= 0.42674 val_roc= 0.92997 val_ap= 0.91528
+Epoch: 0046 train_loss= 0.42581 val_roc= 0.93555 val_ap= 0.91793
+Epoch: 0047 train_loss= 0.42529 val_roc= 0.92906 val_ap= 0.91488
+Epoch: 0048 train_loss= 0.42461 val_roc= 0.92906 val_ap= 0.91489
+Epoch: 0049 train_loss= 0.42414 val_roc= 0.93254 val_ap= 0.91883
+Epoch: 0050 train_loss= 0.42370 val_roc= 0.93094 val_ap= 0.91700
+Test ROC score: 0.9114964587781615
+Test AP score: 0.9197592464922129
+Epoch: 0051 train_loss= 0.42308 val_roc= 0.92959 val_ap= 0.91645
+Epoch: 0052 train_loss= 0.42262 val_roc= 0.92930 val_ap= 0.91877
+Epoch: 0053 train_loss= 0.42194 val_roc= 0.92799 val_ap= 0.91374
+Epoch: 0054 train_loss= 0.42163 val_roc= 0.92508 val_ap= 0.91154
+Epoch: 0055 train_loss= 0.42120 val_roc= 0.93154 val_ap= 0.91997
+Epoch: 0056 train_loss= 0.42055 val_roc= 0.93098 val_ap= 0.91657
+Epoch: 0057 train_loss= 0.42017 val_roc= 0.93368 val_ap= 0.92117
+Epoch: 0058 train_loss= 0.41972 val_roc= 0.92935 val_ap= 0.91801
+Epoch: 0059 train_loss= 0.41923 val_roc= 0.92828 val_ap= 0.91549
+Epoch: 0060 train_loss= 0.41911 val_roc= 0.93156 val_ap= 0.91770
+Test ROC score: 0.9113416315905072
+Test AP score: 0.9207829610824874
+Epoch: 0061 train_loss= 0.41815 val_roc= 0.93347 val_ap= 0.91933
+Epoch: 0062 train_loss= 0.41797 val_roc= 0.93353 val_ap= 0.92170
+Epoch: 0063 train_loss= 0.41763 val_roc= 0.92897 val_ap= 0.91928
+Epoch: 0064 train_loss= 0.41739 val_roc= 0.92760 val_ap= 0.91857
+Epoch: 0065 train_loss= 0.41683 val_roc= 0.93159 val_ap= 0.92085
+Epoch: 0066 train_loss= 0.41681 val_roc= 0.93770 val_ap= 0.92495
+Epoch: 0067 train_loss= 0.41647 val_roc= 0.93814 val_ap= 0.92550
+Epoch: 0068 train_loss= 0.41591 val_roc= 0.93027 val_ap= 0.92474
+Epoch: 0069 train_loss= 0.41530 val_roc= 0.93250 val_ap= 0.92160
+Epoch: 0070 train_loss= 0.41499 val_roc= 0.93480 val_ap= 0.92312
+Test ROC score: 0.9106827158849093
+Test AP score: 0.9200717176049581
+Epoch: 0071 train_loss= 0.41527 val_roc= 0.93415 val_ap= 0.92223
+Epoch: 0072 train_loss= 0.41455 val_roc= 0.93461 val_ap= 0.92429
+Epoch: 0073 train_loss= 0.41422 val_roc= 0.92735 val_ap= 0.91898
+Epoch: 0074 train_loss= 0.41399 val_roc= 0.93381 val_ap= 0.92279
+Epoch: 0075 train_loss= 0.41362 val_roc= 0.93075 val_ap= 0.92037
+Epoch: 0076 train_loss= 0.41353 val_roc= 0.93564 val_ap= 0.92491
+Epoch: 0077 train_loss= 0.41319 val_roc= 0.93030 val_ap= 0.92240
+Epoch: 0078 train_loss= 0.41276 val_roc= 0.93312 val_ap= 0.92492
+Epoch: 0079 train_loss= 0.41277 val_roc= 0.92978 val_ap= 0.91888
+Epoch: 0080 train_loss= 0.41217 val_roc= 0.93483 val_ap= 0.92542
+Test ROC score: 0.9126270573112639
+Test AP score: 0.9224689885668521
+Epoch: 0081 train_loss= 0.41223 val_roc= 0.93740 val_ap= 0.92696
+Epoch: 0082 train_loss= 0.41196 val_roc= 0.93478 val_ap= 0.92597
+Epoch: 0083 train_loss= 0.41189 val_roc= 0.93023 val_ap= 0.92479
+Epoch: 0084 train_loss= 0.41156 val_roc= 0.94136 val_ap= 0.92997
+Epoch: 0085 train_loss= 0.41120 val_roc= 0.93452 val_ap= 0.92238
+Epoch: 0086 train_loss= 0.41119 val_roc= 0.93182 val_ap= 0.92440
+Epoch: 0087 train_loss= 0.41060 val_roc= 0.92727 val_ap= 0.92216
+Epoch: 0088 train_loss= 0.41064 val_roc= 0.93879 val_ap= 0.92951
+Epoch: 0089 train_loss= 0.41012 val_roc= 0.93646 val_ap= 0.92874
+Epoch: 0090 train_loss= 0.41020 val_roc= 0.93305 val_ap= 0.92517
+Test ROC score: 0.9036038728400708
+Test AP score: 0.919642892320354
+Epoch: 0091 train_loss= 0.40993 val_roc= 0.93572 val_ap= 0.92913
+Epoch: 0092 train_loss= 0.40984 val_roc= 0.93656 val_ap= 0.92779
+Epoch: 0093 train_loss= 0.40942 val_roc= 0.93312 val_ap= 0.92660
+Epoch: 0094 train_loss= 0.40915 val_roc= 0.93289 val_ap= 0.92467
+Epoch: 0095 train_loss= 0.40888 val_roc= 0.93086 val_ap= 0.92393
+Epoch: 0096 train_loss= 0.40864 val_roc= 0.93656 val_ap= 0.92813
+Epoch: 0097 train_loss= 0.40855 val_roc= 0.93431 val_ap= 0.92630
+Epoch: 0098 train_loss= 0.40813 val_roc= 0.93720 val_ap= 0.92771
+Epoch: 0099 train_loss= 0.40795 val_roc= 0.93280 val_ap= 0.92407
+Epoch: 0100 train_loss= 0.40785 val_roc= 0.93832 val_ap= 0.92920
+Test ROC score: 0.9093144756219192
+Test AP score: 0.9258567693734335
+Epoch: 0101 train_loss= 0.40767 val_roc= 0.93238 val_ap= 0.92453
+Epoch: 0102 train_loss= 0.40769 val_roc= 0.93734 val_ap= 0.92719
+Epoch: 0103 train_loss= 0.40715 val_roc= 0.94075 val_ap= 0.92889
+Epoch: 0104 train_loss= 0.40702 val_roc= 0.93818 val_ap= 0.92686
+Epoch: 0105 train_loss= 0.40693 val_roc= 0.93684 val_ap= 0.92580
+Epoch: 0106 train_loss= 0.40640 val_roc= 0.92738 val_ap= 0.92018
+Epoch: 0107 train_loss= 0.40668 val_roc= 0.94094 val_ap= 0.93033
+Epoch: 0108 train_loss= 0.40648 val_roc= 0.94084 val_ap= 0.92952
+Epoch: 0109 train_loss= 0.40621 val_roc= 0.93623 val_ap= 0.92611
+Epoch: 0110 train_loss= 0.40608 val_roc= 0.94414 val_ap= 0.93101
+Test ROC score: 0.9075141594864058
+Test AP score: 0.9227902937905909
+Epoch: 0111 train_loss= 0.40589 val_roc= 0.93767 val_ap= 0.92724
+Epoch: 0112 train_loss= 0.40574 val_roc= 0.93873 val_ap= 0.93154
+Epoch: 0113 train_loss= 0.40596 val_roc= 0.94101 val_ap= 0.93206
+Epoch: 0114 train_loss= 0.40549 val_roc= 0.93730 val_ap= 0.93228
+Epoch: 0115 train_loss= 0.40556 val_roc= 0.93590 val_ap= 0.92895
+Epoch: 0116 train_loss= 0.40547 val_roc= 0.93698 val_ap= 0.92655
+Epoch: 0117 train_loss= 0.40508 val_roc= 0.94048 val_ap= 0.93531
+Epoch: 0118 train_loss= 0.40515 val_roc= 0.93775 val_ap= 0.93041
+Epoch: 0119 train_loss= 0.40507 val_roc= 0.93355 val_ap= 0.92731
+Epoch: 0120 train_loss= 0.40506 val_roc= 0.93543 val_ap= 0.93175
+Test ROC score: 0.9043312005588182
+Test AP score: 0.9228196081724264
+Epoch: 0121 train_loss= 0.40481 val_roc= 0.94072 val_ap= 0.93425
+Epoch: 0122 train_loss= 0.40458 val_roc= 0.94023 val_ap= 0.93246
+Epoch: 0123 train_loss= 0.40445 val_roc= 0.93772 val_ap= 0.93267
+Epoch: 0124 train_loss= 0.40471 val_roc= 0.93393 val_ap= 0.92612
+Epoch: 0125 train_loss= 0.40452 val_roc= 0.93363 val_ap= 0.92827
+Epoch: 0126 train_loss= 0.40417 val_roc= 0.93630 val_ap= 0.93206
+Epoch: 0127 train_loss= 0.40446 val_roc= 0.93720 val_ap= 0.93131
+Epoch: 0128 train_loss= 0.40408 val_roc= 0.93264 val_ap= 0.92771
+Epoch: 0129 train_loss= 0.40413 val_roc= 0.93358 val_ap= 0.93193
+Epoch: 0130 train_loss= 0.40390 val_roc= 0.93069 val_ap= 0.92879
+Test ROC score: 0.9015299086519591
+Test AP score: 0.9196008319387259
+Epoch: 0131 train_loss= 0.40395 val_roc= 0.93338 val_ap= 0.93039
+Epoch: 0132 train_loss= 0.40403 val_roc= 0.93446 val_ap= 0.93310
+Epoch: 0133 train_loss= 0.40410 val_roc= 0.93717 val_ap= 0.93446
+Epoch: 0134 train_loss= 0.40373 val_roc= 0.93196 val_ap= 0.93051
+Epoch: 0135 train_loss= 0.40367 val_roc= 0.93361 val_ap= 0.93206
+Epoch: 0136 train_loss= 0.40385 val_roc= 0.92925 val_ap= 0.92857
+Epoch: 0137 train_loss= 0.40352 val_roc= 0.92946 val_ap= 0.92861
+Epoch: 0138 train_loss= 0.40369 val_roc= 0.93731 val_ap= 0.93228
+Epoch: 0139 train_loss= 0.40366 val_roc= 0.93130 val_ap= 0.92869
+Epoch: 0140 train_loss= 0.40369 val_roc= 0.93095 val_ap= 0.93222
+Test ROC score: 0.9060270983584717
+Test AP score: 0.9237644098808305
+Epoch: 0141 train_loss= 0.40365 val_roc= 0.93286 val_ap= 0.92994
+Epoch: 0142 train_loss= 0.40380 val_roc= 0.92722 val_ap= 0.92748
+Epoch: 0143 train_loss= 0.40375 val_roc= 0.93406 val_ap= 0.92985
+Epoch: 0144 train_loss= 0.40368 val_roc= 0.93100 val_ap= 0.92883
+Epoch: 0145 train_loss= 0.40364 val_roc= 0.92995 val_ap= 0.92693
+Epoch: 0146 train_loss= 0.40358 val_roc= 0.92929 val_ap= 0.92500
+Epoch: 0147 train_loss= 0.40359 val_roc= 0.93050 val_ap= 0.92903
+Epoch: 0148 train_loss= 0.40364 val_roc= 0.93144 val_ap= 0.93018
+Epoch: 0149 train_loss= 0.40366 val_roc= 0.92510 val_ap= 0.92570
+Epoch: 0150 train_loss= 0.40354 val_roc= 0.92332 val_ap= 0.92558
+Test ROC score: 0.9079210309330319
+Test AP score: 0.923626006810382
+Epoch: 0151 train_loss= 0.40371 val_roc= 0.92977 val_ap= 0.92774
+Epoch: 0152 train_loss= 0.40346 val_roc= 0.93344 val_ap= 0.93088
+Epoch: 0153 train_loss= 0.40356 val_roc= 0.92528 val_ap= 0.92723
+Epoch: 0154 train_loss= 0.40385 val_roc= 0.93668 val_ap= 0.93140
+Epoch: 0155 train_loss= 0.40373 val_roc= 0.92128 val_ap= 0.92130
+Epoch: 0156 train_loss= 0.40331 val_roc= 0.92735 val_ap= 0.92893
+Epoch: 0157 train_loss= 0.40394 val_roc= 0.93131 val_ap= 0.93221
+Epoch: 0158 train_loss= 0.40338 val_roc= 0.92878 val_ap= 0.92903
+Epoch: 0159 train_loss= 0.40347 val_roc= 0.92835 val_ap= 0.92847
+Epoch: 0160 train_loss= 0.40361 val_roc= 0.93248 val_ap= 0.93068
+Test ROC score: 0.9089580130270878
+Test AP score: 0.9239463599040861
+Epoch: 0161 train_loss= 0.40369 val_roc= 0.92799 val_ap= 0.93097
+Epoch: 0162 train_loss= 0.40358 val_roc= 0.92836 val_ap= 0.92654
+Epoch: 0163 train_loss= 0.40374 val_roc= 0.92583 val_ap= 0.92541
+Epoch: 0164 train_loss= 0.40370 val_roc= 0.92615 val_ap= 0.92800
+Epoch: 0165 train_loss= 0.40328 val_roc= 0.93481 val_ap= 0.92910
+Epoch: 0166 train_loss= 0.40350 val_roc= 0.92972 val_ap= 0.92697
+Epoch: 0167 train_loss= 0.40345 val_roc= 0.92502 val_ap= 0.92358
+Epoch: 0168 train_loss= 0.40353 val_roc= 0.92803 val_ap= 0.92965
+Epoch: 0169 train_loss= 0.40321 val_roc= 0.93167 val_ap= 0.92706
+Epoch: 0170 train_loss= 0.40348 val_roc= 0.93303 val_ap= 0.93112
+Test ROC score: 0.9043888106751545
+Test AP score: 0.9218837204953725
+Epoch: 0171 train_loss= 0.40341 val_roc= 0.93260 val_ap= 0.92839
+Epoch: 0172 train_loss= 0.40341 val_roc= 0.92965 val_ap= 0.92722
+Epoch: 0173 train_loss= 0.40356 val_roc= 0.93546 val_ap= 0.92997
+Epoch: 0174 train_loss= 0.40319 val_roc= 0.93037 val_ap= 0.92712
+Epoch: 0175 train_loss= 0.40326 val_roc= 0.92544 val_ap= 0.92416
+Epoch: 0176 train_loss= 0.40336 val_roc= 0.92621 val_ap= 0.92599
+Epoch: 0177 train_loss= 0.40328 val_roc= 0.92742 val_ap= 0.92714
+Epoch: 0178 train_loss= 0.40345 val_roc= 0.93195 val_ap= 0.92818
+Epoch: 0179 train_loss= 0.40341 val_roc= 0.92969 val_ap= 0.92619
+Epoch: 0180 train_loss= 0.40328 val_roc= 0.93139 val_ap= 0.92653
+Test ROC score: 0.9086807643422186
+Test AP score: 0.9244456526954793
+Epoch: 0181 train_loss= 0.40351 val_roc= 0.92991 val_ap= 0.92799
+Epoch: 0182 train_loss= 0.40309 val_roc= 0.92809 val_ap= 0.92507
+Epoch: 0183 train_loss= 0.40349 val_roc= 0.93684 val_ap= 0.93242
+Epoch: 0184 train_loss= 0.40332 val_roc= 0.93166 val_ap= 0.92573
+Epoch: 0185 train_loss= 0.40352 val_roc= 0.93506 val_ap= 0.93015
+Epoch: 0186 train_loss= 0.40366 val_roc= 0.93134 val_ap= 0.92937
+Epoch: 0187 train_loss= 0.40345 val_roc= 0.92648 val_ap= 0.92502
+Epoch: 0188 train_loss= 0.40354 val_roc= 0.93115 val_ap= 0.92791
+Epoch: 0189 train_loss= 0.40342 val_roc= 0.93400 val_ap= 0.93271
+Epoch: 0190 train_loss= 0.40341 val_roc= 0.92925 val_ap= 0.92817
+Test ROC score: 0.9097105451717321
+Test AP score: 0.9255116932564502
+Epoch: 0191 train_loss= 0.40358 val_roc= 0.92967 val_ap= 0.92803
+Epoch: 0192 train_loss= 0.40344 val_roc= 0.93367 val_ap= 0.93090
+Epoch: 0193 train_loss= 0.40344 val_roc= 0.93062 val_ap= 0.93049
+Epoch: 0194 train_loss= 0.40341 val_roc= 0.93259 val_ap= 0.93117
+Epoch: 0195 train_loss= 0.40355 val_roc= 0.93530 val_ap= 0.93071
+Epoch: 0196 train_loss= 0.40339 val_roc= 0.93736 val_ap= 0.93333
+Epoch: 0197 train_loss= 0.40326 val_roc= 0.93227 val_ap= 0.93087
+Epoch: 0198 train_loss= 0.40333 val_roc= 0.93954 val_ap= 0.93448
+Epoch: 0199 train_loss= 0.40308 val_roc= 0.92913 val_ap= 0.92580
+Epoch: 0200 train_loss= 0.40321 val_roc= 0.93577 val_ap= 0.93302
+Test ROC score: 0.9120329529865444
+Test AP score: 0.9244755720560196
+Epoch: 0201 train_loss= 0.40354 val_roc= 0.93909 val_ap= 0.93711
+Epoch: 0202 train_loss= 0.40341 val_roc= 0.93159 val_ap= 0.93150
+Epoch: 0203 train_loss= 0.40309 val_roc= 0.93338 val_ap= 0.93245
+Epoch: 0204 train_loss= 0.40326 val_roc= 0.92627 val_ap= 0.92828
+Epoch: 0205 train_loss= 0.40287 val_roc= 0.93379 val_ap= 0.92853
+Epoch: 0206 train_loss= 0.40337 val_roc= 0.92731 val_ap= 0.92835
+Epoch: 0207 train_loss= 0.40312 val_roc= 0.93027 val_ap= 0.92584
+Epoch: 0208 train_loss= 0.40315 val_roc= 0.92982 val_ap= 0.92921
+Epoch: 0209 train_loss= 0.40330 val_roc= 0.92881 val_ap= 0.92983
+Epoch: 0210 train_loss= 0.40298 val_roc= 0.93431 val_ap= 0.93147
+Test ROC score: 0.9124182206395443
+Test AP score: 0.9260386860592846
+Epoch: 0211 train_loss= 0.40348 val_roc= 0.93501 val_ap= 0.93363
+Epoch: 0212 train_loss= 0.40329 val_roc= 0.93410 val_ap= 0.93151
+Epoch: 0213 train_loss= 0.40305 val_roc= 0.93059 val_ap= 0.92746
+Epoch: 0214 train_loss= 0.40320 val_roc= 0.93079 val_ap= 0.92869
+Epoch: 0215 train_loss= 0.40329 val_roc= 0.93475 val_ap= 0.93159
+Epoch: 0216 train_loss= 0.40294 val_roc= 0.92842 val_ap= 0.92696
+Epoch: 0217 train_loss= 0.40326 val_roc= 0.93100 val_ap= 0.92684
+Epoch: 0218 train_loss= 0.40294 val_roc= 0.93387 val_ap= 0.93263
+Epoch: 0219 train_loss= 0.40318 val_roc= 0.92585 val_ap= 0.92448
+Epoch: 0220 train_loss= 0.40294 val_roc= 0.92987 val_ap= 0.92679
+Test ROC score: 0.9139808950451699
+Test AP score: 0.9273692839610153
+Epoch: 0221 train_loss= 0.40290 val_roc= 0.93380 val_ap= 0.92939
+Epoch: 0222 train_loss= 0.40296 val_roc= 0.93473 val_ap= 0.93077
+Epoch: 0223 train_loss= 0.40316 val_roc= 0.93001 val_ap= 0.92872
+Epoch: 0224 train_loss= 0.40277 val_roc= 0.93084 val_ap= 0.92883
+Epoch: 0225 train_loss= 0.40279 val_roc= 0.92994 val_ap= 0.92877
+Epoch: 0226 train_loss= 0.40306 val_roc= 0.92689 val_ap= 0.92344
+Epoch: 0227 train_loss= 0.40292 val_roc= 0.93062 val_ap= 0.92301
+Epoch: 0228 train_loss= 0.40294 val_roc= 0.92980 val_ap= 0.92731
+Epoch: 0229 train_loss= 0.40312 val_roc= 0.92901 val_ap= 0.92725
+Epoch: 0230 train_loss= 0.40281 val_roc= 0.93230 val_ap= 0.92878
+Test ROC score: 0.9088103871039754
+Test AP score: 0.925740065694821
+Epoch: 0231 train_loss= 0.40299 val_roc= 0.93558 val_ap= 0.93083
+Epoch: 0232 train_loss= 0.40280 val_roc= 0.93543 val_ap= 0.93034
+Epoch: 0233 train_loss= 0.40287 val_roc= 0.93209 val_ap= 0.92908
+Epoch: 0234 train_loss= 0.40280 val_roc= 0.93259 val_ap= 0.92759
+Epoch: 0235 train_loss= 0.40295 val_roc= 0.93246 val_ap= 0.93002
+Epoch: 0236 train_loss= 0.40285 val_roc= 0.93315 val_ap= 0.92800
+Epoch: 0237 train_loss= 0.40307 val_roc= 0.93212 val_ap= 0.92829
+Epoch: 0238 train_loss= 0.40290 val_roc= 0.92572 val_ap= 0.92618
+Epoch: 0239 train_loss= 0.40300 val_roc= 0.93098 val_ap= 0.92899
+Epoch: 0240 train_loss= 0.40309 val_roc= 0.92833 val_ap= 0.92851
+Test ROC score: 0.9123750130522921
+Test AP score: 0.9253157770300058
+Epoch: 0241 train_loss= 0.40232 val_roc= 0.92789 val_ap= 0.92540
+Epoch: 0242 train_loss= 0.40287 val_roc= 0.93386 val_ap= 0.93058
+Epoch: 0243 train_loss= 0.40277 val_roc= 0.93059 val_ap= 0.92792
+Epoch: 0244 train_loss= 0.40277 val_roc= 0.93439 val_ap= 0.93145
+Epoch: 0245 train_loss= 0.40264 val_roc= 0.93211 val_ap= 0.93101
+Epoch: 0246 train_loss= 0.40256 val_roc= 0.92783 val_ap= 0.92725
+Epoch: 0247 train_loss= 0.40286 val_roc= 0.93211 val_ap= 0.93003
+Epoch: 0248 train_loss= 0.40271 val_roc= 0.93423 val_ap= 0.92962
+Epoch: 0249 train_loss= 0.40291 val_roc= 0.93276 val_ap= 0.92953
+Epoch: 0250 train_loss= 0.40231 val_roc= 0.92750 val_ap= 0.92434
+Test ROC score: 0.9106827158849096
+Test AP score: 0.925731224388643
+Epoch: 0251 train_loss= 0.40287 val_roc= 0.93548 val_ap= 0.93107
+Epoch: 0252 train_loss= 0.40250 val_roc= 0.93089 val_ap= 0.92881
+Epoch: 0253 train_loss= 0.40243 val_roc= 0.93381 val_ap= 0.93159
+Epoch: 0254 train_loss= 0.40263 val_roc= 0.93231 val_ap= 0.92941
+Epoch: 0255 train_loss= 0.40286 val_roc= 0.93439 val_ap= 0.93077
+Epoch: 0256 train_loss= 0.40270 val_roc= 0.93081 val_ap= 0.92634
+Epoch: 0257 train_loss= 0.40237 val_roc= 0.93259 val_ap= 0.92793
+Epoch: 0258 train_loss= 0.40320 val_roc= 0.93100 val_ap= 0.92912
+Epoch: 0259 train_loss= 0.40267 val_roc= 0.93704 val_ap= 0.93080
+Epoch: 0260 train_loss= 0.40279 val_roc= 0.93324 val_ap= 0.93052
+Test ROC score: 0.9083603080700972
+Test AP score: 0.9234723788435921
+Epoch: 0261 train_loss= 0.40310 val_roc= 0.93608 val_ap= 0.93195
+Epoch: 0262 train_loss= 0.40295 val_roc= 0.93334 val_ap= 0.92985
+Epoch: 0263 train_loss= 0.40291 val_roc= 0.94122 val_ap= 0.93476
+Epoch: 0264 train_loss= 0.40312 val_roc= 0.93500 val_ap= 0.93162
+Epoch: 0265 train_loss= 0.40294 val_roc= 0.93529 val_ap= 0.93134
+Epoch: 0266 train_loss= 0.40320 val_roc= 0.93964 val_ap= 0.93313
+Epoch: 0267 train_loss= 0.40322 val_roc= 0.93672 val_ap= 0.93247
+Epoch: 0268 train_loss= 0.40311 val_roc= 0.94333 val_ap= 0.93614
+Epoch: 0269 train_loss= 0.40318 val_roc= 0.93831 val_ap= 0.93186
+Epoch: 0270 train_loss= 0.40345 val_roc= 0.93591 val_ap= 0.93196
+Test ROC score: 0.9114820562490773
+Test AP score: 0.9250711657959102
+Epoch: 0271 train_loss= 0.40308 val_roc= 0.94039 val_ap= 0.93451
+Epoch: 0272 train_loss= 0.40316 val_roc= 0.93354 val_ap= 0.92996
+Epoch: 0273 train_loss= 0.40331 val_roc= 0.93921 val_ap= 0.93548
+Epoch: 0274 train_loss= 0.40362 val_roc= 0.94031 val_ap= 0.93226
+Epoch: 0275 train_loss= 0.40367 val_roc= 0.93824 val_ap= 0.93120
+Epoch: 0276 train_loss= 0.40342 val_roc= 0.94065 val_ap= 0.93562
+Epoch: 0277 train_loss= 0.40375 val_roc= 0.93937 val_ap= 0.93413
+Epoch: 0278 train_loss= 0.40336 val_roc= 0.93850 val_ap= 0.93262
+Epoch: 0279 train_loss= 0.40330 val_roc= 0.93743 val_ap= 0.93469
+Epoch: 0280 train_loss= 0.40346 val_roc= 0.94090 val_ap= 0.93469
+Test ROC score: 0.9086555599163214
+Test AP score: 0.9231054494195626
+Epoch: 0281 train_loss= 0.40367 val_roc= 0.93961 val_ap= 0.93502
+Epoch: 0282 train_loss= 0.40336 val_roc= 0.93848 val_ap= 0.93261
+Epoch: 0283 train_loss= 0.40364 val_roc= 0.94298 val_ap= 0.93602
+Epoch: 0284 train_loss= 0.40331 val_roc= 0.94219 val_ap= 0.93677
+Epoch: 0285 train_loss= 0.40340 val_roc= 0.94297 val_ap= 0.93212
+Epoch: 0286 train_loss= 0.40380 val_roc= 0.94534 val_ap= 0.93804
+Epoch: 0287 train_loss= 0.40370 val_roc= 0.94110 val_ap= 0.93515
+Epoch: 0288 train_loss= 0.40339 val_roc= 0.93685 val_ap= 0.93390
+Epoch: 0289 train_loss= 0.40373 val_roc= 0.93958 val_ap= 0.93442
+Epoch: 0290 train_loss= 0.40359 val_roc= 0.94638 val_ap= 0.93837
+Test ROC score: 0.9072513133306208
+Test AP score: 0.9229373679160262
+Epoch: 0291 train_loss= 0.40353 val_roc= 0.94161 val_ap= 0.93659
+Epoch: 0292 train_loss= 0.40345 val_roc= 0.94240 val_ap= 0.93812
+Epoch: 0293 train_loss= 0.40399 val_roc= 0.94025 val_ap= 0.93205
+Epoch: 0294 train_loss= 0.40393 val_roc= 0.93348 val_ap= 0.93179
+Epoch: 0295 train_loss= 0.40352 val_roc= 0.94191 val_ap= 0.93514
+Epoch: 0296 train_loss= 0.40365 val_roc= 0.93864 val_ap= 0.93208
+Epoch: 0297 train_loss= 0.40395 val_roc= 0.94015 val_ap= 0.93490
+Epoch: 0298 train_loss= 0.40384 val_roc= 0.94010 val_ap= 0.93537
+Epoch: 0299 train_loss= 0.40417 val_roc= 0.94239 val_ap= 0.93673
+Epoch: 0300 train_loss= 0.40394 val_roc= 0.94052 val_ap= 0.93648
+Test ROC score: 0.9122957991423294
+Test AP score: 0.9268965256913337
+Epoch: 0301 train_loss= 0.40390 val_roc= 0.93984 val_ap= 0.93434
+Epoch: 0302 train_loss= 0.40390 val_roc= 0.94191 val_ap= 0.93392
+Epoch: 0303 train_loss= 0.40393 val_roc= 0.94153 val_ap= 0.93582
+Epoch: 0304 train_loss= 0.40402 val_roc= 0.93746 val_ap= 0.93386
+Epoch: 0305 train_loss= 0.40399 val_roc= 0.93449 val_ap= 0.93187
+Epoch: 0306 train_loss= 0.40391 val_roc= 0.93741 val_ap= 0.93274
+Epoch: 0307 train_loss= 0.40375 val_roc= 0.93525 val_ap= 0.93276
+Epoch: 0308 train_loss= 0.40424 val_roc= 0.93431 val_ap= 0.93152
+Epoch: 0309 train_loss= 0.40373 val_roc= 0.94168 val_ap= 0.93592
+Epoch: 0310 train_loss= 0.40399 val_roc= 0.93793 val_ap= 0.93485
+Test ROC score: 0.91398089504517
+Test AP score: 0.9279487219629983
+Epoch: 0311 train_loss= 0.40411 val_roc= 0.93723 val_ap= 0.93456
+Epoch: 0312 train_loss= 0.40395 val_roc= 0.94951 val_ap= 0.94308
+Epoch: 0313 train_loss= 0.40434 val_roc= 0.93799 val_ap= 0.93534
+Epoch: 0314 train_loss= 0.40431 val_roc= 0.94138 val_ap= 0.93757
+Epoch: 0315 train_loss= 0.40425 val_roc= 0.94597 val_ap= 0.93732
+Epoch: 0316 train_loss= 0.40383 val_roc= 0.94299 val_ap= 0.93728
+Epoch: 0317 train_loss= 0.40399 val_roc= 0.93688 val_ap= 0.93018
+Epoch: 0318 train_loss= 0.40436 val_roc= 0.94265 val_ap= 0.93899
+Epoch: 0319 train_loss= 0.40407 val_roc= 0.94000 val_ap= 0.93534
+Epoch: 0320 train_loss= 0.40464 val_roc= 0.93694 val_ap= 0.93505
+Test ROC score: 0.9119969466638341
+Test AP score: 0.9263091035719004
+Epoch: 0321 train_loss= 0.40404 val_roc= 0.94099 val_ap= 0.93587
+Epoch: 0322 train_loss= 0.40437 val_roc= 0.93766 val_ap= 0.93547
+Epoch: 0323 train_loss= 0.40453 val_roc= 0.93724 val_ap= 0.93483
+Epoch: 0324 train_loss= 0.40398 val_roc= 0.93767 val_ap= 0.93194
+Epoch: 0325 train_loss= 0.40432 val_roc= 0.94312 val_ap= 0.93841
+Epoch: 0326 train_loss= 0.40392 val_roc= 0.94363 val_ap= 0.93896
+Epoch: 0327 train_loss= 0.40443 val_roc= 0.94472 val_ap= 0.93803
+Epoch: 0328 train_loss= 0.40409 val_roc= 0.94072 val_ap= 0.93641
+Epoch: 0329 train_loss= 0.40397 val_roc= 0.93921 val_ap= 0.93707
+Epoch: 0330 train_loss= 0.40430 val_roc= 0.94330 val_ap= 0.93699
+Test ROC score: 0.9129259097897591
+Test AP score: 0.9278493715506494
+Epoch: 0331 train_loss= 0.40422 val_roc= 0.94139 val_ap= 0.93679
+Epoch: 0332 train_loss= 0.40413 val_roc= 0.94480 val_ap= 0.94132
+Epoch: 0333 train_loss= 0.40423 val_roc= 0.93983 val_ap= 0.93584
+Epoch: 0334 train_loss= 0.40393 val_roc= 0.93765 val_ap= 0.93700
+Epoch: 0335 train_loss= 0.40409 val_roc= 0.93642 val_ap= 0.93567
+Epoch: 0336 train_loss= 0.40433 val_roc= 0.93945 val_ap= 0.93662
+Epoch: 0337 train_loss= 0.40466 val_roc= 0.94207 val_ap= 0.93609
+Epoch: 0338 train_loss= 0.40402 val_roc= 0.93746 val_ap= 0.93468
+Epoch: 0339 train_loss= 0.40433 val_roc= 0.94081 val_ap= 0.93731
+Epoch: 0340 train_loss= 0.40422 val_roc= 0.93772 val_ap= 0.93507
+Test ROC score: 0.9090588307306763
+Test AP score: 0.926439322731229
+Epoch: 0341 train_loss= 0.40442 val_roc= 0.94356 val_ap= 0.93761
+Epoch: 0342 train_loss= 0.40442 val_roc= 0.94330 val_ap= 0.93900
+Epoch: 0343 train_loss= 0.40445 val_roc= 0.94088 val_ap= 0.93733
+Epoch: 0344 train_loss= 0.40436 val_roc= 0.94331 val_ap= 0.93847
+Epoch: 0345 train_loss= 0.40445 val_roc= 0.94099 val_ap= 0.93811
+Epoch: 0346 train_loss= 0.40429 val_roc= 0.93714 val_ap= 0.93529
+Epoch: 0347 train_loss= 0.40405 val_roc= 0.93818 val_ap= 0.93647
+Epoch: 0348 train_loss= 0.40423 val_roc= 0.93952 val_ap= 0.93724
+Epoch: 0349 train_loss= 0.40460 val_roc= 0.93678 val_ap= 0.93586
+Epoch: 0350 train_loss= 0.40421 val_roc= 0.94062 val_ap= 0.93978
+Test ROC score: 0.9123102016714134
+Test AP score: 0.927561904293311
+Epoch: 0351 train_loss= 0.40425 val_roc= 0.93692 val_ap= 0.93425
+Epoch: 0352 train_loss= 0.40457 val_roc= 0.93616 val_ap= 0.93423
+Epoch: 0353 train_loss= 0.40452 val_roc= 0.93704 val_ap= 0.93535
+Epoch: 0354 train_loss= 0.40448 val_roc= 0.94521 val_ap= 0.94119
+Epoch: 0355 train_loss= 0.40424 val_roc= 0.94117 val_ap= 0.93679
+Epoch: 0356 train_loss= 0.40471 val_roc= 0.94072 val_ap= 0.93796
+Epoch: 0357 train_loss= 0.40444 val_roc= 0.93913 val_ap= 0.93530
+Epoch: 0358 train_loss= 0.40424 val_roc= 0.93737 val_ap= 0.93407
+Epoch: 0359 train_loss= 0.40448 val_roc= 0.93487 val_ap= 0.93517
+Epoch: 0360 train_loss= 0.40438 val_roc= 0.93656 val_ap= 0.93453
+Test ROC score: 0.9095053091322836
+Test AP score: 0.9283334700862766
+Epoch: 0361 train_loss= 0.40409 val_roc= 0.94288 val_ap= 0.93846
+Epoch: 0362 train_loss= 0.40476 val_roc= 0.93900 val_ap= 0.93624
+Epoch: 0363 train_loss= 0.40447 val_roc= 0.93662 val_ap= 0.93509
+Epoch: 0364 train_loss= 0.40432 val_roc= 0.93815 val_ap= 0.93670
+Epoch: 0365 train_loss= 0.40442 val_roc= 0.93815 val_ap= 0.93252
+Epoch: 0366 train_loss= 0.40446 val_roc= 0.93754 val_ap= 0.93637
+Epoch: 0367 train_loss= 0.40456 val_roc= 0.93838 val_ap= 0.93747
+Epoch: 0368 train_loss= 0.40446 val_roc= 0.93903 val_ap= 0.93644
+Epoch: 0369 train_loss= 0.40466 val_roc= 0.93713 val_ap= 0.93360
+Epoch: 0370 train_loss= 0.40490 val_roc= 0.93918 val_ap= 0.93615
+Test ROC score: 0.913739652683011
+Test AP score: 0.9283908181298967
+Epoch: 0371 train_loss= 0.40464 val_roc= 0.94175 val_ap= 0.93763
+Epoch: 0372 train_loss= 0.40449 val_roc= 0.93821 val_ap= 0.93787
+Epoch: 0373 train_loss= 0.40426 val_roc= 0.93689 val_ap= 0.93366
+Epoch: 0374 train_loss= 0.40454 val_roc= 0.94002 val_ap= 0.93743
+Epoch: 0375 train_loss= 0.40445 val_roc= 0.94142 val_ap= 0.93936
+Epoch: 0376 train_loss= 0.40450 val_roc= 0.93754 val_ap= 0.93536
+Epoch: 0377 train_loss= 0.40431 val_roc= 0.94214 val_ap= 0.93697
+Epoch: 0378 train_loss= 0.40476 val_roc= 0.93883 val_ap= 0.93967
+Epoch: 0379 train_loss= 0.40484 val_roc= 0.93733 val_ap= 0.93454
+Epoch: 0380 train_loss= 0.40500 val_roc= 0.94012 val_ap= 0.93770
+Test ROC score: 0.9090336263047791
+Test AP score: 0.9265689931977786
+Epoch: 0381 train_loss= 0.40476 val_roc= 0.94168 val_ap= 0.93735
+Epoch: 0382 train_loss= 0.40482 val_roc= 0.94297 val_ap= 0.93761
+Epoch: 0383 train_loss= 0.40499 val_roc= 0.94007 val_ap= 0.93384
+Epoch: 0384 train_loss= 0.40452 val_roc= 0.94256 val_ap= 0.93927
+Epoch: 0385 train_loss= 0.40466 val_roc= 0.94291 val_ap= 0.94015
+Epoch: 0386 train_loss= 0.40489 val_roc= 0.94099 val_ap= 0.93908
+Epoch: 0387 train_loss= 0.40434 val_roc= 0.94376 val_ap= 0.93724
+Epoch: 0388 train_loss= 0.40496 val_roc= 0.94418 val_ap= 0.94066
+Epoch: 0389 train_loss= 0.40486 val_roc= 0.93798 val_ap= 0.93456
+Epoch: 0390 train_loss= 0.40471 val_roc= 0.93617 val_ap= 0.93662
+Test ROC score: 0.904035948712594
+Test AP score: 0.9230225190176705
+Epoch: 0391 train_loss= 0.40466 val_roc= 0.94314 val_ap= 0.93941
+Epoch: 0392 train_loss= 0.40452 val_roc= 0.94207 val_ap= 0.93957
+Epoch: 0393 train_loss= 0.40496 val_roc= 0.94328 val_ap= 0.93685
+Epoch: 0394 train_loss= 0.40489 val_roc= 0.94460 val_ap= 0.94123
+Epoch: 0395 train_loss= 0.40453 val_roc= 0.93955 val_ap= 0.93764
+Epoch: 0396 train_loss= 0.40555 val_roc= 0.93948 val_ap= 0.93834
+Epoch: 0397 train_loss= 0.40467 val_roc= 0.94427 val_ap= 0.94234
+Epoch: 0398 train_loss= 0.40450 val_roc= 0.93749 val_ap= 0.93647
+Epoch: 0399 train_loss= 0.40489 val_roc= 0.94383 val_ap= 0.93931
+Epoch: 0400 train_loss= 0.40494 val_roc= 0.94013 val_ap= 0.93874
+Test ROC score: 0.9105206874327132
+Test AP score: 0.9270536509022385
+
+Epoch: 0001 train_loss= 0.76348 val_roc= 0.65973 val_ap= 0.66209
+Epoch: 0002 train_loss= 0.71581 val_roc= 0.70044 val_ap= 0.72677
+Epoch: 0003 train_loss= 0.66106 val_roc= 0.77686 val_ap= 0.80283
+Epoch: 0004 train_loss= 0.60855 val_roc= 0.85441 val_ap= 0.87223
+Epoch: 0005 train_loss= 0.56646 val_roc= 0.86943 val_ap= 0.88403
+Epoch: 0006 train_loss= 0.53909 val_roc= 0.87537 val_ap= 0.88877
+Epoch: 0007 train_loss= 0.51687 val_roc= 0.89055 val_ap= 0.89833
+Epoch: 0008 train_loss= 0.49540 val_roc= 0.89520 val_ap= 0.90234
+Epoch: 0009 train_loss= 0.47842 val_roc= 0.90097 val_ap= 0.90587
+Epoch: 0010 train_loss= 0.46768 val_roc= 0.89994 val_ap= 0.90739
+Test ROC score: 0.915155174495834
+Test AP score: 0.9138887635984395
+Epoch: 0011 train_loss= 0.45997 val_roc= 0.90832 val_ap= 0.91178
+Epoch: 0012 train_loss= 0.45588 val_roc= 0.91065 val_ap= 0.91308
+Epoch: 0013 train_loss= 0.45252 val_roc= 0.90553 val_ap= 0.91054
+Epoch: 0014 train_loss= 0.44899 val_roc= 0.90764 val_ap= 0.90998
+Epoch: 0015 train_loss= 0.44640 val_roc= 0.90850 val_ap= 0.91467
+Epoch: 0016 train_loss= 0.44321 val_roc= 0.91024 val_ap= 0.91774
+Epoch: 0017 train_loss= 0.44102 val_roc= 0.91164 val_ap= 0.91777
+Epoch: 0018 train_loss= 0.43866 val_roc= 0.90803 val_ap= 0.91830
+Epoch: 0019 train_loss= 0.43662 val_roc= 0.90605 val_ap= 0.91564
+Epoch: 0020 train_loss= 0.43447 val_roc= 0.91451 val_ap= 0.91951
+Test ROC score: 0.9175896630841688
+Test AP score: 0.9167110556265274
+Epoch: 0021 train_loss= 0.43282 val_roc= 0.90700 val_ap= 0.91944
+Epoch: 0022 train_loss= 0.43083 val_roc= 0.90671 val_ap= 0.91939
+Epoch: 0023 train_loss= 0.42963 val_roc= 0.90918 val_ap= 0.91882
+Epoch: 0024 train_loss= 0.42831 val_roc= 0.91189 val_ap= 0.91950
+Epoch: 0025 train_loss= 0.42668 val_roc= 0.91325 val_ap= 0.92259
+Epoch: 0026 train_loss= 0.42570 val_roc= 0.91459 val_ap= 0.92270
+Epoch: 0027 train_loss= 0.42452 val_roc= 0.91626 val_ap= 0.92465
+Epoch: 0028 train_loss= 0.42336 val_roc= 0.91102 val_ap= 0.92221
+Epoch: 0029 train_loss= 0.42236 val_roc= 0.91857 val_ap= 0.92974
+Epoch: 0030 train_loss= 0.42147 val_roc= 0.91046 val_ap= 0.92296
+Test ROC score: 0.9194058688564184
+Test AP score: 0.92123859464691
+Epoch: 0031 train_loss= 0.42050 val_roc= 0.92290 val_ap= 0.93180
+Epoch: 0032 train_loss= 0.41968 val_roc= 0.92402 val_ap= 0.93239
+Epoch: 0033 train_loss= 0.41888 val_roc= 0.91688 val_ap= 0.92834
+Epoch: 0034 train_loss= 0.41833 val_roc= 0.92515 val_ap= 0.93344
+Epoch: 0035 train_loss= 0.41754 val_roc= 0.91114 val_ap= 0.92401
+Epoch: 0036 train_loss= 0.41682 val_roc= 0.91651 val_ap= 0.93020
+Epoch: 0037 train_loss= 0.41637 val_roc= 0.91999 val_ap= 0.92891
+Epoch: 0038 train_loss= 0.41585 val_roc= 0.92228 val_ap= 0.93246
+Epoch: 0039 train_loss= 0.41513 val_roc= 0.92336 val_ap= 0.93382
+Epoch: 0040 train_loss= 0.41469 val_roc= 0.91626 val_ap= 0.92798
+Test ROC score: 0.9202898200700399
+Test AP score: 0.9227267484208005
+Epoch: 0041 train_loss= 0.41440 val_roc= 0.92080 val_ap= 0.93170
+Epoch: 0042 train_loss= 0.41366 val_roc= 0.92074 val_ap= 0.93132
+Epoch: 0043 train_loss= 0.41367 val_roc= 0.92348 val_ap= 0.93483
+Epoch: 0044 train_loss= 0.41295 val_roc= 0.92189 val_ap= 0.93543
+Epoch: 0045 train_loss= 0.41299 val_roc= 0.93016 val_ap= 0.93773
+Epoch: 0046 train_loss= 0.41236 val_roc= 0.92113 val_ap= 0.93393
+Epoch: 0047 train_loss= 0.41244 val_roc= 0.92428 val_ap= 0.93600
+Epoch: 0048 train_loss= 0.41163 val_roc= 0.91741 val_ap= 0.93394
+Epoch: 0049 train_loss= 0.41159 val_roc= 0.92385 val_ap= 0.93594
+Epoch: 0050 train_loss= 0.41124 val_roc= 0.92078 val_ap= 0.93506
+Test ROC score: 0.923796642917522
+Test AP score: 0.9266675716893529
+Epoch: 0051 train_loss= 0.41116 val_roc= 0.92212 val_ap= 0.93374
+Epoch: 0052 train_loss= 0.41038 val_roc= 0.91999 val_ap= 0.93490
+Epoch: 0053 train_loss= 0.41031 val_roc= 0.91675 val_ap= 0.93209
+Epoch: 0054 train_loss= 0.40980 val_roc= 0.92395 val_ap= 0.93723
+Epoch: 0055 train_loss= 0.40983 val_roc= 0.93142 val_ap= 0.94080
+Epoch: 0056 train_loss= 0.40958 val_roc= 0.92272 val_ap= 0.93487
+Epoch: 0057 train_loss= 0.40899 val_roc= 0.91514 val_ap= 0.93063
+Epoch: 0058 train_loss= 0.40893 val_roc= 0.93039 val_ap= 0.94080
+Epoch: 0059 train_loss= 0.40864 val_roc= 0.91779 val_ap= 0.93439
+Epoch: 0060 train_loss= 0.40834 val_roc= 0.92377 val_ap= 0.93808
+Test ROC score: 0.9223137302258182
+Test AP score: 0.927281789635426
+Epoch: 0061 train_loss= 0.40801 val_roc= 0.91529 val_ap= 0.93046
+Epoch: 0062 train_loss= 0.40746 val_roc= 0.92233 val_ap= 0.93615
+Epoch: 0063 train_loss= 0.40771 val_roc= 0.92185 val_ap= 0.93575
+Epoch: 0064 train_loss= 0.40721 val_roc= 0.91508 val_ap= 0.93109
+Epoch: 0065 train_loss= 0.40693 val_roc= 0.92218 val_ap= 0.93402
+Epoch: 0066 train_loss= 0.40671 val_roc= 0.91966 val_ap= 0.93500
+Epoch: 0067 train_loss= 0.40641 val_roc= 0.91579 val_ap= 0.93157
+Epoch: 0068 train_loss= 0.40626 val_roc= 0.91913 val_ap= 0.93557
+Epoch: 0069 train_loss= 0.40580 val_roc= 0.91349 val_ap= 0.93091
+Epoch: 0070 train_loss= 0.40552 val_roc= 0.91972 val_ap= 0.93373
+Test ROC score: 0.9284096123656564
+Test AP score: 0.9315079214139368
+Epoch: 0071 train_loss= 0.40543 val_roc= 0.91424 val_ap= 0.93152
+Epoch: 0072 train_loss= 0.40502 val_roc= 0.92232 val_ap= 0.93719
+Epoch: 0073 train_loss= 0.40479 val_roc= 0.91393 val_ap= 0.92983
+Epoch: 0074 train_loss= 0.40477 val_roc= 0.92096 val_ap= 0.93653
+Epoch: 0075 train_loss= 0.40440 val_roc= 0.91271 val_ap= 0.93044
+Epoch: 0076 train_loss= 0.40435 val_roc= 0.91486 val_ap= 0.93251
+Epoch: 0077 train_loss= 0.40407 val_roc= 0.91723 val_ap= 0.93363
+Epoch: 0078 train_loss= 0.40417 val_roc= 0.91541 val_ap= 0.93123
+Epoch: 0079 train_loss= 0.40349 val_roc= 0.91271 val_ap= 0.92959
+Epoch: 0080 train_loss= 0.40367 val_roc= 0.91253 val_ap= 0.93034
+Test ROC score: 0.9261924888298515
+Test AP score: 0.9312338844580654
+Epoch: 0081 train_loss= 0.40326 val_roc= 0.92305 val_ap= 0.93830
+Epoch: 0082 train_loss= 0.40341 val_roc= 0.90712 val_ap= 0.92805
+Epoch: 0083 train_loss= 0.40314 val_roc= 0.92288 val_ap= 0.93872
+Epoch: 0084 train_loss= 0.40305 val_roc= 0.91269 val_ap= 0.93002
+Epoch: 0085 train_loss= 0.40284 val_roc= 0.91675 val_ap= 0.93188
+Epoch: 0086 train_loss= 0.40287 val_roc= 0.91781 val_ap= 0.93567
+Epoch: 0087 train_loss= 0.40284 val_roc= 0.91036 val_ap= 0.92841
+Epoch: 0088 train_loss= 0.40287 val_roc= 0.91855 val_ap= 0.93605
+Epoch: 0089 train_loss= 0.40263 val_roc= 0.91894 val_ap= 0.93466
+Epoch: 0090 train_loss= 0.40240 val_roc= 0.91772 val_ap= 0.93403
+Test ROC score: 0.9266272189349112
+Test AP score: 0.9316287129716283
+Epoch: 0091 train_loss= 0.40257 val_roc= 0.91562 val_ap= 0.93285
+Epoch: 0092 train_loss= 0.40207 val_roc= 0.92086 val_ap= 0.93658
+Epoch: 0093 train_loss= 0.40217 val_roc= 0.92369 val_ap= 0.93789
+Epoch: 0094 train_loss= 0.40222 val_roc= 0.91836 val_ap= 0.93491
+Epoch: 0095 train_loss= 0.40159 val_roc= 0.91640 val_ap= 0.93493
+Epoch: 0096 train_loss= 0.40187 val_roc= 0.91904 val_ap= 0.93528
+Epoch: 0097 train_loss= 0.40152 val_roc= 0.91316 val_ap= 0.93136
+Epoch: 0098 train_loss= 0.40171 val_roc= 0.90811 val_ap= 0.92792
+Epoch: 0099 train_loss= 0.40167 val_roc= 0.91727 val_ap= 0.93519
+Epoch: 0100 train_loss= 0.40155 val_roc= 0.91180 val_ap= 0.93152
+Test ROC score: 0.9238449462625287
+Test AP score: 0.9307193091544601
+Epoch: 0101 train_loss= 0.40115 val_roc= 0.91147 val_ap= 0.93209
+Epoch: 0102 train_loss= 0.40118 val_roc= 0.90435 val_ap= 0.92684
+Epoch: 0103 train_loss= 0.40096 val_roc= 0.91285 val_ap= 0.93125
+Epoch: 0104 train_loss= 0.40124 val_roc= 0.91638 val_ap= 0.93581
+Epoch: 0105 train_loss= 0.40086 val_roc= 0.91395 val_ap= 0.93261
+Epoch: 0106 train_loss= 0.40063 val_roc= 0.91710 val_ap= 0.93322
+Epoch: 0107 train_loss= 0.40052 val_roc= 0.91717 val_ap= 0.93394
+Epoch: 0108 train_loss= 0.40064 val_roc= 0.91653 val_ap= 0.93249
+Epoch: 0109 train_loss= 0.40049 val_roc= 0.91508 val_ap= 0.93387
+Epoch: 0110 train_loss= 0.40028 val_roc= 0.90933 val_ap= 0.92963
+Test ROC score: 0.9244535684096123
+Test AP score: 0.930940451102319
+Epoch: 0111 train_loss= 0.40050 val_roc= 0.91779 val_ap= 0.93402
+Epoch: 0112 train_loss= 0.39997 val_roc= 0.91428 val_ap= 0.93345
+Epoch: 0113 train_loss= 0.40022 val_roc= 0.92332 val_ap= 0.93921
+Epoch: 0114 train_loss= 0.39995 val_roc= 0.91768 val_ap= 0.93438
+Epoch: 0115 train_loss= 0.39981 val_roc= 0.91500 val_ap= 0.93291
+Epoch: 0116 train_loss= 0.40003 val_roc= 0.91178 val_ap= 0.93053
+Epoch: 0117 train_loss= 0.39974 val_roc= 0.91909 val_ap= 0.93580
+Epoch: 0118 train_loss= 0.39978 val_roc= 0.91226 val_ap= 0.93108
+Epoch: 0119 train_loss= 0.39948 val_roc= 0.90972 val_ap= 0.93066
+Epoch: 0120 train_loss= 0.39970 val_roc= 0.91153 val_ap= 0.93077
+Test ROC score: 0.9197439922714647
+Test AP score: 0.9306407162077641
+Epoch: 0121 train_loss= 0.39953 val_roc= 0.90745 val_ap= 0.92680
+Epoch: 0122 train_loss= 0.39941 val_roc= 0.92111 val_ap= 0.93538
+Epoch: 0123 train_loss= 0.39941 val_roc= 0.91744 val_ap= 0.93393
+Epoch: 0124 train_loss= 0.39962 val_roc= 0.92299 val_ap= 0.93776
+Epoch: 0125 train_loss= 0.39958 val_roc= 0.92102 val_ap= 0.93555
+Epoch: 0126 train_loss= 0.39917 val_roc= 0.91863 val_ap= 0.93413
+Epoch: 0127 train_loss= 0.39929 val_roc= 0.92276 val_ap= 0.93776
+Epoch: 0128 train_loss= 0.39970 val_roc= 0.92030 val_ap= 0.93558
+Epoch: 0129 train_loss= 0.39933 val_roc= 0.91318 val_ap= 0.93055
+Epoch: 0130 train_loss= 0.39973 val_roc= 0.92373 val_ap= 0.93663
+Test ROC score: 0.9185557299843015
+Test AP score: 0.9303042182216217
+Epoch: 0131 train_loss= 0.39943 val_roc= 0.92059 val_ap= 0.93606
+Epoch: 0132 train_loss= 0.39981 val_roc= 0.91541 val_ap= 0.93088
+Epoch: 0133 train_loss= 0.39992 val_roc= 0.91568 val_ap= 0.92984
+Epoch: 0134 train_loss= 0.40004 val_roc= 0.90916 val_ap= 0.92458
+Epoch: 0135 train_loss= 0.40028 val_roc= 0.91906 val_ap= 0.93372
+Epoch: 0136 train_loss= 0.40043 val_roc= 0.91743 val_ap= 0.93181
+Epoch: 0137 train_loss= 0.40028 val_roc= 0.90729 val_ap= 0.92531
+Epoch: 0138 train_loss= 0.40046 val_roc= 0.91145 val_ap= 0.92734
+Epoch: 0139 train_loss= 0.40079 val_roc= 0.91673 val_ap= 0.92998
+Epoch: 0140 train_loss= 0.40050 val_roc= 0.91389 val_ap= 0.92952
+Test ROC score: 0.9227581209998793
+Test AP score: 0.9339640569108574
+Epoch: 0141 train_loss= 0.40042 val_roc= 0.90695 val_ap= 0.92542
+Epoch: 0142 train_loss= 0.40076 val_roc= 0.90433 val_ap= 0.92177
+Epoch: 0143 train_loss= 0.40085 val_roc= 0.91131 val_ap= 0.92750
+Epoch: 0144 train_loss= 0.40102 val_roc= 0.90574 val_ap= 0.92355
+Epoch: 0145 train_loss= 0.40098 val_roc= 0.90805 val_ap= 0.92523
+Epoch: 0146 train_loss= 0.40080 val_roc= 0.91285 val_ap= 0.93068
+Epoch: 0147 train_loss= 0.40112 val_roc= 0.91721 val_ap= 0.93035
+Epoch: 0148 train_loss= 0.40108 val_roc= 0.90929 val_ap= 0.92631
+Epoch: 0149 train_loss= 0.40138 val_roc= 0.91125 val_ap= 0.92806
+Epoch: 0150 train_loss= 0.40110 val_roc= 0.91180 val_ap= 0.92626
+Test ROC score: 0.9205844704745803
+Test AP score: 0.9320601513070074
+Epoch: 0151 train_loss= 0.40131 val_roc= 0.91576 val_ap= 0.93127
+Epoch: 0152 train_loss= 0.40159 val_roc= 0.90429 val_ap= 0.92326
+Epoch: 0153 train_loss= 0.40164 val_roc= 0.91207 val_ap= 0.92702
+Epoch: 0154 train_loss= 0.40160 val_roc= 0.91277 val_ap= 0.92840
+Epoch: 0155 train_loss= 0.40166 val_roc= 0.92204 val_ap= 0.93332
+Epoch: 0156 train_loss= 0.40256 val_roc= 0.91467 val_ap= 0.92988
+Epoch: 0157 train_loss= 0.40189 val_roc= 0.91205 val_ap= 0.92872
+Epoch: 0158 train_loss= 0.40225 val_roc= 0.91776 val_ap= 0.93174
+Epoch: 0159 train_loss= 0.40245 val_roc= 0.91874 val_ap= 0.93150
+Epoch: 0160 train_loss= 0.40211 val_roc= 0.91948 val_ap= 0.93254
+Test ROC score: 0.9211834319526627
+Test AP score: 0.9327569488742593
+Epoch: 0161 train_loss= 0.40264 val_roc= 0.91574 val_ap= 0.93159
+Epoch: 0162 train_loss= 0.40246 val_roc= 0.92251 val_ap= 0.93596
+Epoch: 0163 train_loss= 0.40281 val_roc= 0.91933 val_ap= 0.93335
+Epoch: 0164 train_loss= 0.40252 val_roc= 0.92301 val_ap= 0.93491
+Epoch: 0165 train_loss= 0.40254 val_roc= 0.92528 val_ap= 0.93549
+Epoch: 0166 train_loss= 0.40229 val_roc= 0.92550 val_ap= 0.93670
+Epoch: 0167 train_loss= 0.40269 val_roc= 0.92036 val_ap= 0.93307
+Epoch: 0168 train_loss= 0.40283 val_roc= 0.92274 val_ap= 0.93588
+Epoch: 0169 train_loss= 0.40259 val_roc= 0.91964 val_ap= 0.93291
+Epoch: 0170 train_loss= 0.40303 val_roc= 0.93328 val_ap= 0.94184
+Test ROC score: 0.9163337761139958
+Test AP score: 0.9310874808007293
+Epoch: 0171 train_loss= 0.40272 val_roc= 0.92088 val_ap= 0.93418
+Epoch: 0172 train_loss= 0.40286 val_roc= 0.91834 val_ap= 0.93363
+Epoch: 0173 train_loss= 0.40308 val_roc= 0.92340 val_ap= 0.93709
+Epoch: 0174 train_loss= 0.40312 val_roc= 0.92125 val_ap= 0.93394
+Epoch: 0175 train_loss= 0.40291 val_roc= 0.91894 val_ap= 0.93209
+Epoch: 0176 train_loss= 0.40300 val_roc= 0.92334 val_ap= 0.93510
+Epoch: 0177 train_loss= 0.40331 val_roc= 0.92416 val_ap= 0.93739
+Epoch: 0178 train_loss= 0.40297 val_roc= 0.92076 val_ap= 0.93568
+Epoch: 0179 train_loss= 0.40276 val_roc= 0.92266 val_ap= 0.93590
+Epoch: 0180 train_loss= 0.40340 val_roc= 0.92606 val_ap= 0.93917
+Test ROC score: 0.9233039487984542
+Test AP score: 0.9364393648082685
+Epoch: 0181 train_loss= 0.40303 val_roc= 0.92016 val_ap= 0.93460
+Epoch: 0182 train_loss= 0.40256 val_roc= 0.92103 val_ap= 0.93676
+Epoch: 0183 train_loss= 0.40286 val_roc= 0.92043 val_ap= 0.93508
+Epoch: 0184 train_loss= 0.40245 val_roc= 0.91878 val_ap= 0.93445
+Epoch: 0185 train_loss= 0.40273 val_roc= 0.92416 val_ap= 0.93839
+Epoch: 0186 train_loss= 0.40298 val_roc= 0.92699 val_ap= 0.93997
+Epoch: 0187 train_loss= 0.40230 val_roc= 0.91739 val_ap= 0.93343
+Epoch: 0188 train_loss= 0.40231 val_roc= 0.92243 val_ap= 0.93705
+Epoch: 0189 train_loss= 0.40263 val_roc= 0.92418 val_ap= 0.93896
+Epoch: 0190 train_loss= 0.40203 val_roc= 0.91453 val_ap= 0.93267
+Test ROC score: 0.9221591595217968
+Test AP score: 0.9354117850319048
+Epoch: 0191 train_loss= 0.40220 val_roc= 0.91906 val_ap= 0.93551
+Epoch: 0192 train_loss= 0.40191 val_roc= 0.92016 val_ap= 0.93502
+Epoch: 0193 train_loss= 0.40215 val_roc= 0.92379 val_ap= 0.93969
+Epoch: 0194 train_loss= 0.40201 val_roc= 0.91711 val_ap= 0.93558
+Epoch: 0195 train_loss= 0.40228 val_roc= 0.92860 val_ap= 0.94246
+Epoch: 0196 train_loss= 0.40232 val_roc= 0.91711 val_ap= 0.93447
+Epoch: 0197 train_loss= 0.40199 val_roc= 0.92536 val_ap= 0.94008
+Epoch: 0198 train_loss= 0.40201 val_roc= 0.92247 val_ap= 0.93998
+Epoch: 0199 train_loss= 0.40217 val_roc= 0.92480 val_ap= 0.94117
+Epoch: 0200 train_loss= 0.40222 val_roc= 0.92767 val_ap= 0.94346
+Test ROC score: 0.9221543291872962
+Test AP score: 0.9345016306235444
+Epoch: 0201 train_loss= 0.40197 val_roc= 0.91793 val_ap= 0.93592
+Epoch: 0202 train_loss= 0.40213 val_roc= 0.92647 val_ap= 0.94116
+Epoch: 0203 train_loss= 0.40217 val_roc= 0.92538 val_ap= 0.94037
+Epoch: 0204 train_loss= 0.40216 val_roc= 0.91700 val_ap= 0.93562
+Epoch: 0205 train_loss= 0.40222 val_roc= 0.92084 val_ap= 0.93661
+Epoch: 0206 train_loss= 0.40243 val_roc= 0.91774 val_ap= 0.93724
+Epoch: 0207 train_loss= 0.40249 val_roc= 0.92327 val_ap= 0.93860
+Epoch: 0208 train_loss= 0.40242 val_roc= 0.92734 val_ap= 0.94130
+Epoch: 0209 train_loss= 0.40264 val_roc= 0.92672 val_ap= 0.94133
+Epoch: 0210 train_loss= 0.40295 val_roc= 0.92645 val_ap= 0.94214
+Test ROC score: 0.9225552469508513
+Test AP score: 0.9342364839410262
+Epoch: 0211 train_loss= 0.40268 val_roc= 0.92769 val_ap= 0.94214
+Epoch: 0212 train_loss= 0.40327 val_roc= 0.92521 val_ap= 0.93969
+Epoch: 0213 train_loss= 0.40292 val_roc= 0.91975 val_ap= 0.93762
+Epoch: 0214 train_loss= 0.40321 val_roc= 0.92680 val_ap= 0.94184
+Epoch: 0215 train_loss= 0.40345 val_roc= 0.92158 val_ap= 0.93753
+Epoch: 0216 train_loss= 0.40342 val_roc= 0.92395 val_ap= 0.93947
+Epoch: 0217 train_loss= 0.40351 val_roc= 0.92657 val_ap= 0.94111
+Epoch: 0218 train_loss= 0.40349 val_roc= 0.92103 val_ap= 0.93757
+Epoch: 0219 train_loss= 0.40351 val_roc= 0.92364 val_ap= 0.94003
+Epoch: 0220 train_loss= 0.40374 val_roc= 0.92028 val_ap= 0.93561
+Test ROC score: 0.9279893732640986
+Test AP score: 0.9386512049085601
+Epoch: 0221 train_loss= 0.40378 val_roc= 0.92816 val_ap= 0.94356
+Epoch: 0222 train_loss= 0.40381 val_roc= 0.92140 val_ap= 0.93768
+Epoch: 0223 train_loss= 0.40382 val_roc= 0.91847 val_ap= 0.93386
+Epoch: 0224 train_loss= 0.40385 val_roc= 0.92651 val_ap= 0.94027
+Epoch: 0225 train_loss= 0.40398 val_roc= 0.91861 val_ap= 0.93652
+Epoch: 0226 train_loss= 0.40364 val_roc= 0.92257 val_ap= 0.93990
+Epoch: 0227 train_loss= 0.40412 val_roc= 0.92558 val_ap= 0.93940
+Epoch: 0228 train_loss= 0.40367 val_roc= 0.92201 val_ap= 0.93771
+Epoch: 0229 train_loss= 0.40339 val_roc= 0.91601 val_ap= 0.93401
+Epoch: 0230 train_loss= 0.40408 val_roc= 0.91917 val_ap= 0.93502
+Test ROC score: 0.9251587972467094
+Test AP score: 0.935211675955625
+Epoch: 0231 train_loss= 0.40383 val_roc= 0.92026 val_ap= 0.93570
+Epoch: 0232 train_loss= 0.40386 val_roc= 0.91973 val_ap= 0.93582
+Epoch: 0233 train_loss= 0.40381 val_roc= 0.91840 val_ap= 0.93563
+Epoch: 0234 train_loss= 0.40382 val_roc= 0.92150 val_ap= 0.93715
+Epoch: 0235 train_loss= 0.40394 val_roc= 0.91556 val_ap= 0.93378
+Epoch: 0236 train_loss= 0.40422 val_roc= 0.91937 val_ap= 0.93512
+Epoch: 0237 train_loss= 0.40416 val_roc= 0.92117 val_ap= 0.93623
+Epoch: 0238 train_loss= 0.40408 val_roc= 0.92257 val_ap= 0.93736
+Epoch: 0239 train_loss= 0.40427 val_roc= 0.91764 val_ap= 0.93422
+Epoch: 0240 train_loss= 0.40434 val_roc= 0.92018 val_ap= 0.93526
+Test ROC score: 0.9204540514430624
+Test AP score: 0.932535608742427
+Epoch: 0241 train_loss= 0.40447 val_roc= 0.91614 val_ap= 0.93428
+Epoch: 0242 train_loss= 0.40489 val_roc= 0.91510 val_ap= 0.93177
+Epoch: 0243 train_loss= 0.40487 val_roc= 0.92420 val_ap= 0.93865
+Epoch: 0244 train_loss= 0.40486 val_roc= 0.91063 val_ap= 0.93112
+Epoch: 0245 train_loss= 0.40516 val_roc= 0.92395 val_ap= 0.93830
+Epoch: 0246 train_loss= 0.40473 val_roc= 0.91810 val_ap= 0.93521
+Epoch: 0247 train_loss= 0.40492 val_roc= 0.91467 val_ap= 0.93298
+Epoch: 0248 train_loss= 0.40491 val_roc= 0.91820 val_ap= 0.93454
+Epoch: 0249 train_loss= 0.40510 val_roc= 0.91781 val_ap= 0.93421
+Epoch: 0250 train_loss= 0.40547 val_roc= 0.91867 val_ap= 0.93542
+Test ROC score: 0.9240768023185606
+Test AP score: 0.9361876844509972
+Epoch: 0251 train_loss= 0.40508 val_roc= 0.91351 val_ap= 0.93219
+Epoch: 0252 train_loss= 0.40552 val_roc= 0.92239 val_ap= 0.93954
+Epoch: 0253 train_loss= 0.40623 val_roc= 0.91139 val_ap= 0.93118
+Epoch: 0254 train_loss= 0.40535 val_roc= 0.92053 val_ap= 0.93753
+Epoch: 0255 train_loss= 0.40566 val_roc= 0.90960 val_ap= 0.93084
+Epoch: 0256 train_loss= 0.40583 val_roc= 0.91777 val_ap= 0.93491
+Epoch: 0257 train_loss= 0.40538 val_roc= 0.91073 val_ap= 0.93008
+Epoch: 0258 train_loss= 0.40540 val_roc= 0.92005 val_ap= 0.93487
+Epoch: 0259 train_loss= 0.40565 val_roc= 0.91405 val_ap= 0.93269
+Epoch: 0260 train_loss= 0.40569 val_roc= 0.91772 val_ap= 0.93483
+Test ROC score: 0.9222992392223162
+Test AP score: 0.9350822904112387
+Epoch: 0261 train_loss= 0.40627 val_roc= 0.91808 val_ap= 0.93271
+Epoch: 0262 train_loss= 0.40574 val_roc= 0.91209 val_ap= 0.93291
+Epoch: 0263 train_loss= 0.40571 val_roc= 0.91754 val_ap= 0.93262
+Epoch: 0264 train_loss= 0.40582 val_roc= 0.91776 val_ap= 0.93510
+Epoch: 0265 train_loss= 0.40572 val_roc= 0.91343 val_ap= 0.93267
+Epoch: 0266 train_loss= 0.40641 val_roc= 0.91832 val_ap= 0.93435
+Epoch: 0267 train_loss= 0.40608 val_roc= 0.92556 val_ap= 0.94045
+Epoch: 0268 train_loss= 0.40622 val_roc= 0.91339 val_ap= 0.93210
+Epoch: 0269 train_loss= 0.40589 val_roc= 0.92123 val_ap= 0.93610
+Epoch: 0270 train_loss= 0.40609 val_roc= 0.92383 val_ap= 0.93727
+Test ROC score: 0.9274049027895181
+Test AP score: 0.9385926301028344
+Epoch: 0271 train_loss= 0.40640 val_roc= 0.92047 val_ap= 0.93572
+Epoch: 0272 train_loss= 0.40629 val_roc= 0.91886 val_ap= 0.93334
+Epoch: 0273 train_loss= 0.40622 val_roc= 0.92466 val_ap= 0.93912
+Epoch: 0274 train_loss= 0.40616 val_roc= 0.91578 val_ap= 0.93295
+Epoch: 0275 train_loss= 0.40672 val_roc= 0.92051 val_ap= 0.93720
+Epoch: 0276 train_loss= 0.40655 val_roc= 0.91942 val_ap= 0.93459
+Epoch: 0277 train_loss= 0.40606 val_roc= 0.91750 val_ap= 0.93507
+Epoch: 0278 train_loss= 0.40623 val_roc= 0.92092 val_ap= 0.93420
+Epoch: 0279 train_loss= 0.40654 val_roc= 0.91857 val_ap= 0.93472
+Epoch: 0280 train_loss= 0.40659 val_roc= 0.92078 val_ap= 0.93506
+Test ROC score: 0.9272406714164956
+Test AP score: 0.9382731020382603
+Epoch: 0281 train_loss= 0.40688 val_roc= 0.92094 val_ap= 0.93613
+Epoch: 0282 train_loss= 0.40678 val_roc= 0.91946 val_ap= 0.93465
+Epoch: 0283 train_loss= 0.40634 val_roc= 0.91814 val_ap= 0.93222
+Epoch: 0284 train_loss= 0.40696 val_roc= 0.92542 val_ap= 0.93688
+Epoch: 0285 train_loss= 0.40740 val_roc= 0.91838 val_ap= 0.93335
+Epoch: 0286 train_loss= 0.40698 val_roc= 0.91715 val_ap= 0.93378
+Epoch: 0287 train_loss= 0.40741 val_roc= 0.92309 val_ap= 0.93563
+Epoch: 0288 train_loss= 0.40737 val_roc= 0.92360 val_ap= 0.93847
+Epoch: 0289 train_loss= 0.40691 val_roc= 0.91968 val_ap= 0.93519
+Epoch: 0290 train_loss= 0.40782 val_roc= 0.92480 val_ap= 0.93783
+Test ROC score: 0.9246226301171356
+Test AP score: 0.9377679549939337
+Epoch: 0291 train_loss= 0.40782 val_roc= 0.91904 val_ap= 0.93478
+Epoch: 0292 train_loss= 0.40746 val_roc= 0.92036 val_ap= 0.93365
+Epoch: 0293 train_loss= 0.40745 val_roc= 0.91576 val_ap= 0.93251
+Epoch: 0294 train_loss= 0.40747 val_roc= 0.92342 val_ap= 0.93871
+Epoch: 0295 train_loss= 0.40765 val_roc= 0.92121 val_ap= 0.93469
+Epoch: 0296 train_loss= 0.40761 val_roc= 0.92183 val_ap= 0.93379
+Epoch: 0297 train_loss= 0.40773 val_roc= 0.91667 val_ap= 0.93242
+Epoch: 0298 train_loss= 0.40748 val_roc= 0.91579 val_ap= 0.93267
+Epoch: 0299 train_loss= 0.40841 val_roc= 0.92575 val_ap= 0.93865
+Epoch: 0300 train_loss= 0.40758 val_roc= 0.91331 val_ap= 0.93071
+Test ROC score: 0.921898321458761
+Test AP score: 0.9353591703945602
+Epoch: 0301 train_loss= 0.40778 val_roc= 0.92263 val_ap= 0.93531
+Epoch: 0302 train_loss= 0.40800 val_roc= 0.92070 val_ap= 0.93850
+Epoch: 0303 train_loss= 0.40831 val_roc= 0.92447 val_ap= 0.93847
+Epoch: 0304 train_loss= 0.40817 val_roc= 0.91366 val_ap= 0.93221
+Epoch: 0305 train_loss= 0.40813 val_roc= 0.92224 val_ap= 0.93729
+Epoch: 0306 train_loss= 0.40832 val_roc= 0.91863 val_ap= 0.93395
+Epoch: 0307 train_loss= 0.40798 val_roc= 0.91991 val_ap= 0.93503
+Epoch: 0308 train_loss= 0.40803 val_roc= 0.92703 val_ap= 0.94054
+Epoch: 0309 train_loss= 0.40873 val_roc= 0.91917 val_ap= 0.93475
+Epoch: 0310 train_loss= 0.40797 val_roc= 0.92375 val_ap= 0.93700
+Test ROC score: 0.9271537253954837
+Test AP score: 0.9383587691385564
+Epoch: 0311 train_loss= 0.40875 val_roc= 0.92637 val_ap= 0.93874
+Epoch: 0312 train_loss= 0.40835 val_roc= 0.91917 val_ap= 0.93361
+Epoch: 0313 train_loss= 0.40857 val_roc= 0.92063 val_ap= 0.93588
+Epoch: 0314 train_loss= 0.40854 val_roc= 0.91997 val_ap= 0.93494
+Epoch: 0315 train_loss= 0.40878 val_roc= 0.92581 val_ap= 0.93957
+Epoch: 0316 train_loss= 0.40896 val_roc= 0.91975 val_ap= 0.93436
+Epoch: 0317 train_loss= 0.40907 val_roc= 0.91838 val_ap= 0.93458
+Epoch: 0318 train_loss= 0.40884 val_roc= 0.92331 val_ap= 0.93726
+Epoch: 0319 train_loss= 0.40906 val_roc= 0.91925 val_ap= 0.93523
+Epoch: 0320 train_loss= 0.40894 val_roc= 0.91814 val_ap= 0.93533
+Test ROC score: 0.9273710904480135
+Test AP score: 0.9380006314452838
+Epoch: 0321 train_loss= 0.40920 val_roc= 0.92018 val_ap= 0.93589
+Epoch: 0322 train_loss= 0.40947 val_roc= 0.91436 val_ap= 0.93256
+Epoch: 0323 train_loss= 0.40921 val_roc= 0.91925 val_ap= 0.93522
+Epoch: 0324 train_loss= 0.40891 val_roc= 0.92375 val_ap= 0.93635
+Epoch: 0325 train_loss= 0.40952 val_roc= 0.91832 val_ap= 0.93405
+Epoch: 0326 train_loss= 0.40945 val_roc= 0.91566 val_ap= 0.93457
+Epoch: 0327 train_loss= 0.40947 val_roc= 0.92008 val_ap= 0.93659
+Epoch: 0328 train_loss= 0.40992 val_roc= 0.91609 val_ap= 0.93343
+Epoch: 0329 train_loss= 0.40936 val_roc= 0.91968 val_ap= 0.93442
+Epoch: 0330 train_loss= 0.40985 val_roc= 0.91253 val_ap= 0.93217
+Test ROC score: 0.930786136939983
+Test AP score: 0.941169787516859
+Epoch: 0331 train_loss= 0.40989 val_roc= 0.91579 val_ap= 0.93206
+Epoch: 0332 train_loss= 0.40949 val_roc= 0.91548 val_ap= 0.93302
+Epoch: 0333 train_loss= 0.40994 val_roc= 0.91812 val_ap= 0.93380
+Epoch: 0334 train_loss= 0.40970 val_roc= 0.91843 val_ap= 0.93457
+Epoch: 0335 train_loss= 0.41020 val_roc= 0.91329 val_ap= 0.93124
+Epoch: 0336 train_loss= 0.41024 val_roc= 0.92080 val_ap= 0.93618
+Epoch: 0337 train_loss= 0.40996 val_roc= 0.91558 val_ap= 0.93258
+Epoch: 0338 train_loss= 0.41048 val_roc= 0.92061 val_ap= 0.93475
+Epoch: 0339 train_loss= 0.41006 val_roc= 0.91529 val_ap= 0.93360
+Epoch: 0340 train_loss= 0.41057 val_roc= 0.91368 val_ap= 0.93257
+Test ROC score: 0.9269556816809564
+Test AP score: 0.9375512622339861
+Epoch: 0341 train_loss= 0.41046 val_roc= 0.91292 val_ap= 0.93279
+Epoch: 0342 train_loss= 0.41055 val_roc= 0.91436 val_ap= 0.93150
+Epoch: 0343 train_loss= 0.41053 val_roc= 0.91405 val_ap= 0.93283
+Epoch: 0344 train_loss= 0.41086 val_roc= 0.91102 val_ap= 0.92894
+Epoch: 0345 train_loss= 0.41091 val_roc= 0.91236 val_ap= 0.93001
+Epoch: 0346 train_loss= 0.41059 val_roc= 0.91737 val_ap= 0.93361
+Epoch: 0347 train_loss= 0.41082 val_roc= 0.91448 val_ap= 0.93228
+Epoch: 0348 train_loss= 0.41089 val_roc= 0.91696 val_ap= 0.93410
+Epoch: 0349 train_loss= 0.41109 val_roc= 0.91791 val_ap= 0.93507
+Epoch: 0350 train_loss= 0.41135 val_roc= 0.91246 val_ap= 0.93118
+Test ROC score: 0.9238304552590269
+Test AP score: 0.936260892506176
+Epoch: 0351 train_loss= 0.41112 val_roc= 0.91261 val_ap= 0.93113
+Epoch: 0352 train_loss= 0.41151 val_roc= 0.91023 val_ap= 0.92948
+Epoch: 0353 train_loss= 0.41148 val_roc= 0.91777 val_ap= 0.93445
+Epoch: 0354 train_loss= 0.41191 val_roc= 0.91255 val_ap= 0.93098
+Epoch: 0355 train_loss= 0.41133 val_roc= 0.91374 val_ap= 0.93169
+Epoch: 0356 train_loss= 0.41209 val_roc= 0.91539 val_ap= 0.93336
+Epoch: 0357 train_loss= 0.41187 val_roc= 0.91743 val_ap= 0.93482
+Epoch: 0358 train_loss= 0.41190 val_roc= 0.91946 val_ap= 0.93539
+Epoch: 0359 train_loss= 0.41184 val_roc= 0.91296 val_ap= 0.93033
+Epoch: 0360 train_loss= 0.41211 val_roc= 0.91519 val_ap= 0.93316
+Test ROC score: 0.92123656563217
+Test AP score: 0.9343040138657026
+Epoch: 0361 train_loss= 0.41229 val_roc= 0.91275 val_ap= 0.93136
+Epoch: 0362 train_loss= 0.41285 val_roc= 0.91321 val_ap= 0.93209
+Epoch: 0363 train_loss= 0.41232 val_roc= 0.91422 val_ap= 0.93263
+Epoch: 0364 train_loss= 0.41242 val_roc= 0.91343 val_ap= 0.93255
+Epoch: 0365 train_loss= 0.41280 val_roc= 0.91391 val_ap= 0.93199
+Epoch: 0366 train_loss= 0.41261 val_roc= 0.91694 val_ap= 0.93364
+Epoch: 0367 train_loss= 0.41309 val_roc= 0.91665 val_ap= 0.93284
+Epoch: 0368 train_loss= 0.41292 val_roc= 0.91364 val_ap= 0.93153
+Epoch: 0369 train_loss= 0.41249 val_roc= 0.90821 val_ap= 0.92857
+Epoch: 0370 train_loss= 0.41308 val_roc= 0.91543 val_ap= 0.93303
+Test ROC score: 0.9237966429175222
+Test AP score: 0.9348730163014898
+Epoch: 0371 train_loss= 0.41274 val_roc= 0.91649 val_ap= 0.93463
+Epoch: 0372 train_loss= 0.41322 val_roc= 0.91614 val_ap= 0.93342
+Epoch: 0373 train_loss= 0.41297 val_roc= 0.91642 val_ap= 0.93300
+Epoch: 0374 train_loss= 0.41340 val_roc= 0.91475 val_ap= 0.93297
+Epoch: 0375 train_loss= 0.41288 val_roc= 0.91539 val_ap= 0.93185
+Epoch: 0376 train_loss= 0.41306 val_roc= 0.90714 val_ap= 0.92874
+Epoch: 0377 train_loss= 0.41333 val_roc= 0.90745 val_ap= 0.92754
+Epoch: 0378 train_loss= 0.41305 val_roc= 0.91026 val_ap= 0.92893
+Epoch: 0379 train_loss= 0.41332 val_roc= 0.90929 val_ap= 0.93038
+Epoch: 0380 train_loss= 0.41346 val_roc= 0.91939 val_ap= 0.93554
+Test ROC score: 0.9217002777442338
+Test AP score: 0.9339952060312835
+Epoch: 0381 train_loss= 0.41339 val_roc= 0.90990 val_ap= 0.92961
+Epoch: 0382 train_loss= 0.41357 val_roc= 0.90547 val_ap= 0.92803
+Epoch: 0383 train_loss= 0.41368 val_roc= 0.91265 val_ap= 0.93130
+Epoch: 0384 train_loss= 0.41332 val_roc= 0.91040 val_ap= 0.92901
+Epoch: 0385 train_loss= 0.41385 val_roc= 0.91279 val_ap= 0.93056
+Epoch: 0386 train_loss= 0.41333 val_roc= 0.91094 val_ap= 0.92975
+Epoch: 0387 train_loss= 0.41362 val_roc= 0.91174 val_ap= 0.93140
+Epoch: 0388 train_loss= 0.41376 val_roc= 0.90700 val_ap= 0.92763
+Epoch: 0389 train_loss= 0.41361 val_roc= 0.91003 val_ap= 0.93026
+Epoch: 0390 train_loss= 0.41403 val_roc= 0.90551 val_ap= 0.92634
+Test ROC score: 0.9204154087670571
+Test AP score: 0.9321667401280551
+Epoch: 0391 train_loss= 0.41353 val_roc= 0.90415 val_ap= 0.92659
+Epoch: 0392 train_loss= 0.41348 val_roc= 0.91017 val_ap= 0.92984
+Epoch: 0393 train_loss= 0.41437 val_roc= 0.90155 val_ap= 0.92418
+Epoch: 0394 train_loss= 0.41367 val_roc= 0.90634 val_ap= 0.92744
+Epoch: 0395 train_loss= 0.41396 val_roc= 0.90409 val_ap= 0.92715
+Epoch: 0396 train_loss= 0.41387 val_roc= 0.90891 val_ap= 0.92815
+Epoch: 0397 train_loss= 0.41438 val_roc= 0.90825 val_ap= 0.92949
+Epoch: 0398 train_loss= 0.41416 val_roc= 0.90594 val_ap= 0.92698
+Epoch: 0399 train_loss= 0.41443 val_roc= 0.91139 val_ap= 0.93074
+Epoch: 0400 train_loss= 0.41490 val_roc= 0.90590 val_ap= 0.92737
+Test ROC score: 0.9168216398985629
+Test AP score: 0.9299803707668655
+
+Epoch: 0001 train_loss= 2.21389 val_roc= 0.78587 val_ap= 0.79112
+Epoch: 0002 train_loss= 2.15407 val_roc= 0.77460 val_ap= 0.78496
+Epoch: 0003 train_loss= 2.05679 val_roc= 0.75110 val_ap= 0.76656
+Epoch: 0004 train_loss= 1.98154 val_roc= 0.73367 val_ap= 0.75188
+Epoch: 0005 train_loss= 1.90297 val_roc= 0.72042 val_ap= 0.74181
+Epoch: 0006 train_loss= 1.84501 val_roc= 0.71101 val_ap= 0.73522
+Epoch: 0007 train_loss= 1.73704 val_roc= 0.70524 val_ap= 0.73095
+Epoch: 0008 train_loss= 1.68333 val_roc= 0.70296 val_ap= 0.72936
+Epoch: 0009 train_loss= 1.60017 val_roc= 0.70321 val_ap= 0.72976
+Epoch: 0010 train_loss= 1.49655 val_roc= 0.70458 val_ap= 0.73108
+Test ROC score: 0.6803322663459703
+Test AP score: 0.7144485830610126
+Epoch: 0011 train_loss= 1.44077 val_roc= 0.70910 val_ap= 0.73473
+Epoch: 0012 train_loss= 1.37382 val_roc= 0.71507 val_ap= 0.73946
+Epoch: 0013 train_loss= 1.30509 val_roc= 0.72216 val_ap= 0.74517
+Epoch: 0014 train_loss= 1.25522 val_roc= 0.73158 val_ap= 0.75175
+Epoch: 0015 train_loss= 1.18272 val_roc= 0.74016 val_ap= 0.75825
+Epoch: 0016 train_loss= 1.13977 val_roc= 0.74661 val_ap= 0.76415
+Epoch: 0017 train_loss= 1.09156 val_roc= 0.75268 val_ap= 0.76825
+Epoch: 0018 train_loss= 1.04273 val_roc= 0.75676 val_ap= 0.77142
+Epoch: 0019 train_loss= 0.98966 val_roc= 0.75777 val_ap= 0.77289
+Epoch: 0020 train_loss= 0.95591 val_roc= 0.76744 val_ap= 0.78094
+Test ROC score: 0.7304746713522896
+Test AP score: 0.764588018672152
+Epoch: 0021 train_loss= 0.92644 val_roc= 0.78428 val_ap= 0.79336
+Epoch: 0022 train_loss= 0.89527 val_roc= 0.80235 val_ap= 0.80664
+Epoch: 0023 train_loss= 0.87696 val_roc= 0.81457 val_ap= 0.81516
+Epoch: 0024 train_loss= 0.84583 val_roc= 0.82157 val_ap= 0.81975
+Epoch: 0025 train_loss= 0.82321 val_roc= 0.82982 val_ap= 0.82522
+Epoch: 0026 train_loss= 0.80626 val_roc= 0.84022 val_ap= 0.83236
+Epoch: 0027 train_loss= 0.79214 val_roc= 0.85147 val_ap= 0.84057
+Epoch: 0028 train_loss= 0.75912 val_roc= 0.85875 val_ap= 0.84540
+Epoch: 0029 train_loss= 0.74261 val_roc= 0.86453 val_ap= 0.84921
+Epoch: 0030 train_loss= 0.72023 val_roc= 0.86663 val_ap= 0.84960
+Test ROC score: 0.8164973769393905
+Test AP score: 0.8096410261018352
+Epoch: 0031 train_loss= 0.70680 val_roc= 0.86805 val_ap= 0.84975
+Epoch: 0032 train_loss= 0.68779 val_roc= 0.86782 val_ap= 0.84973
+Epoch: 0033 train_loss= 0.67692 val_roc= 0.86565 val_ap= 0.84868
+Epoch: 0034 train_loss= 0.65720 val_roc= 0.86443 val_ap= 0.84856
+Epoch: 0035 train_loss= 0.65155 val_roc= 0.86459 val_ap= 0.84891
+Epoch: 0036 train_loss= 0.64021 val_roc= 0.86614 val_ap= 0.85190
+Epoch: 0037 train_loss= 0.62380 val_roc= 0.86944 val_ap= 0.85651
+Epoch: 0038 train_loss= 0.62047 val_roc= 0.87330 val_ap= 0.86262
+Epoch: 0039 train_loss= 0.60718 val_roc= 0.87784 val_ap= 0.86858
+Epoch: 0040 train_loss= 0.60150 val_roc= 0.88316 val_ap= 0.87661
+Test ROC score: 0.8525361053400976
+Test AP score: 0.8422262209676579
+Epoch: 0041 train_loss= 0.59211 val_roc= 0.88764 val_ap= 0.88331
+Epoch: 0042 train_loss= 0.58560 val_roc= 0.89157 val_ap= 0.88892
+Epoch: 0043 train_loss= 0.58437 val_roc= 0.89576 val_ap= 0.89616
+Epoch: 0044 train_loss= 0.57825 val_roc= 0.89907 val_ap= 0.90133
+Epoch: 0045 train_loss= 0.57217 val_roc= 0.90162 val_ap= 0.90487
+Epoch: 0046 train_loss= 0.56712 val_roc= 0.90491 val_ap= 0.90933
+Epoch: 0047 train_loss= 0.55795 val_roc= 0.90698 val_ap= 0.91214
+Epoch: 0048 train_loss= 0.55913 val_roc= 0.90776 val_ap= 0.91348
+Epoch: 0049 train_loss= 0.55515 val_roc= 0.90945 val_ap= 0.91591
+Epoch: 0050 train_loss= 0.55339 val_roc= 0.91035 val_ap= 0.91659
+Test ROC score: 0.8963990076657461
+Test AP score: 0.8966922370915427
+Epoch: 0051 train_loss= 0.55062 val_roc= 0.91164 val_ap= 0.91873
+Epoch: 0052 train_loss= 0.55292 val_roc= 0.91300 val_ap= 0.92005
+Epoch: 0053 train_loss= 0.54894 val_roc= 0.91359 val_ap= 0.92056
+Epoch: 0054 train_loss= 0.54741 val_roc= 0.91501 val_ap= 0.92210
+Epoch: 0055 train_loss= 0.54431 val_roc= 0.91595 val_ap= 0.92266
+Epoch: 0056 train_loss= 0.54222 val_roc= 0.91644 val_ap= 0.92331
+Epoch: 0057 train_loss= 0.54355 val_roc= 0.91728 val_ap= 0.92405
+Epoch: 0058 train_loss= 0.53796 val_roc= 0.91794 val_ap= 0.92404
+Epoch: 0059 train_loss= 0.54028 val_roc= 0.91856 val_ap= 0.92439
+Epoch: 0060 train_loss= 0.54024 val_roc= 0.91972 val_ap= 0.92576
+Test ROC score: 0.9061351173266026
+Test AP score: 0.9094275515025554
+Epoch: 0061 train_loss= 0.53624 val_roc= 0.92046 val_ap= 0.92554
+Epoch: 0062 train_loss= 0.53559 val_roc= 0.92103 val_ap= 0.92536
+Epoch: 0063 train_loss= 0.53464 val_roc= 0.92148 val_ap= 0.92620
+Epoch: 0064 train_loss= 0.53141 val_roc= 0.92228 val_ap= 0.92681
+Epoch: 0065 train_loss= 0.53288 val_roc= 0.92290 val_ap= 0.92686
+Epoch: 0066 train_loss= 0.53192 val_roc= 0.92330 val_ap= 0.92741
+Epoch: 0067 train_loss= 0.52988 val_roc= 0.92406 val_ap= 0.92830
+Epoch: 0068 train_loss= 0.52859 val_roc= 0.92508 val_ap= 0.92901
+Epoch: 0069 train_loss= 0.52761 val_roc= 0.92550 val_ap= 0.92924
+Epoch: 0070 train_loss= 0.52410 val_roc= 0.92615 val_ap= 0.92966
+Test ROC score: 0.9115900752172081
+Test AP score: 0.9151488805855399
+Epoch: 0071 train_loss= 0.51905 val_roc= 0.92644 val_ap= 0.92995
+Epoch: 0072 train_loss= 0.52205 val_roc= 0.92709 val_ap= 0.93050
+Epoch: 0073 train_loss= 0.52216 val_roc= 0.92766 val_ap= 0.93091
+Epoch: 0074 train_loss= 0.51824 val_roc= 0.92792 val_ap= 0.93096
+Epoch: 0075 train_loss= 0.51732 val_roc= 0.92803 val_ap= 0.93101
+Epoch: 0076 train_loss= 0.51492 val_roc= 0.92852 val_ap= 0.93153
+Epoch: 0077 train_loss= 0.51279 val_roc= 0.92891 val_ap= 0.93136
+Epoch: 0078 train_loss= 0.51202 val_roc= 0.92938 val_ap= 0.93225
+Epoch: 0079 train_loss= 0.51150 val_roc= 0.92972 val_ap= 0.93229
+Epoch: 0080 train_loss= 0.50923 val_roc= 0.92988 val_ap= 0.93235
+Test ROC score: 0.9169262122428699
+Test AP score: 0.9201092435096817
+Epoch: 0081 train_loss= 0.50718 val_roc= 0.93039 val_ap= 0.93284
+Epoch: 0082 train_loss= 0.50804 val_roc= 0.93034 val_ap= 0.93297
+Epoch: 0083 train_loss= 0.50788 val_roc= 0.93098 val_ap= 0.93335
+Epoch: 0084 train_loss= 0.50412 val_roc= 0.93157 val_ap= 0.93432
+Epoch: 0085 train_loss= 0.50270 val_roc= 0.93220 val_ap= 0.93493
+Epoch: 0086 train_loss= 0.50091 val_roc= 0.93251 val_ap= 0.93528
+Epoch: 0087 train_loss= 0.50004 val_roc= 0.93300 val_ap= 0.93596
+Epoch: 0088 train_loss= 0.50142 val_roc= 0.93331 val_ap= 0.93623
+Epoch: 0089 train_loss= 0.49859 val_roc= 0.93415 val_ap= 0.93708
+Epoch: 0090 train_loss= 0.49681 val_roc= 0.93386 val_ap= 0.93699
+Test ROC score: 0.9198211205887754
+Test AP score: 0.9235922420584162
+Epoch: 0091 train_loss= 0.49732 val_roc= 0.93471 val_ap= 0.93770
+Epoch: 0092 train_loss= 0.49684 val_roc= 0.93548 val_ap= 0.93840
+Epoch: 0093 train_loss= 0.49672 val_roc= 0.93564 val_ap= 0.93868
+Epoch: 0094 train_loss= 0.49500 val_roc= 0.93646 val_ap= 0.93951
+Epoch: 0095 train_loss= 0.49358 val_roc= 0.93746 val_ap= 0.94046
+Epoch: 0096 train_loss= 0.49459 val_roc= 0.93788 val_ap= 0.94087
+Epoch: 0097 train_loss= 0.49242 val_roc= 0.93851 val_ap= 0.94151
+Epoch: 0098 train_loss= 0.49383 val_roc= 0.93931 val_ap= 0.94234
+Epoch: 0099 train_loss= 0.49105 val_roc= 0.93980 val_ap= 0.94280
+Epoch: 0100 train_loss= 0.49135 val_roc= 0.94054 val_ap= 0.94350
+Test ROC score: 0.9208725052119152
+Test AP score: 0.9252956079068658
+Epoch: 0101 train_loss= 0.48900 val_roc= 0.94075 val_ap= 0.94372
+Epoch: 0102 train_loss= 0.48855 val_roc= 0.94135 val_ap= 0.94425
+Epoch: 0103 train_loss= 0.48947 val_roc= 0.94153 val_ap= 0.94478
+Epoch: 0104 train_loss= 0.49011 val_roc= 0.94203 val_ap= 0.94526
+Epoch: 0105 train_loss= 0.48774 val_roc= 0.94227 val_ap= 0.94548
+Epoch: 0106 train_loss= 0.48863 val_roc= 0.94211 val_ap= 0.94551
+Epoch: 0107 train_loss= 0.48599 val_roc= 0.94259 val_ap= 0.94597
+Epoch: 0108 train_loss= 0.48742 val_roc= 0.94268 val_ap= 0.94610
+Epoch: 0109 train_loss= 0.48583 val_roc= 0.94243 val_ap= 0.94566
+Epoch: 0110 train_loss= 0.48651 val_roc= 0.94250 val_ap= 0.94574
+Test ROC score: 0.9197022997238316
+Test AP score: 0.9241121658945064
+Epoch: 0111 train_loss= 0.48779 val_roc= 0.94297 val_ap= 0.94654
+Epoch: 0112 train_loss= 0.48680 val_roc= 0.94232 val_ap= 0.94556
+Epoch: 0113 train_loss= 0.48548 val_roc= 0.94221 val_ap= 0.94547
+Epoch: 0114 train_loss= 0.48455 val_roc= 0.94289 val_ap= 0.94617
+Epoch: 0115 train_loss= 0.48661 val_roc= 0.94282 val_ap= 0.94605
+Epoch: 0116 train_loss= 0.48319 val_roc= 0.94260 val_ap= 0.94587
+Epoch: 0117 train_loss= 0.48497 val_roc= 0.94266 val_ap= 0.94612
+Epoch: 0118 train_loss= 0.48462 val_roc= 0.94298 val_ap= 0.94635
+Epoch: 0119 train_loss= 0.48210 val_roc= 0.94344 val_ap= 0.94692
+Epoch: 0120 train_loss= 0.48326 val_roc= 0.94325 val_ap= 0.94714
+Test ROC score: 0.92018838508042
+Test AP score: 0.9250160488712743
+Epoch: 0121 train_loss= 0.48506 val_roc= 0.94354 val_ap= 0.94754
+Epoch: 0122 train_loss= 0.48304 val_roc= 0.94389 val_ap= 0.94803
+Epoch: 0123 train_loss= 0.48437 val_roc= 0.94365 val_ap= 0.94781
+Epoch: 0124 train_loss= 0.48257 val_roc= 0.94386 val_ap= 0.94811
+Epoch: 0125 train_loss= 0.48144 val_roc= 0.94424 val_ap= 0.94854
+Epoch: 0126 train_loss= 0.47936 val_roc= 0.94485 val_ap= 0.94909
+Epoch: 0127 train_loss= 0.48061 val_roc= 0.94519 val_ap= 0.94933
+Epoch: 0128 train_loss= 0.48046 val_roc= 0.94522 val_ap= 0.94941
+Epoch: 0129 train_loss= 0.48063 val_roc= 0.94561 val_ap= 0.94966
+Epoch: 0130 train_loss= 0.48192 val_roc= 0.94623 val_ap= 0.95046
+Test ROC score: 0.9230184820454471
+Test AP score: 0.9290767655017108
+Epoch: 0131 train_loss= 0.47903 val_roc= 0.94606 val_ap= 0.95001
+Epoch: 0132 train_loss= 0.47897 val_roc= 0.94613 val_ap= 0.95008
+Epoch: 0133 train_loss= 0.47964 val_roc= 0.94665 val_ap= 0.95059
+Epoch: 0134 train_loss= 0.48102 val_roc= 0.94661 val_ap= 0.95033
+Epoch: 0135 train_loss= 0.48079 val_roc= 0.94720 val_ap= 0.95084
+Epoch: 0136 train_loss= 0.47861 val_roc= 0.94709 val_ap= 0.95081
+Epoch: 0137 train_loss= 0.48062 val_roc= 0.94697 val_ap= 0.95061
+Epoch: 0138 train_loss= 0.47925 val_roc= 0.94709 val_ap= 0.95073
+Epoch: 0139 train_loss= 0.47841 val_roc= 0.94674 val_ap= 0.95035
+Epoch: 0140 train_loss= 0.48187 val_roc= 0.94678 val_ap= 0.95013
+Test ROC score: 0.9235081680343069
+Test AP score: 0.9304126507888077
+Epoch: 0141 train_loss= 0.47965 val_roc= 0.94661 val_ap= 0.95016
+Epoch: 0142 train_loss= 0.47922 val_roc= 0.94629 val_ap= 0.94986
+Epoch: 0143 train_loss= 0.47887 val_roc= 0.94638 val_ap= 0.94962
+Epoch: 0144 train_loss= 0.47894 val_roc= 0.94605 val_ap= 0.94950
+Epoch: 0145 train_loss= 0.47904 val_roc= 0.94558 val_ap= 0.94887
+Epoch: 0146 train_loss= 0.47934 val_roc= 0.94578 val_ap= 0.94880
+Epoch: 0147 train_loss= 0.48005 val_roc= 0.94545 val_ap= 0.94863
+Epoch: 0148 train_loss= 0.47983 val_roc= 0.94568 val_ap= 0.94865
+Epoch: 0149 train_loss= 0.47625 val_roc= 0.94583 val_ap= 0.94850
+Epoch: 0150 train_loss= 0.48057 val_roc= 0.94576 val_ap= 0.94863
+Test ROC score: 0.9239942533908956
+Test AP score: 0.9316690362333606
+Epoch: 0151 train_loss= 0.47920 val_roc= 0.94565 val_ap= 0.94831
+Epoch: 0152 train_loss= 0.47905 val_roc= 0.94526 val_ap= 0.94784
+Epoch: 0153 train_loss= 0.47853 val_roc= 0.94537 val_ap= 0.94797
+Epoch: 0154 train_loss= 0.47696 val_roc= 0.94518 val_ap= 0.94779
+Epoch: 0155 train_loss= 0.47932 val_roc= 0.94516 val_ap= 0.94790
+Epoch: 0156 train_loss= 0.47926 val_roc= 0.94513 val_ap= 0.94792
+Epoch: 0157 train_loss= 0.47801 val_roc= 0.94464 val_ap= 0.94738
+Epoch: 0158 train_loss= 0.47878 val_roc= 0.94467 val_ap= 0.94742
+Epoch: 0159 train_loss= 0.47851 val_roc= 0.94469 val_ap= 0.94738
+Epoch: 0160 train_loss= 0.47622 val_roc= 0.94483 val_ap= 0.94782
+Test ROC score: 0.924469536850671
+Test AP score: 0.9330890376821139
+Epoch: 0161 train_loss= 0.47625 val_roc= 0.94487 val_ap= 0.94775
+Epoch: 0162 train_loss= 0.47762 val_roc= 0.94456 val_ap= 0.94730
+Epoch: 0163 train_loss= 0.47738 val_roc= 0.94519 val_ap= 0.94799
+Epoch: 0164 train_loss= 0.47596 val_roc= 0.94503 val_ap= 0.94801
+Epoch: 0165 train_loss= 0.47703 val_roc= 0.94477 val_ap= 0.94781
+Epoch: 0166 train_loss= 0.47639 val_roc= 0.94493 val_ap= 0.94806
+Epoch: 0167 train_loss= 0.47596 val_roc= 0.94548 val_ap= 0.94871
+Epoch: 0168 train_loss= 0.47542 val_roc= 0.94528 val_ap= 0.94867
+Epoch: 0169 train_loss= 0.47570 val_roc= 0.94568 val_ap= 0.94886
+Epoch: 0170 train_loss= 0.47752 val_roc= 0.94567 val_ap= 0.94908
+Test ROC score: 0.925409301873409
+Test AP score: 0.9353044682211757
+Epoch: 0171 train_loss= 0.47633 val_roc= 0.94565 val_ap= 0.94912
+Epoch: 0172 train_loss= 0.47705 val_roc= 0.94631 val_ap= 0.94973
+Epoch: 0173 train_loss= 0.47548 val_roc= 0.94644 val_ap= 0.94990
+Epoch: 0174 train_loss= 0.47588 val_roc= 0.94623 val_ap= 0.94990
+Epoch: 0175 train_loss= 0.47609 val_roc= 0.94563 val_ap= 0.94893
+Epoch: 0176 train_loss= 0.47415 val_roc= 0.94665 val_ap= 0.95006
+Epoch: 0177 train_loss= 0.47400 val_roc= 0.94605 val_ap= 0.94962
+Epoch: 0178 train_loss= 0.47762 val_roc= 0.94577 val_ap= 0.94938
+Epoch: 0179 train_loss= 0.47610 val_roc= 0.94684 val_ap= 0.95062
+Epoch: 0180 train_loss= 0.47467 val_roc= 0.94641 val_ap= 0.94961
+Test ROC score: 0.9256073366483155
+Test AP score: 0.9361614265917013
+Epoch: 0181 train_loss= 0.47579 val_roc= 0.94587 val_ap= 0.94939
+Epoch: 0182 train_loss= 0.47551 val_roc= 0.94674 val_ap= 0.95045
+Epoch: 0183 train_loss= 0.47515 val_roc= 0.94691 val_ap= 0.95034
+Epoch: 0184 train_loss= 0.47322 val_roc= 0.94641 val_ap= 0.94985
+Epoch: 0185 train_loss= 0.47558 val_roc= 0.94706 val_ap= 0.95051
+Epoch: 0186 train_loss= 0.47470 val_roc= 0.94712 val_ap= 0.95062
+Epoch: 0187 train_loss= 0.47390 val_roc= 0.94648 val_ap= 0.94969
+Epoch: 0188 train_loss= 0.47373 val_roc= 0.94703 val_ap= 0.95023
+Epoch: 0189 train_loss= 0.47370 val_roc= 0.94748 val_ap= 0.95061
+Epoch: 0190 train_loss= 0.47408 val_roc= 0.94691 val_ap= 0.95006
+Test ROC score: 0.9256361417064836
+Test AP score: 0.9362526780615819
+Epoch: 0191 train_loss= 0.47456 val_roc= 0.94743 val_ap= 0.95068
+Epoch: 0192 train_loss= 0.47464 val_roc= 0.94710 val_ap= 0.95024
+Epoch: 0193 train_loss= 0.47287 val_roc= 0.94751 val_ap= 0.95066
+Epoch: 0194 train_loss= 0.47325 val_roc= 0.94732 val_ap= 0.95033
+Epoch: 0195 train_loss= 0.47385 val_roc= 0.94775 val_ap= 0.95086
+Epoch: 0196 train_loss= 0.47389 val_roc= 0.94740 val_ap= 0.95063
+Epoch: 0197 train_loss= 0.47259 val_roc= 0.94735 val_ap= 0.95090
+Epoch: 0198 train_loss= 0.47160 val_roc= 0.94756 val_ap= 0.95119
+Epoch: 0199 train_loss= 0.47160 val_roc= 0.94772 val_ap= 0.95132
+Epoch: 0200 train_loss= 0.47391 val_roc= 0.94801 val_ap= 0.95196
+Test ROC score: 0.9266803250650815
+Test AP score: 0.9370023861041135
+Epoch: 0201 train_loss= 0.47111 val_roc= 0.94830 val_ap= 0.95230
+Epoch: 0202 train_loss= 0.47297 val_roc= 0.94827 val_ap= 0.95256
+Epoch: 0203 train_loss= 0.47186 val_roc= 0.94829 val_ap= 0.95232
+Epoch: 0204 train_loss= 0.46962 val_roc= 0.94837 val_ap= 0.95247
+Epoch: 0205 train_loss= 0.47099 val_roc= 0.94784 val_ap= 0.95199
+Epoch: 0206 train_loss= 0.47114 val_roc= 0.94829 val_ap= 0.95266
+Epoch: 0207 train_loss= 0.47272 val_roc= 0.94852 val_ap= 0.95254
+Epoch: 0208 train_loss= 0.47060 val_roc= 0.94839 val_ap= 0.95264
+Epoch: 0209 train_loss= 0.46996 val_roc= 0.94808 val_ap= 0.95220
+Epoch: 0210 train_loss= 0.46979 val_roc= 0.94843 val_ap= 0.95266
+Test ROC score: 0.927418454680642
+Test AP score: 0.9371264235684573
+Epoch: 0211 train_loss= 0.47053 val_roc= 0.94836 val_ap= 0.95238
+Epoch: 0212 train_loss= 0.47056 val_roc= 0.94884 val_ap= 0.95287
+Epoch: 0213 train_loss= 0.47004 val_roc= 0.94868 val_ap= 0.95279
+Epoch: 0214 train_loss= 0.46950 val_roc= 0.94895 val_ap= 0.95284
+Epoch: 0215 train_loss= 0.46898 val_roc= 0.94897 val_ap= 0.95305
+Epoch: 0216 train_loss= 0.46871 val_roc= 0.94891 val_ap= 0.95302
+Epoch: 0217 train_loss= 0.46752 val_roc= 0.94907 val_ap= 0.95322
+Epoch: 0218 train_loss= 0.46831 val_roc= 0.94899 val_ap= 0.95345
+Epoch: 0219 train_loss= 0.46914 val_roc= 0.94865 val_ap= 0.95334
+Epoch: 0220 train_loss= 0.46811 val_roc= 0.94911 val_ap= 0.95368
+Test ROC score: 0.9273968508870157
+Test AP score: 0.9370035239592611
+Epoch: 0221 train_loss= 0.46886 val_roc= 0.94876 val_ap= 0.95359
+Epoch: 0222 train_loss= 0.46754 val_roc= 0.94847 val_ap= 0.95321
+Epoch: 0223 train_loss= 0.46756 val_roc= 0.94850 val_ap= 0.95330
+Epoch: 0224 train_loss= 0.46835 val_roc= 0.94847 val_ap= 0.95333
+Epoch: 0225 train_loss= 0.46694 val_roc= 0.94818 val_ap= 0.95308
+Epoch: 0226 train_loss= 0.46746 val_roc= 0.94811 val_ap= 0.95287
+Epoch: 0227 train_loss= 0.46702 val_roc= 0.94814 val_ap= 0.95301
+Epoch: 0228 train_loss= 0.46748 val_roc= 0.94803 val_ap= 0.95296
+Epoch: 0229 train_loss= 0.46656 val_roc= 0.94764 val_ap= 0.95248
+Epoch: 0230 train_loss= 0.46680 val_roc= 0.94771 val_ap= 0.95259
+Test ROC score: 0.9253156854343624
+Test AP score: 0.935179840062265
+Epoch: 0231 train_loss= 0.46741 val_roc= 0.94764 val_ap= 0.95282
+Epoch: 0232 train_loss= 0.46736 val_roc= 0.94671 val_ap= 0.95154
+Epoch: 0233 train_loss= 0.46691 val_roc= 0.94684 val_ap= 0.95168
+Epoch: 0234 train_loss= 0.46541 val_roc= 0.94685 val_ap= 0.95183
+Epoch: 0235 train_loss= 0.46717 val_roc= 0.94651 val_ap= 0.95141
+Epoch: 0236 train_loss= 0.46540 val_roc= 0.94661 val_ap= 0.95135
+Epoch: 0237 train_loss= 0.46574 val_roc= 0.94652 val_ap= 0.95140
+Epoch: 0238 train_loss= 0.46540 val_roc= 0.94654 val_ap= 0.95160
+Epoch: 0239 train_loss= 0.46651 val_roc= 0.94641 val_ap= 0.95129
+Epoch: 0240 train_loss= 0.46675 val_roc= 0.94616 val_ap= 0.95140
+Test ROC score: 0.9231589067040171
+Test AP score: 0.9331307226956916
+Epoch: 0241 train_loss= 0.46535 val_roc= 0.94668 val_ap= 0.95188
+Epoch: 0242 train_loss= 0.46503 val_roc= 0.94622 val_ap= 0.95150
+Epoch: 0243 train_loss= 0.46540 val_roc= 0.94597 val_ap= 0.95121
+Epoch: 0244 train_loss= 0.46601 val_roc= 0.94584 val_ap= 0.95116
+Epoch: 0245 train_loss= 0.46590 val_roc= 0.94580 val_ap= 0.95111
+Epoch: 0246 train_loss= 0.46678 val_roc= 0.94584 val_ap= 0.95137
+Epoch: 0247 train_loss= 0.46508 val_roc= 0.94571 val_ap= 0.95092
+Epoch: 0248 train_loss= 0.46428 val_roc= 0.94558 val_ap= 0.95106
+Epoch: 0249 train_loss= 0.46387 val_roc= 0.94628 val_ap= 0.95174
+Epoch: 0250 train_loss= 0.46573 val_roc= 0.94558 val_ap= 0.95108
+Test ROC score: 0.9236125863701665
+Test AP score: 0.9336755995877765
+Epoch: 0251 train_loss= 0.46448 val_roc= 0.94620 val_ap= 0.95195
+Epoch: 0252 train_loss= 0.46468 val_roc= 0.94658 val_ap= 0.95210
+Epoch: 0253 train_loss= 0.46470 val_roc= 0.94638 val_ap= 0.95224
+Epoch: 0254 train_loss= 0.46418 val_roc= 0.94628 val_ap= 0.95201
+Epoch: 0255 train_loss= 0.46264 val_roc= 0.94636 val_ap= 0.95202
+Epoch: 0256 train_loss= 0.46519 val_roc= 0.94645 val_ap= 0.95227
+Epoch: 0257 train_loss= 0.46373 val_roc= 0.94603 val_ap= 0.95227
+Epoch: 0258 train_loss= 0.46209 val_roc= 0.94613 val_ap= 0.95199
+Epoch: 0259 train_loss= 0.46445 val_roc= 0.94600 val_ap= 0.95188
+Epoch: 0260 train_loss= 0.46384 val_roc= 0.94592 val_ap= 0.95182
+Test ROC score: 0.9236233882669795
+Test AP score: 0.9340890010086139
+Epoch: 0261 train_loss= 0.46443 val_roc= 0.94555 val_ap= 0.95149
+Epoch: 0262 train_loss= 0.46400 val_roc= 0.94589 val_ap= 0.95187
+Epoch: 0263 train_loss= 0.46270 val_roc= 0.94558 val_ap= 0.95142
+Epoch: 0264 train_loss= 0.46288 val_roc= 0.94515 val_ap= 0.95106
+Epoch: 0265 train_loss= 0.46391 val_roc= 0.94505 val_ap= 0.95120
+Epoch: 0266 train_loss= 0.46301 val_roc= 0.94555 val_ap= 0.95158
+Epoch: 0267 train_loss= 0.46348 val_roc= 0.94498 val_ap= 0.95121
+Epoch: 0268 train_loss= 0.46295 val_roc= 0.94482 val_ap= 0.95092
+Epoch: 0269 train_loss= 0.46308 val_roc= 0.94482 val_ap= 0.95116
+Epoch: 0270 train_loss= 0.46417 val_roc= 0.94477 val_ap= 0.95113
+Test ROC score: 0.9222515473717187
+Test AP score: 0.9330526309506977
+Epoch: 0271 train_loss= 0.46291 val_roc= 0.94451 val_ap= 0.95092
+Epoch: 0272 train_loss= 0.46227 val_roc= 0.94434 val_ap= 0.95069
+Epoch: 0273 train_loss= 0.46138 val_roc= 0.94393 val_ap= 0.95064
+Epoch: 0274 train_loss= 0.46366 val_roc= 0.94421 val_ap= 0.95077
+Epoch: 0275 train_loss= 0.46162 val_roc= 0.94414 val_ap= 0.95089
+Epoch: 0276 train_loss= 0.46236 val_roc= 0.94406 val_ap= 0.95071
+Epoch: 0277 train_loss= 0.46105 val_roc= 0.94437 val_ap= 0.95118
+Epoch: 0278 train_loss= 0.46158 val_roc= 0.94395 val_ap= 0.95079
+Epoch: 0279 train_loss= 0.46271 val_roc= 0.94404 val_ap= 0.95085
+Epoch: 0280 train_loss= 0.46189 val_roc= 0.94398 val_ap= 0.95092
+Test ROC score: 0.9213333861426067
+Test AP score: 0.9322578316419207
+Epoch: 0281 train_loss= 0.46210 val_roc= 0.94411 val_ap= 0.95088
+Epoch: 0282 train_loss= 0.46124 val_roc= 0.94378 val_ap= 0.95075
+Epoch: 0283 train_loss= 0.46062 val_roc= 0.94360 val_ap= 0.95043
+Epoch: 0284 train_loss= 0.46145 val_roc= 0.94362 val_ap= 0.95075
+Epoch: 0285 train_loss= 0.46090 val_roc= 0.94324 val_ap= 0.95020
+Epoch: 0286 train_loss= 0.45976 val_roc= 0.94320 val_ap= 0.95029
+Epoch: 0287 train_loss= 0.46107 val_roc= 0.94307 val_ap= 0.95012
+Epoch: 0288 train_loss= 0.46033 val_roc= 0.94294 val_ap= 0.94993
+Epoch: 0289 train_loss= 0.45949 val_roc= 0.94318 val_ap= 0.95016
+Epoch: 0290 train_loss= 0.46045 val_roc= 0.94255 val_ap= 0.94945
+Test ROC score: 0.9213081817167095
+Test AP score: 0.9321938285366573
+Epoch: 0291 train_loss= 0.45983 val_roc= 0.94282 val_ap= 0.94968
+Epoch: 0292 train_loss= 0.45898 val_roc= 0.94240 val_ap= 0.94932
+Epoch: 0293 train_loss= 0.46119 val_roc= 0.94243 val_ap= 0.94923
+Epoch: 0294 train_loss= 0.46125 val_roc= 0.94246 val_ap= 0.94930
+Epoch: 0295 train_loss= 0.46037 val_roc= 0.94201 val_ap= 0.94884
+Epoch: 0296 train_loss= 0.45988 val_roc= 0.94239 val_ap= 0.94907
+Epoch: 0297 train_loss= 0.46032 val_roc= 0.94217 val_ap= 0.94917
+Epoch: 0298 train_loss= 0.46009 val_roc= 0.94226 val_ap= 0.94897
+Epoch: 0299 train_loss= 0.46036 val_roc= 0.94185 val_ap= 0.94881
+Epoch: 0300 train_loss= 0.46078 val_roc= 0.94208 val_ap= 0.94883
+Test ROC score: 0.9197959161628781
+Test AP score: 0.9313412203137191
+Epoch: 0301 train_loss= 0.46114 val_roc= 0.94164 val_ap= 0.94856
+Epoch: 0302 train_loss= 0.45973 val_roc= 0.94192 val_ap= 0.94903
+Epoch: 0303 train_loss= 0.46031 val_roc= 0.94158 val_ap= 0.94864
+Epoch: 0304 train_loss= 0.46037 val_roc= 0.94139 val_ap= 0.94848
+Epoch: 0305 train_loss= 0.46031 val_roc= 0.94205 val_ap= 0.94917
+Epoch: 0306 train_loss= 0.46011 val_roc= 0.94142 val_ap= 0.94879
+Epoch: 0307 train_loss= 0.45966 val_roc= 0.94139 val_ap= 0.94853
+Epoch: 0308 train_loss= 0.45936 val_roc= 0.94175 val_ap= 0.94885
+Epoch: 0309 train_loss= 0.45987 val_roc= 0.94140 val_ap= 0.94862
+Epoch: 0310 train_loss= 0.45918 val_roc= 0.94139 val_ap= 0.94866
+Test ROC score: 0.9186293113070656
+Test AP score: 0.930729000475997
+Epoch: 0311 train_loss= 0.45916 val_roc= 0.94139 val_ap= 0.94865
+Epoch: 0312 train_loss= 0.45912 val_roc= 0.94112 val_ap= 0.94833
+Epoch: 0313 train_loss= 0.46032 val_roc= 0.94123 val_ap= 0.94844
+Epoch: 0314 train_loss= 0.45892 val_roc= 0.94114 val_ap= 0.94833
+Epoch: 0315 train_loss= 0.45999 val_roc= 0.94096 val_ap= 0.94831
+Epoch: 0316 train_loss= 0.45864 val_roc= 0.94093 val_ap= 0.94807
+Epoch: 0317 train_loss= 0.45912 val_roc= 0.94081 val_ap= 0.94800
+Epoch: 0318 train_loss= 0.45918 val_roc= 0.94035 val_ap= 0.94776
+Epoch: 0319 train_loss= 0.45793 val_roc= 0.94052 val_ap= 0.94775
+Epoch: 0320 train_loss= 0.45863 val_roc= 0.94036 val_ap= 0.94747
+Test ROC score: 0.9174483039221687
+Test AP score: 0.9299936161071674
+Epoch: 0321 train_loss= 0.45844 val_roc= 0.93977 val_ap= 0.94716
+Epoch: 0322 train_loss= 0.45777 val_roc= 0.93955 val_ap= 0.94704
+Epoch: 0323 train_loss= 0.45849 val_roc= 0.93928 val_ap= 0.94679
+Epoch: 0324 train_loss= 0.45784 val_roc= 0.93905 val_ap= 0.94643
+Epoch: 0325 train_loss= 0.45898 val_roc= 0.93874 val_ap= 0.94663
+Epoch: 0326 train_loss= 0.45919 val_roc= 0.93825 val_ap= 0.94618
+Epoch: 0327 train_loss= 0.45773 val_roc= 0.93841 val_ap= 0.94628
+Epoch: 0328 train_loss= 0.45850 val_roc= 0.93783 val_ap= 0.94586
+Epoch: 0329 train_loss= 0.45788 val_roc= 0.93763 val_ap= 0.94560
+Epoch: 0330 train_loss= 0.45904 val_roc= 0.93753 val_ap= 0.94576
+Test ROC score: 0.9154067454244965
+Test AP score: 0.9287025987923847
+Epoch: 0331 train_loss= 0.45941 val_roc= 0.93731 val_ap= 0.94548
+Epoch: 0332 train_loss= 0.46017 val_roc= 0.93699 val_ap= 0.94537
+Epoch: 0333 train_loss= 0.45831 val_roc= 0.93704 val_ap= 0.94542
+Epoch: 0334 train_loss= 0.45893 val_roc= 0.93662 val_ap= 0.94512
+Epoch: 0335 train_loss= 0.45981 val_roc= 0.93678 val_ap= 0.94519
+Epoch: 0336 train_loss= 0.45880 val_roc= 0.93660 val_ap= 0.94510
+Epoch: 0337 train_loss= 0.45910 val_roc= 0.93637 val_ap= 0.94493
+Epoch: 0338 train_loss= 0.45914 val_roc= 0.93642 val_ap= 0.94495
+Epoch: 0339 train_loss= 0.45952 val_roc= 0.93623 val_ap= 0.94480
+Epoch: 0340 train_loss= 0.45909 val_roc= 0.93607 val_ap= 0.94470
+Test ROC score: 0.9150358803005807
+Test AP score: 0.9285331172059763
+Epoch: 0341 train_loss= 0.45840 val_roc= 0.93582 val_ap= 0.94462
+Epoch: 0342 train_loss= 0.45878 val_roc= 0.93574 val_ap= 0.94453
+Epoch: 0343 train_loss= 0.45899 val_roc= 0.93556 val_ap= 0.94420
+Epoch: 0344 train_loss= 0.45848 val_roc= 0.93548 val_ap= 0.94421
+Epoch: 0345 train_loss= 0.45931 val_roc= 0.93543 val_ap= 0.94416
+Epoch: 0346 train_loss= 0.45901 val_roc= 0.93507 val_ap= 0.94380
+Epoch: 0347 train_loss= 0.45868 val_roc= 0.93484 val_ap= 0.94362
+Epoch: 0348 train_loss= 0.45745 val_roc= 0.93494 val_ap= 0.94357
+Epoch: 0349 train_loss= 0.45967 val_roc= 0.93503 val_ap= 0.94369
+Epoch: 0350 train_loss= 0.45863 val_roc= 0.93467 val_ap= 0.94347
+Test ROC score: 0.9144633797694874
+Test AP score: 0.9283001825149202
+Epoch: 0351 train_loss= 0.45838 val_roc= 0.93454 val_ap= 0.94318
+Epoch: 0352 train_loss= 0.45818 val_roc= 0.93461 val_ap= 0.94313
+Epoch: 0353 train_loss= 0.45856 val_roc= 0.93448 val_ap= 0.94300
+Epoch: 0354 train_loss= 0.45867 val_roc= 0.93407 val_ap= 0.94251
+Epoch: 0355 train_loss= 0.45886 val_roc= 0.93399 val_ap= 0.94238
+Epoch: 0356 train_loss= 0.45856 val_roc= 0.93397 val_ap= 0.94241
+Epoch: 0357 train_loss= 0.45969 val_roc= 0.93355 val_ap= 0.94216
+Epoch: 0358 train_loss= 0.45852 val_roc= 0.93345 val_ap= 0.94191
+Epoch: 0359 train_loss= 0.45933 val_roc= 0.93376 val_ap= 0.94222
+Epoch: 0360 train_loss= 0.45855 val_roc= 0.93360 val_ap= 0.94200
+Test ROC score: 0.9140889140133008
+Test AP score: 0.927916670021671
+Epoch: 0361 train_loss= 0.45911 val_roc= 0.93324 val_ap= 0.94170
+Epoch: 0362 train_loss= 0.45791 val_roc= 0.93324 val_ap= 0.94175
+Epoch: 0363 train_loss= 0.45924 val_roc= 0.93324 val_ap= 0.94169
+Epoch: 0364 train_loss= 0.45827 val_roc= 0.93286 val_ap= 0.94123
+Epoch: 0365 train_loss= 0.45874 val_roc= 0.93309 val_ap= 0.94144
+Epoch: 0366 train_loss= 0.45858 val_roc= 0.93308 val_ap= 0.94145
+Epoch: 0367 train_loss= 0.45828 val_roc= 0.93289 val_ap= 0.94114
+Epoch: 0368 train_loss= 0.45887 val_roc= 0.93285 val_ap= 0.94121
+Epoch: 0369 train_loss= 0.45883 val_roc= 0.93311 val_ap= 0.94148
+Epoch: 0370 train_loss= 0.45980 val_roc= 0.93302 val_ap= 0.94138
+Test ROC score: 0.9138368697543289
+Test AP score: 0.9278552551292387
+Epoch: 0371 train_loss= 0.45868 val_roc= 0.93273 val_ap= 0.94125
+Epoch: 0372 train_loss= 0.45949 val_roc= 0.93306 val_ap= 0.94147
+Epoch: 0373 train_loss= 0.46016 val_roc= 0.93282 val_ap= 0.94148
+Epoch: 0374 train_loss= 0.45954 val_roc= 0.93315 val_ap= 0.94153
+Epoch: 0375 train_loss= 0.45949 val_roc= 0.93326 val_ap= 0.94176
+Epoch: 0376 train_loss= 0.45889 val_roc= 0.93318 val_ap= 0.94167
+Epoch: 0377 train_loss= 0.45909 val_roc= 0.93324 val_ap= 0.94175
+Epoch: 0378 train_loss= 0.45883 val_roc= 0.93335 val_ap= 0.94182
+Epoch: 0379 train_loss= 0.45967 val_roc= 0.93363 val_ap= 0.94220
+Epoch: 0380 train_loss= 0.45934 val_roc= 0.93357 val_ap= 0.94205
+Test ROC score: 0.9131095420355814
+Test AP score: 0.927618971182311
+Epoch: 0381 train_loss= 0.45955 val_roc= 0.93367 val_ap= 0.94224
+Epoch: 0382 train_loss= 0.45910 val_roc= 0.93337 val_ap= 0.94205
+Epoch: 0383 train_loss= 0.45937 val_roc= 0.93371 val_ap= 0.94228
+Epoch: 0384 train_loss= 0.45790 val_roc= 0.93400 val_ap= 0.94248
+Epoch: 0385 train_loss= 0.45846 val_roc= 0.93367 val_ap= 0.94217
+Epoch: 0386 train_loss= 0.45915 val_roc= 0.93377 val_ap= 0.94225
+Epoch: 0387 train_loss= 0.45927 val_roc= 0.93396 val_ap= 0.94225
+Epoch: 0388 train_loss= 0.45939 val_roc= 0.93409 val_ap= 0.94218
+Epoch: 0389 train_loss= 0.45860 val_roc= 0.93399 val_ap= 0.94229
+Epoch: 0390 train_loss= 0.45919 val_roc= 0.93433 val_ap= 0.94219
+Test ROC score: 0.9140781121164876
+Test AP score: 0.9290346586720714
+Epoch: 0391 train_loss= 0.45914 val_roc= 0.93409 val_ap= 0.94187
+Epoch: 0392 train_loss= 0.45890 val_roc= 0.93392 val_ap= 0.94190
+Epoch: 0393 train_loss= 0.45952 val_roc= 0.93403 val_ap= 0.94177
+Epoch: 0394 train_loss= 0.46042 val_roc= 0.93393 val_ap= 0.94180
+Epoch: 0395 train_loss= 0.45971 val_roc= 0.93389 val_ap= 0.94172
+Epoch: 0396 train_loss= 0.45965 val_roc= 0.93383 val_ap= 0.94157
+Epoch: 0397 train_loss= 0.46000 val_roc= 0.93396 val_ap= 0.94187
+Epoch: 0398 train_loss= 0.45976 val_roc= 0.93386 val_ap= 0.94177
+Epoch: 0399 train_loss= 0.45960 val_roc= 0.93374 val_ap= 0.94152
+Epoch: 0400 train_loss= 0.45988 val_roc= 0.93371 val_ap= 0.94159
+Test ROC score: 0.914510187989011
+Test AP score: 0.9297268433653078
+
+Epoch: 0001 train_loss= 2.22779 val_roc= 0.74137 val_ap= 0.75237
+Epoch: 0002 train_loss= 2.11259 val_roc= 0.73104 val_ap= 0.74992
+Epoch: 0003 train_loss= 1.94890 val_roc= 0.70553 val_ap= 0.73262
+Epoch: 0004 train_loss= 1.83065 val_roc= 0.68523 val_ap= 0.72065
+Epoch: 0005 train_loss= 1.76799 val_roc= 0.66831 val_ap= 0.71025
+Epoch: 0006 train_loss= 1.64413 val_roc= 0.66004 val_ap= 0.70521
+Epoch: 0007 train_loss= 1.58430 val_roc= 0.65736 val_ap= 0.70509
+Epoch: 0008 train_loss= 1.48420 val_roc= 0.66151 val_ap= 0.70948
+Epoch: 0009 train_loss= 1.39597 val_roc= 0.67315 val_ap= 0.71917
+Epoch: 0010 train_loss= 1.31828 val_roc= 0.68812 val_ap= 0.73254
+Test ROC score: 0.7075039246467818
+Test AP score: 0.7380519133880982
+Epoch: 0011 train_loss= 1.22582 val_roc= 0.71286 val_ap= 0.75369
+Epoch: 0012 train_loss= 1.14098 val_roc= 0.73582 val_ap= 0.77377
+Epoch: 0013 train_loss= 1.07216 val_roc= 0.75709 val_ap= 0.79185
+Epoch: 0014 train_loss= 1.02547 val_roc= 0.77787 val_ap= 0.80687
+Epoch: 0015 train_loss= 0.94992 val_roc= 0.79767 val_ap= 0.81885
+Epoch: 0016 train_loss= 0.89971 val_roc= 0.81690 val_ap= 0.83199
+Epoch: 0017 train_loss= 0.85245 val_roc= 0.83603 val_ap= 0.84719
+Epoch: 0018 train_loss= 0.79323 val_roc= 0.85144 val_ap= 0.85944
+Epoch: 0019 train_loss= 0.76184 val_roc= 0.85701 val_ap= 0.86394
+Epoch: 0020 train_loss= 0.72064 val_roc= 0.86148 val_ap= 0.86819
+Test ROC score: 0.8265668397536531
+Test AP score: 0.8289029810706554
+Epoch: 0021 train_loss= 0.69860 val_roc= 0.86543 val_ap= 0.87180
+Epoch: 0022 train_loss= 0.67030 val_roc= 0.86883 val_ap= 0.87403
+Epoch: 0023 train_loss= 0.65221 val_roc= 0.87263 val_ap= 0.87772
+Epoch: 0024 train_loss= 0.63774 val_roc= 0.87543 val_ap= 0.88042
+Epoch: 0025 train_loss= 0.62249 val_roc= 0.87739 val_ap= 0.88219
+Epoch: 0026 train_loss= 0.61149 val_roc= 0.87985 val_ap= 0.88481
+Epoch: 0027 train_loss= 0.59631 val_roc= 0.88108 val_ap= 0.88603
+Epoch: 0028 train_loss= 0.58902 val_roc= 0.88265 val_ap= 0.88769
+Epoch: 0029 train_loss= 0.58162 val_roc= 0.88480 val_ap= 0.89010
+Epoch: 0030 train_loss= 0.57537 val_roc= 0.88564 val_ap= 0.89122
+Test ROC score: 0.8677695930443182
+Test AP score: 0.8601201335633326
+Epoch: 0031 train_loss= 0.56910 val_roc= 0.88833 val_ap= 0.89374
+Epoch: 0032 train_loss= 0.56350 val_roc= 0.89138 val_ap= 0.89715
+Epoch: 0033 train_loss= 0.55763 val_roc= 0.89175 val_ap= 0.89832
+Epoch: 0034 train_loss= 0.55027 val_roc= 0.89291 val_ap= 0.89977
+Epoch: 0035 train_loss= 0.55121 val_roc= 0.89536 val_ap= 0.90236
+Epoch: 0036 train_loss= 0.54669 val_roc= 0.89594 val_ap= 0.90283
+Epoch: 0037 train_loss= 0.54135 val_roc= 0.89755 val_ap= 0.90435
+Epoch: 0038 train_loss= 0.53309 val_roc= 0.89860 val_ap= 0.90573
+Epoch: 0039 train_loss= 0.53773 val_roc= 0.89978 val_ap= 0.90677
+Epoch: 0040 train_loss= 0.52752 val_roc= 0.90110 val_ap= 0.90805
+Test ROC score: 0.8829658253834078
+Test AP score: 0.8793689861710162
+Epoch: 0041 train_loss= 0.52566 val_roc= 0.90122 val_ap= 0.90827
+Epoch: 0042 train_loss= 0.52227 val_roc= 0.90244 val_ap= 0.90971
+Epoch: 0043 train_loss= 0.51852 val_roc= 0.90322 val_ap= 0.91040
+Epoch: 0044 train_loss= 0.51503 val_roc= 0.90481 val_ap= 0.91181
+Epoch: 0045 train_loss= 0.51552 val_roc= 0.90551 val_ap= 0.91267
+Epoch: 0046 train_loss= 0.51039 val_roc= 0.90572 val_ap= 0.91300
+Epoch: 0047 train_loss= 0.51089 val_roc= 0.90607 val_ap= 0.91302
+Epoch: 0048 train_loss= 0.50604 val_roc= 0.90634 val_ap= 0.91321
+Epoch: 0049 train_loss= 0.50439 val_roc= 0.90772 val_ap= 0.91433
+Epoch: 0050 train_loss= 0.50138 val_roc= 0.90788 val_ap= 0.91392
+Test ROC score: 0.8913319647385581
+Test AP score: 0.8915878482394968
+Epoch: 0051 train_loss= 0.49984 val_roc= 0.90844 val_ap= 0.91440
+Epoch: 0052 train_loss= 0.49681 val_roc= 0.90891 val_ap= 0.91501
+Epoch: 0053 train_loss= 0.49694 val_roc= 0.90947 val_ap= 0.91526
+Epoch: 0054 train_loss= 0.49553 val_roc= 0.90972 val_ap= 0.91510
+Epoch: 0055 train_loss= 0.49330 val_roc= 0.90991 val_ap= 0.91557
+Epoch: 0056 train_loss= 0.49200 val_roc= 0.91003 val_ap= 0.91560
+Epoch: 0057 train_loss= 0.49087 val_roc= 0.91028 val_ap= 0.91596
+Epoch: 0058 train_loss= 0.48842 val_roc= 0.90988 val_ap= 0.91586
+Epoch: 0059 train_loss= 0.48974 val_roc= 0.91038 val_ap= 0.91642
+Epoch: 0060 train_loss= 0.48471 val_roc= 0.91069 val_ap= 0.91665
+Test ROC score: 0.8956696051201546
+Test AP score: 0.8986961330135977
+Epoch: 0061 train_loss= 0.48441 val_roc= 0.91116 val_ap= 0.91716
+Epoch: 0062 train_loss= 0.48448 val_roc= 0.91102 val_ap= 0.91725
+Epoch: 0063 train_loss= 0.48249 val_roc= 0.91189 val_ap= 0.91808
+Epoch: 0064 train_loss= 0.48102 val_roc= 0.91244 val_ap= 0.91828
+Epoch: 0065 train_loss= 0.47913 val_roc= 0.91273 val_ap= 0.91863
+Epoch: 0066 train_loss= 0.47968 val_roc= 0.91339 val_ap= 0.91946
+Epoch: 0067 train_loss= 0.47867 val_roc= 0.91358 val_ap= 0.91946
+Epoch: 0068 train_loss= 0.47777 val_roc= 0.91405 val_ap= 0.92022
+Epoch: 0069 train_loss= 0.47670 val_roc= 0.91477 val_ap= 0.92123
+Epoch: 0070 train_loss= 0.47480 val_roc= 0.91508 val_ap= 0.92121
+Test ROC score: 0.8998333534597271
+Test AP score: 0.9044563222649543
+Epoch: 0071 train_loss= 0.47275 val_roc= 0.91498 val_ap= 0.92112
+Epoch: 0072 train_loss= 0.47543 val_roc= 0.91539 val_ap= 0.92153
+Epoch: 0073 train_loss= 0.47341 val_roc= 0.91517 val_ap= 0.92151
+Epoch: 0074 train_loss= 0.47086 val_roc= 0.91477 val_ap= 0.92110
+Epoch: 0075 train_loss= 0.47274 val_roc= 0.91523 val_ap= 0.92155
+Epoch: 0076 train_loss= 0.47017 val_roc= 0.91486 val_ap= 0.92128
+Epoch: 0077 train_loss= 0.47036 val_roc= 0.91481 val_ap= 0.92139
+Epoch: 0078 train_loss= 0.46949 val_roc= 0.91514 val_ap= 0.92183
+Epoch: 0079 train_loss= 0.46920 val_roc= 0.91514 val_ap= 0.92206
+Epoch: 0080 train_loss= 0.46906 val_roc= 0.91455 val_ap= 0.92157
+Test ROC score: 0.9041226904963168
+Test AP score: 0.909504436499408
+Epoch: 0081 train_loss= 0.46877 val_roc= 0.91436 val_ap= 0.92181
+Epoch: 0082 train_loss= 0.46840 val_roc= 0.91416 val_ap= 0.92180
+Epoch: 0083 train_loss= 0.46809 val_roc= 0.91370 val_ap= 0.92124
+Epoch: 0084 train_loss= 0.46789 val_roc= 0.91409 val_ap= 0.92186
+Epoch: 0085 train_loss= 0.46656 val_roc= 0.91436 val_ap= 0.92249
+Epoch: 0086 train_loss= 0.46703 val_roc= 0.91380 val_ap= 0.92208
+Epoch: 0087 train_loss= 0.46496 val_roc= 0.91440 val_ap= 0.92286
+Epoch: 0088 train_loss= 0.46470 val_roc= 0.91477 val_ap= 0.92338
+Epoch: 0089 train_loss= 0.46525 val_roc= 0.91430 val_ap= 0.92283
+Epoch: 0090 train_loss= 0.46581 val_roc= 0.91479 val_ap= 0.92386
+Test ROC score: 0.9067455621301777
+Test AP score: 0.9124941249145113
+Epoch: 0091 train_loss= 0.46410 val_roc= 0.91477 val_ap= 0.92381
+Epoch: 0092 train_loss= 0.46412 val_roc= 0.91453 val_ap= 0.92360
+Epoch: 0093 train_loss= 0.46479 val_roc= 0.91533 val_ap= 0.92465
+Epoch: 0094 train_loss= 0.46341 val_roc= 0.91574 val_ap= 0.92478
+Epoch: 0095 train_loss= 0.46209 val_roc= 0.91572 val_ap= 0.92492
+Epoch: 0096 train_loss= 0.46339 val_roc= 0.91632 val_ap= 0.92493
+Epoch: 0097 train_loss= 0.46198 val_roc= 0.91667 val_ap= 0.92520
+Epoch: 0098 train_loss= 0.46285 val_roc= 0.91688 val_ap= 0.92526
+Epoch: 0099 train_loss= 0.46208 val_roc= 0.91752 val_ap= 0.92575
+Epoch: 0100 train_loss= 0.46045 val_roc= 0.91805 val_ap= 0.92617
+Test ROC score: 0.91236324115445
+Test AP score: 0.9181915192107213
+Epoch: 0101 train_loss= 0.46231 val_roc= 0.91884 val_ap= 0.92653
+Epoch: 0102 train_loss= 0.45934 val_roc= 0.91985 val_ap= 0.92730
+Epoch: 0103 train_loss= 0.46162 val_roc= 0.92065 val_ap= 0.92765
+Epoch: 0104 train_loss= 0.46059 val_roc= 0.92166 val_ap= 0.92844
+Epoch: 0105 train_loss= 0.45996 val_roc= 0.92212 val_ap= 0.92822
+Epoch: 0106 train_loss= 0.45855 val_roc= 0.92263 val_ap= 0.92880
+Epoch: 0107 train_loss= 0.46040 val_roc= 0.92313 val_ap= 0.92899
+Epoch: 0108 train_loss= 0.45970 val_roc= 0.92356 val_ap= 0.92883
+Epoch: 0109 train_loss= 0.45747 val_roc= 0.92437 val_ap= 0.92962
+Epoch: 0110 train_loss= 0.46195 val_roc= 0.92488 val_ap= 0.92952
+Test ROC score: 0.916850621905567
+Test AP score: 0.9236089721136681
+Epoch: 0111 train_loss= 0.45980 val_roc= 0.92513 val_ap= 0.92943
+Epoch: 0112 train_loss= 0.46068 val_roc= 0.92556 val_ap= 0.93002
+Epoch: 0113 train_loss= 0.46070 val_roc= 0.92540 val_ap= 0.92976
+Epoch: 0114 train_loss= 0.46136 val_roc= 0.92589 val_ap= 0.92996
+Epoch: 0115 train_loss= 0.45884 val_roc= 0.92622 val_ap= 0.93018
+Epoch: 0116 train_loss= 0.46247 val_roc= 0.92664 val_ap= 0.93033
+Epoch: 0117 train_loss= 0.46056 val_roc= 0.92680 val_ap= 0.93052
+Epoch: 0118 train_loss= 0.46052 val_roc= 0.92717 val_ap= 0.93093
+Epoch: 0119 train_loss= 0.46085 val_roc= 0.92717 val_ap= 0.93062
+Epoch: 0120 train_loss= 0.45984 val_roc= 0.92792 val_ap= 0.93149
+Test ROC score: 0.9159231976814394
+Test AP score: 0.9221727413377889
+Epoch: 0121 train_loss= 0.46071 val_roc= 0.92769 val_ap= 0.93122
+Epoch: 0122 train_loss= 0.46018 val_roc= 0.92800 val_ap= 0.93136
+Epoch: 0123 train_loss= 0.46096 val_roc= 0.92820 val_ap= 0.93115
+Epoch: 0124 train_loss= 0.46127 val_roc= 0.92798 val_ap= 0.93144
+Epoch: 0125 train_loss= 0.45928 val_roc= 0.92839 val_ap= 0.93179
+Epoch: 0126 train_loss= 0.46029 val_roc= 0.92866 val_ap= 0.93162
+Epoch: 0127 train_loss= 0.46132 val_roc= 0.92870 val_ap= 0.93122
+Epoch: 0128 train_loss= 0.46082 val_roc= 0.92919 val_ap= 0.93138
+Epoch: 0129 train_loss= 0.45953 val_roc= 0.92952 val_ap= 0.93162
+Epoch: 0130 train_loss= 0.46145 val_roc= 0.92981 val_ap= 0.93150
+Test ROC score: 0.9148460330877913
+Test AP score: 0.92057716086553
+Epoch: 0131 train_loss= 0.45996 val_roc= 0.93082 val_ap= 0.93259
+Epoch: 0132 train_loss= 0.46005 val_roc= 0.93018 val_ap= 0.93175
+Epoch: 0133 train_loss= 0.45925 val_roc= 0.93066 val_ap= 0.93227
+Epoch: 0134 train_loss= 0.45945 val_roc= 0.93186 val_ap= 0.93335
+Epoch: 0135 train_loss= 0.45976 val_roc= 0.93157 val_ap= 0.93296
+Epoch: 0136 train_loss= 0.46095 val_roc= 0.93221 val_ap= 0.93309
+Epoch: 0137 train_loss= 0.46082 val_roc= 0.93276 val_ap= 0.93363
+Epoch: 0138 train_loss= 0.45986 val_roc= 0.93278 val_ap= 0.93358
+Epoch: 0139 train_loss= 0.46107 val_roc= 0.93307 val_ap= 0.93365
+Epoch: 0140 train_loss= 0.46199 val_roc= 0.93375 val_ap= 0.93417
+Test ROC score: 0.9142905446202151
+Test AP score: 0.9187628367790062
+Epoch: 0141 train_loss= 0.46049 val_roc= 0.93388 val_ap= 0.93410
+Epoch: 0142 train_loss= 0.46035 val_roc= 0.93477 val_ap= 0.93502
+Epoch: 0143 train_loss= 0.46142 val_roc= 0.93431 val_ap= 0.93471
+Epoch: 0144 train_loss= 0.45942 val_roc= 0.93437 val_ap= 0.93441
+Epoch: 0145 train_loss= 0.46122 val_roc= 0.93411 val_ap= 0.93424
+Epoch: 0146 train_loss= 0.46101 val_roc= 0.93444 val_ap= 0.93464
+Epoch: 0147 train_loss= 0.46029 val_roc= 0.93520 val_ap= 0.93522
+Epoch: 0148 train_loss= 0.46023 val_roc= 0.93518 val_ap= 0.93529
+Epoch: 0149 train_loss= 0.46044 val_roc= 0.93530 val_ap= 0.93570
+Epoch: 0150 train_loss= 0.46095 val_roc= 0.93555 val_ap= 0.93576
+Test ROC score: 0.9140152155536772
+Test AP score: 0.917543673641324
+Epoch: 0151 train_loss= 0.46027 val_roc= 0.93576 val_ap= 0.93610
+Epoch: 0152 train_loss= 0.45990 val_roc= 0.93600 val_ap= 0.93672
+Epoch: 0153 train_loss= 0.45913 val_roc= 0.93580 val_ap= 0.93643
+Epoch: 0154 train_loss= 0.45978 val_roc= 0.93629 val_ap= 0.93709
+Epoch: 0155 train_loss= 0.45891 val_roc= 0.93648 val_ap= 0.93735
+Epoch: 0156 train_loss= 0.45949 val_roc= 0.93654 val_ap= 0.93734
+Epoch: 0157 train_loss= 0.45861 val_roc= 0.93658 val_ap= 0.93729
+Epoch: 0158 train_loss= 0.45791 val_roc= 0.93710 val_ap= 0.93777
+Epoch: 0159 train_loss= 0.45857 val_roc= 0.93708 val_ap= 0.93775
+Epoch: 0160 train_loss= 0.45683 val_roc= 0.93745 val_ap= 0.93825
+Test ROC score: 0.9149523004468059
+Test AP score: 0.9187854596046034
+Epoch: 0161 train_loss= 0.45794 val_roc= 0.93708 val_ap= 0.93784
+Epoch: 0162 train_loss= 0.45833 val_roc= 0.93734 val_ap= 0.93786
+Epoch: 0163 train_loss= 0.45747 val_roc= 0.93788 val_ap= 0.93827
+Epoch: 0164 train_loss= 0.45604 val_roc= 0.93765 val_ap= 0.93787
+Epoch: 0165 train_loss= 0.45734 val_roc= 0.93805 val_ap= 0.93856
+Epoch: 0166 train_loss= 0.45707 val_roc= 0.93848 val_ap= 0.93904
+Epoch: 0167 train_loss= 0.45709 val_roc= 0.93866 val_ap= 0.93913
+Epoch: 0168 train_loss= 0.45702 val_roc= 0.93937 val_ap= 0.93976
+Epoch: 0169 train_loss= 0.45592 val_roc= 0.93943 val_ap= 0.93972
+Epoch: 0170 train_loss= 0.45634 val_roc= 0.93957 val_ap= 0.93990
+Test ROC score: 0.9160825987199614
+Test AP score: 0.9203665060971036
+Epoch: 0171 train_loss= 0.45616 val_roc= 0.93939 val_ap= 0.93987
+Epoch: 0172 train_loss= 0.45833 val_roc= 0.93928 val_ap= 0.93964
+Epoch: 0173 train_loss= 0.45677 val_roc= 0.93941 val_ap= 0.93986
+Epoch: 0174 train_loss= 0.45761 val_roc= 0.93887 val_ap= 0.93962
+Epoch: 0175 train_loss= 0.45789 val_roc= 0.93912 val_ap= 0.94002
+Epoch: 0176 train_loss= 0.45690 val_roc= 0.93869 val_ap= 0.93966
+Epoch: 0177 train_loss= 0.45801 val_roc= 0.93866 val_ap= 0.93948
+Epoch: 0178 train_loss= 0.45788 val_roc= 0.93877 val_ap= 0.93973
+Epoch: 0179 train_loss= 0.45822 val_roc= 0.93825 val_ap= 0.93939
+Epoch: 0180 train_loss= 0.45874 val_roc= 0.93788 val_ap= 0.93858
+Test ROC score: 0.9205361671295738
+Test AP score: 0.9249995392400364
+Epoch: 0181 train_loss= 0.45923 val_roc= 0.93753 val_ap= 0.93820
+Epoch: 0182 train_loss= 0.46045 val_roc= 0.93759 val_ap= 0.93819
+Epoch: 0183 train_loss= 0.45970 val_roc= 0.93755 val_ap= 0.93809
+Epoch: 0184 train_loss= 0.46026 val_roc= 0.93716 val_ap= 0.93774
+Epoch: 0185 train_loss= 0.46141 val_roc= 0.93670 val_ap= 0.93708
+Epoch: 0186 train_loss= 0.46227 val_roc= 0.93668 val_ap= 0.93714
+Epoch: 0187 train_loss= 0.46179 val_roc= 0.93609 val_ap= 0.93659
+Epoch: 0188 train_loss= 0.46280 val_roc= 0.93549 val_ap= 0.93599
+Epoch: 0189 train_loss= 0.46460 val_roc= 0.93514 val_ap= 0.93557
+Epoch: 0190 train_loss= 0.46319 val_roc= 0.93503 val_ap= 0.93558
+Test ROC score: 0.924603308779133
+Test AP score: 0.9284880184772116
+Epoch: 0191 train_loss= 0.46315 val_roc= 0.93448 val_ap= 0.93507
+Epoch: 0192 train_loss= 0.46409 val_roc= 0.93367 val_ap= 0.93423
+Epoch: 0193 train_loss= 0.46415 val_roc= 0.93378 val_ap= 0.93462
+Epoch: 0194 train_loss= 0.46353 val_roc= 0.93404 val_ap= 0.93478
+Epoch: 0195 train_loss= 0.46370 val_roc= 0.93355 val_ap= 0.93418
+Epoch: 0196 train_loss= 0.46529 val_roc= 0.93342 val_ap= 0.93414
+Epoch: 0197 train_loss= 0.46452 val_roc= 0.93303 val_ap= 0.93381
+Epoch: 0198 train_loss= 0.46422 val_roc= 0.93262 val_ap= 0.93344
+Epoch: 0199 train_loss= 0.46447 val_roc= 0.93291 val_ap= 0.93394
+Epoch: 0200 train_loss= 0.46389 val_roc= 0.93245 val_ap= 0.93331
+Test ROC score: 0.9279362395845911
+Test AP score: 0.9322456164279653
+Epoch: 0201 train_loss= 0.46502 val_roc= 0.93243 val_ap= 0.93316
+Epoch: 0202 train_loss= 0.46397 val_roc= 0.93248 val_ap= 0.93336
+Epoch: 0203 train_loss= 0.46370 val_roc= 0.93196 val_ap= 0.93268
+Epoch: 0204 train_loss= 0.46379 val_roc= 0.93173 val_ap= 0.93244
+Epoch: 0205 train_loss= 0.46309 val_roc= 0.93184 val_ap= 0.93260
+Epoch: 0206 train_loss= 0.46359 val_roc= 0.93212 val_ap= 0.93305
+Epoch: 0207 train_loss= 0.46362 val_roc= 0.93190 val_ap= 0.93279
+Epoch: 0208 train_loss= 0.46366 val_roc= 0.93181 val_ap= 0.93293
+Epoch: 0209 train_loss= 0.46380 val_roc= 0.93219 val_ap= 0.93337
+Epoch: 0210 train_loss= 0.46353 val_roc= 0.93233 val_ap= 0.93370
+Test ROC score: 0.9306508875739645
+Test AP score: 0.9350305414495903
+Epoch: 0211 train_loss= 0.46378 val_roc= 0.93264 val_ap= 0.93389
+Epoch: 0212 train_loss= 0.46154 val_roc= 0.93309 val_ap= 0.93434
+Epoch: 0213 train_loss= 0.46272 val_roc= 0.93289 val_ap= 0.93418
+Epoch: 0214 train_loss= 0.46310 val_roc= 0.93316 val_ap= 0.93443
+Epoch: 0215 train_loss= 0.46196 val_roc= 0.93307 val_ap= 0.93442
+Epoch: 0216 train_loss= 0.46221 val_roc= 0.93305 val_ap= 0.93442
+Epoch: 0217 train_loss= 0.46273 val_roc= 0.93309 val_ap= 0.93470
+Epoch: 0218 train_loss= 0.46130 val_roc= 0.93247 val_ap= 0.93414
+Epoch: 0219 train_loss= 0.46138 val_roc= 0.93241 val_ap= 0.93411
+Epoch: 0220 train_loss= 0.46141 val_roc= 0.93268 val_ap= 0.93435
+Test ROC score: 0.9307040212534718
+Test AP score: 0.9351353196156569
+Epoch: 0221 train_loss= 0.46048 val_roc= 0.93283 val_ap= 0.93450
+Epoch: 0222 train_loss= 0.46209 val_roc= 0.93258 val_ap= 0.93443
+Epoch: 0223 train_loss= 0.46046 val_roc= 0.93214 val_ap= 0.93395
+Epoch: 0224 train_loss= 0.46239 val_roc= 0.93198 val_ap= 0.93368
+Epoch: 0225 train_loss= 0.46171 val_roc= 0.93237 val_ap= 0.93419
+Epoch: 0226 train_loss= 0.46086 val_roc= 0.93177 val_ap= 0.93394
+Epoch: 0227 train_loss= 0.46167 val_roc= 0.93202 val_ap= 0.93401
+Epoch: 0228 train_loss= 0.46163 val_roc= 0.93196 val_ap= 0.93421
+Epoch: 0229 train_loss= 0.46093 val_roc= 0.93155 val_ap= 0.93408
+Epoch: 0230 train_loss= 0.46001 val_roc= 0.93132 val_ap= 0.93375
+Test ROC score: 0.9290230648472406
+Test AP score: 0.9337411441336203
+Epoch: 0231 train_loss= 0.46154 val_roc= 0.93128 val_ap= 0.93397
+Epoch: 0232 train_loss= 0.46049 val_roc= 0.93138 val_ap= 0.93429
+Epoch: 0233 train_loss= 0.46041 val_roc= 0.93087 val_ap= 0.93391
+Epoch: 0234 train_loss= 0.46122 val_roc= 0.93049 val_ap= 0.93367
+Epoch: 0235 train_loss= 0.46125 val_roc= 0.93031 val_ap= 0.93368
+Epoch: 0236 train_loss= 0.46077 val_roc= 0.93014 val_ap= 0.93370
+Epoch: 0237 train_loss= 0.46045 val_roc= 0.93006 val_ap= 0.93395
+Epoch: 0238 train_loss= 0.46242 val_roc= 0.92990 val_ap= 0.93387
+Epoch: 0239 train_loss= 0.46200 val_roc= 0.92950 val_ap= 0.93346
+Epoch: 0240 train_loss= 0.45912 val_roc= 0.92940 val_ap= 0.93352
+Test ROC score: 0.927163386064485
+Test AP score: 0.9323752723458822
+Epoch: 0241 train_loss= 0.46092 val_roc= 0.92893 val_ap= 0.93321
+Epoch: 0242 train_loss= 0.46165 val_roc= 0.92888 val_ap= 0.93334
+Epoch: 0243 train_loss= 0.46007 val_roc= 0.92897 val_ap= 0.93352
+Epoch: 0244 train_loss= 0.46131 val_roc= 0.92825 val_ap= 0.93295
+Epoch: 0245 train_loss= 0.45950 val_roc= 0.92779 val_ap= 0.93259
+Epoch: 0246 train_loss= 0.46011 val_roc= 0.92738 val_ap= 0.93241
+Epoch: 0247 train_loss= 0.46024 val_roc= 0.92711 val_ap= 0.93216
+Epoch: 0248 train_loss= 0.46050 val_roc= 0.92697 val_ap= 0.93205
+Epoch: 0249 train_loss= 0.45967 val_roc= 0.92695 val_ap= 0.93207
+Epoch: 0250 train_loss= 0.45997 val_roc= 0.92655 val_ap= 0.93168
+Test ROC score: 0.9256128486897718
+Test AP score: 0.9313291397466927
+Epoch: 0251 train_loss= 0.45979 val_roc= 0.92657 val_ap= 0.93173
+Epoch: 0252 train_loss= 0.46138 val_roc= 0.92635 val_ap= 0.93172
+Epoch: 0253 train_loss= 0.45961 val_roc= 0.92596 val_ap= 0.93129
+Epoch: 0254 train_loss= 0.45852 val_roc= 0.92598 val_ap= 0.93115
+Epoch: 0255 train_loss= 0.45943 val_roc= 0.92565 val_ap= 0.93102
+Epoch: 0256 train_loss= 0.45913 val_roc= 0.92591 val_ap= 0.93122
+Epoch: 0257 train_loss= 0.46099 val_roc= 0.92596 val_ap= 0.93130
+Epoch: 0258 train_loss= 0.45815 val_roc= 0.92546 val_ap= 0.93098
+Epoch: 0259 train_loss= 0.45842 val_roc= 0.92501 val_ap= 0.93046
+Epoch: 0260 train_loss= 0.45967 val_roc= 0.92563 val_ap= 0.93113
+Test ROC score: 0.9244825504166163
+Test AP score: 0.9307615954089697
+Epoch: 0261 train_loss= 0.45868 val_roc= 0.92515 val_ap= 0.93070
+Epoch: 0262 train_loss= 0.45845 val_roc= 0.92464 val_ap= 0.93007
+Epoch: 0263 train_loss= 0.45877 val_roc= 0.92476 val_ap= 0.93014
+Epoch: 0264 train_loss= 0.45861 val_roc= 0.92474 val_ap= 0.93006
+Epoch: 0265 train_loss= 0.45797 val_roc= 0.92490 val_ap= 0.93041
+Epoch: 0266 train_loss= 0.45737 val_roc= 0.92511 val_ap= 0.93061
+Epoch: 0267 train_loss= 0.45804 val_roc= 0.92488 val_ap= 0.93039
+Epoch: 0268 train_loss= 0.45677 val_roc= 0.92497 val_ap= 0.93022
+Epoch: 0269 train_loss= 0.45731 val_roc= 0.92484 val_ap= 0.93016
+Epoch: 0270 train_loss= 0.45793 val_roc= 0.92503 val_ap= 0.93026
+Test ROC score: 0.923395725153967
+Test AP score: 0.9301185375033155
+Epoch: 0271 train_loss= 0.45672 val_roc= 0.92509 val_ap= 0.93041
+Epoch: 0272 train_loss= 0.45786 val_roc= 0.92528 val_ap= 0.93057
+Epoch: 0273 train_loss= 0.45813 val_roc= 0.92542 val_ap= 0.93043
+Epoch: 0274 train_loss= 0.45742 val_roc= 0.92563 val_ap= 0.93092
+Epoch: 0275 train_loss= 0.45625 val_roc= 0.92602 val_ap= 0.93134
+Epoch: 0276 train_loss= 0.45795 val_roc= 0.92612 val_ap= 0.93141
+Epoch: 0277 train_loss= 0.45773 val_roc= 0.92618 val_ap= 0.93143
+Epoch: 0278 train_loss= 0.45677 val_roc= 0.92587 val_ap= 0.93102
+Epoch: 0279 train_loss= 0.45692 val_roc= 0.92589 val_ap= 0.93114
+Epoch: 0280 train_loss= 0.45875 val_roc= 0.92645 val_ap= 0.93170
+Test ROC score: 0.9229754860524091
+Test AP score: 0.9297533911077831
+Epoch: 0281 train_loss= 0.45673 val_roc= 0.92608 val_ap= 0.93130
+Epoch: 0282 train_loss= 0.45727 val_roc= 0.92593 val_ap= 0.93083
+Epoch: 0283 train_loss= 0.45870 val_roc= 0.92612 val_ap= 0.93115
+Epoch: 0284 train_loss= 0.45902 val_roc= 0.92659 val_ap= 0.93176
+Epoch: 0285 train_loss= 0.45742 val_roc= 0.92600 val_ap= 0.93107
+Epoch: 0286 train_loss= 0.45760 val_roc= 0.92618 val_ap= 0.93115
+Epoch: 0287 train_loss= 0.45818 val_roc= 0.92626 val_ap= 0.93127
+Epoch: 0288 train_loss= 0.45839 val_roc= 0.92591 val_ap= 0.93087
+Epoch: 0289 train_loss= 0.45788 val_roc= 0.92575 val_ap= 0.93067
+Epoch: 0290 train_loss= 0.45857 val_roc= 0.92608 val_ap= 0.93106
+Test ROC score: 0.9220190798212776
+Test AP score: 0.9288642511036521
+Epoch: 0291 train_loss= 0.45785 val_roc= 0.92598 val_ap= 0.93089
+Epoch: 0292 train_loss= 0.45892 val_roc= 0.92622 val_ap= 0.93122
+Epoch: 0293 train_loss= 0.45780 val_roc= 0.92637 val_ap= 0.93120
+Epoch: 0294 train_loss= 0.45854 val_roc= 0.92622 val_ap= 0.93065
+Epoch: 0295 train_loss= 0.45869 val_roc= 0.92645 val_ap= 0.93106
+Epoch: 0296 train_loss= 0.45844 val_roc= 0.92662 val_ap= 0.93120
+Epoch: 0297 train_loss= 0.45901 val_roc= 0.92629 val_ap= 0.93087
+Epoch: 0298 train_loss= 0.45817 val_roc= 0.92627 val_ap= 0.93056
+Epoch: 0299 train_loss= 0.45854 val_roc= 0.92612 val_ap= 0.93056
+Epoch: 0300 train_loss= 0.45939 val_roc= 0.92645 val_ap= 0.93077
+Test ROC score: 0.9205893008090811
+Test AP score: 0.9277166420327824
+Epoch: 0301 train_loss= 0.45946 val_roc= 0.92631 val_ap= 0.93056
+Epoch: 0302 train_loss= 0.45880 val_roc= 0.92631 val_ap= 0.93059
+Epoch: 0303 train_loss= 0.45868 val_roc= 0.92622 val_ap= 0.93026
+Epoch: 0304 train_loss= 0.45868 val_roc= 0.92618 val_ap= 0.93018
+Epoch: 0305 train_loss= 0.45904 val_roc= 0.92593 val_ap= 0.92997
+Epoch: 0306 train_loss= 0.45949 val_roc= 0.92593 val_ap= 0.92997
+Epoch: 0307 train_loss= 0.45839 val_roc= 0.92571 val_ap= 0.92955
+Epoch: 0308 train_loss= 0.45921 val_roc= 0.92577 val_ap= 0.92951
+Epoch: 0309 train_loss= 0.45905 val_roc= 0.92577 val_ap= 0.92953
+Epoch: 0310 train_loss= 0.45841 val_roc= 0.92565 val_ap= 0.92933
+Test ROC score: 0.9198116169544741
+Test AP score: 0.9269902638912724
+Epoch: 0311 train_loss= 0.45825 val_roc= 0.92575 val_ap= 0.92922
+Epoch: 0312 train_loss= 0.45898 val_roc= 0.92571 val_ap= 0.92926
+Epoch: 0313 train_loss= 0.45785 val_roc= 0.92575 val_ap= 0.92925
+Epoch: 0314 train_loss= 0.45819 val_roc= 0.92567 val_ap= 0.92913
+Epoch: 0315 train_loss= 0.45869 val_roc= 0.92583 val_ap= 0.92906
+Epoch: 0316 train_loss= 0.45811 val_roc= 0.92542 val_ap= 0.92864
+Epoch: 0317 train_loss= 0.45794 val_roc= 0.92548 val_ap= 0.92877
+Epoch: 0318 train_loss= 0.45740 val_roc= 0.92577 val_ap= 0.92895
+Epoch: 0319 train_loss= 0.45922 val_roc= 0.92542 val_ap= 0.92857
+Epoch: 0320 train_loss= 0.45869 val_roc= 0.92546 val_ap= 0.92857
+Test ROC score: 0.9201207583625166
+Test AP score: 0.9272299579921432
+Epoch: 0321 train_loss= 0.45724 val_roc= 0.92554 val_ap= 0.92853
+Epoch: 0322 train_loss= 0.45778 val_roc= 0.92546 val_ap= 0.92840
+Epoch: 0323 train_loss= 0.45682 val_roc= 0.92515 val_ap= 0.92816
+Epoch: 0324 train_loss= 0.45798 val_roc= 0.92492 val_ap= 0.92786
+Epoch: 0325 train_loss= 0.45812 val_roc= 0.92472 val_ap= 0.92761
+Epoch: 0326 train_loss= 0.45769 val_roc= 0.92466 val_ap= 0.92777
+Epoch: 0327 train_loss= 0.45794 val_roc= 0.92453 val_ap= 0.92760
+Epoch: 0328 train_loss= 0.45710 val_roc= 0.92379 val_ap= 0.92701
+Epoch: 0329 train_loss= 0.45743 val_roc= 0.92430 val_ap= 0.92733
+Epoch: 0330 train_loss= 0.45705 val_roc= 0.92412 val_ap= 0.92732
+Test ROC score: 0.9196232339089482
+Test AP score: 0.9272603166351263
+Epoch: 0331 train_loss= 0.45683 val_roc= 0.92391 val_ap= 0.92717
+Epoch: 0332 train_loss= 0.45754 val_roc= 0.92397 val_ap= 0.92728
+Epoch: 0333 train_loss= 0.45785 val_roc= 0.92367 val_ap= 0.92696
+Epoch: 0334 train_loss= 0.45751 val_roc= 0.92356 val_ap= 0.92673
+Epoch: 0335 train_loss= 0.45788 val_roc= 0.92400 val_ap= 0.92732
+Epoch: 0336 train_loss= 0.45654 val_roc= 0.92373 val_ap= 0.92707
+Epoch: 0337 train_loss= 0.45671 val_roc= 0.92327 val_ap= 0.92673
+Epoch: 0338 train_loss= 0.45848 val_roc= 0.92367 val_ap= 0.92713
+Epoch: 0339 train_loss= 0.45699 val_roc= 0.92375 val_ap= 0.92725
+Epoch: 0340 train_loss= 0.45680 val_roc= 0.92373 val_ap= 0.92732
+Test ROC score: 0.9195217968844343
+Test AP score: 0.927575651816126
+Epoch: 0341 train_loss= 0.45724 val_roc= 0.92358 val_ap= 0.92711
+Epoch: 0342 train_loss= 0.45717 val_roc= 0.92344 val_ap= 0.92706
+Epoch: 0343 train_loss= 0.45625 val_roc= 0.92325 val_ap= 0.92700
+Epoch: 0344 train_loss= 0.45721 val_roc= 0.92319 val_ap= 0.92711
+Epoch: 0345 train_loss= 0.45694 val_roc= 0.92284 val_ap= 0.92682
+Epoch: 0346 train_loss= 0.45721 val_roc= 0.92261 val_ap= 0.92666
+Epoch: 0347 train_loss= 0.45622 val_roc= 0.92263 val_ap= 0.92684
+Epoch: 0348 train_loss= 0.45723 val_roc= 0.92241 val_ap= 0.92668
+Epoch: 0349 train_loss= 0.45643 val_roc= 0.92197 val_ap= 0.92646
+Epoch: 0350 train_loss= 0.45606 val_roc= 0.92208 val_ap= 0.92647
+Test ROC score: 0.9196667069194542
+Test AP score: 0.9278784721386621
+Epoch: 0351 train_loss= 0.45636 val_roc= 0.92187 val_ap= 0.92622
+Epoch: 0352 train_loss= 0.45662 val_roc= 0.92127 val_ap= 0.92588
+Epoch: 0353 train_loss= 0.45583 val_roc= 0.92113 val_ap= 0.92593
+Epoch: 0354 train_loss= 0.45608 val_roc= 0.92144 val_ap= 0.92625
+Epoch: 0355 train_loss= 0.45676 val_roc= 0.92107 val_ap= 0.92601
+Epoch: 0356 train_loss= 0.45670 val_roc= 0.92131 val_ap= 0.92621
+Epoch: 0357 train_loss= 0.45676 val_roc= 0.92127 val_ap= 0.92620
+Epoch: 0358 train_loss= 0.45648 val_roc= 0.92109 val_ap= 0.92616
+Epoch: 0359 train_loss= 0.45627 val_roc= 0.92148 val_ap= 0.92659
+Epoch: 0360 train_loss= 0.45693 val_roc= 0.92142 val_ap= 0.92663
+Test ROC score: 0.919700519260959
+Test AP score: 0.9280207663734263
+Epoch: 0361 train_loss= 0.45680 val_roc= 0.92140 val_ap= 0.92655
+Epoch: 0362 train_loss= 0.45667 val_roc= 0.92125 val_ap= 0.92634
+Epoch: 0363 train_loss= 0.45690 val_roc= 0.92131 val_ap= 0.92648
+Epoch: 0364 train_loss= 0.45628 val_roc= 0.92148 val_ap= 0.92655
+Epoch: 0365 train_loss= 0.45615 val_roc= 0.92105 val_ap= 0.92614
+Epoch: 0366 train_loss= 0.45638 val_roc= 0.92100 val_ap= 0.92615
+Epoch: 0367 train_loss= 0.45617 val_roc= 0.92103 val_ap= 0.92616
+Epoch: 0368 train_loss= 0.45624 val_roc= 0.92065 val_ap= 0.92560
+Epoch: 0369 train_loss= 0.45667 val_roc= 0.92045 val_ap= 0.92564
+Epoch: 0370 train_loss= 0.45603 val_roc= 0.92036 val_ap= 0.92548
+Test ROC score: 0.9185847119913055
+Test AP score: 0.927355797006071
+Epoch: 0371 train_loss= 0.45610 val_roc= 0.92043 val_ap= 0.92553
+Epoch: 0372 train_loss= 0.45691 val_roc= 0.92036 val_ap= 0.92556
+Epoch: 0373 train_loss= 0.45600 val_roc= 0.92016 val_ap= 0.92541
+Epoch: 0374 train_loss= 0.45591 val_roc= 0.92034 val_ap= 0.92572
+Epoch: 0375 train_loss= 0.45636 val_roc= 0.92057 val_ap= 0.92604
+Epoch: 0376 train_loss= 0.45641 val_roc= 0.92082 val_ap= 0.92637
+Epoch: 0377 train_loss= 0.45620 val_roc= 0.92074 val_ap= 0.92643
+Epoch: 0378 train_loss= 0.45517 val_roc= 0.92026 val_ap= 0.92596
+Epoch: 0379 train_loss= 0.45627 val_roc= 0.92028 val_ap= 0.92592
+Epoch: 0380 train_loss= 0.45574 val_roc= 0.92041 val_ap= 0.92624
+Test ROC score: 0.9181451515517449
+Test AP score: 0.9267449286913156
+Epoch: 0381 train_loss= 0.45583 val_roc= 0.92032 val_ap= 0.92618
+Epoch: 0382 train_loss= 0.45626 val_roc= 0.92016 val_ap= 0.92609
+Epoch: 0383 train_loss= 0.45623 val_roc= 0.92016 val_ap= 0.92608
+Epoch: 0384 train_loss= 0.45632 val_roc= 0.92026 val_ap= 0.92622
+Epoch: 0385 train_loss= 0.45555 val_roc= 0.92012 val_ap= 0.92595
+Epoch: 0386 train_loss= 0.45544 val_roc= 0.92008 val_ap= 0.92603
+Epoch: 0387 train_loss= 0.45624 val_roc= 0.92036 val_ap= 0.92634
+Epoch: 0388 train_loss= 0.45526 val_roc= 0.92032 val_ap= 0.92612
+Epoch: 0389 train_loss= 0.45626 val_roc= 0.91993 val_ap= 0.92583
+Epoch: 0390 train_loss= 0.45586 val_roc= 0.92016 val_ap= 0.92616
+Test ROC score: 0.9182707402487623
+Test AP score: 0.9267472365848372
+Epoch: 0391 train_loss= 0.45629 val_roc= 0.92003 val_ap= 0.92603
+Epoch: 0392 train_loss= 0.45551 val_roc= 0.91975 val_ap= 0.92588
+Epoch: 0393 train_loss= 0.45504 val_roc= 0.91975 val_ap= 0.92586
+Epoch: 0394 train_loss= 0.45573 val_roc= 0.91954 val_ap= 0.92572
+Epoch: 0395 train_loss= 0.45547 val_roc= 0.91964 val_ap= 0.92584
+Epoch: 0396 train_loss= 0.45485 val_roc= 0.91948 val_ap= 0.92571
+Epoch: 0397 train_loss= 0.45602 val_roc= 0.91946 val_ap= 0.92581
+Epoch: 0398 train_loss= 0.45588 val_roc= 0.91935 val_ap= 0.92572
+Epoch: 0399 train_loss= 0.45583 val_roc= 0.91907 val_ap= 0.92555
+Epoch: 0400 train_loss= 0.45586 val_roc= 0.91904 val_ap= 0.92568
+Test ROC score: 0.91738195870064
+Test AP score: 0.9263086191745584
+

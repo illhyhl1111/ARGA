@@ -1,4 +1,5 @@
-import tensorflow as tf
+import tensorflow.compat.v1 as tf
+tf.compat.v1.disable_eager_execution()
 import numpy as np
 from model import ARGA, ARVGA, Discriminator
 from optimizer import OptimizerAE, OptimizerVAE
@@ -27,10 +28,10 @@ def get_model(model_str, placeholders, num_features, num_nodes, features_nonzero
     discriminator = Discriminator()
     d_real = discriminator.construct(placeholders['real_distribution'])
     model = None
-    if model_str == 'arga_ae':
+    if model_str == 'arga':
         model = ARGA(placeholders, num_features, features_nonzero)
 
-    elif model_str == 'arga_vae':
+    elif model_str == 'arvga':
         model = ARVGA(placeholders, num_features, num_nodes, features_nonzero)
 
     return d_real, discriminator, model
@@ -77,7 +78,7 @@ def format_data(data_name):
     return feas
 
 def get_optimizer(model_str, model, discriminator, placeholders, pos_weight, norm, d_real,num_nodes):
-    if model_str == 'arga_ae':
+    if model_str == 'arga':
         d_fake = discriminator.construct(model.embeddings, reuse=True)
         opt = OptimizerAE(preds=model.reconstructions,
                           labels=tf.reshape(tf.sparse_tensor_to_dense(placeholders['adj_orig'],
@@ -86,7 +87,7 @@ def get_optimizer(model_str, model, discriminator, placeholders, pos_weight, nor
                           norm=norm,
                           d_real=d_real,
                           d_fake=d_fake)
-    elif model_str == 'arga_vae':
+    elif model_str == 'arvga':
         opt = OptimizerVAE(preds=model.reconstructions,
                            labels=tf.reshape(tf.sparse_tensor_to_dense(placeholders['adj_orig'],
                                                                        validate_indices=False), [-1]),

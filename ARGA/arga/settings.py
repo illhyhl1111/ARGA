@@ -1,4 +1,5 @@
-import tensorflow as tf
+# import tensorflow.compat.v1 as tf
+import tensorflow.compat.v1 as tf
 import numpy as np
 flags = tf.app.flags
 FLAGS = flags.FLAGS
@@ -14,7 +15,7 @@ flags.DEFINE_float('weight_decay', 0., 'Weight for L2 loss on embedding matrix.'
 flags.DEFINE_float('dropout', 0., 'Dropout rate (1 - keep probability).')
 flags.DEFINE_integer('features', 1, 'Whether to use features (1) or not (0).')
 flags.DEFINE_integer('seed', 50, 'seed for fixing the results.')
-flags.DEFINE_integer('iterations', 50, 'number of iterations.')
+flags.DEFINE_integer('iterations', 100, 'number of iterations.')
 
 '''
 infor: number of clusters 
@@ -33,7 +34,7 @@ tf.set_random_seed(seed)
 def get_settings(dataname, model, task):
     if dataname != 'citeseer' and dataname != 'cora' and dataname != 'pubmed':
         print('error: wrong data set name')
-    if model != 'arga_ae' and model != 'arga_vae':
+    if model != 'arga' and model != 'arvga':
         print('error: wrong model name')
     if task != 'clustering' and task != 'link_prediction':
         print('error: wrong task name')

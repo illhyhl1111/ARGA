@@ -4,8 +4,9 @@ from sklearn.cluster import KMeans
 import os
 
 # Train on CPU (hide GPU) due to memory constraints
-os.environ['CUDA_VISIBLE_DEVICES'] = ""
-import tensorflow as tf
+# os.environ['CUDA_VISIBLE_DEVICES'] = ""
+# import tensorflow.compat.v1 as tf
+import tensorflow.compat.v1 as tf
 from metrics import clustering_metrics
 from constructor import get_placeholder, get_model, format_data, get_optimizer, update
 # Settings
@@ -38,7 +39,9 @@ class Clustering_Runner():
         opt = get_optimizer(model_str, ae_model, discriminator, placeholders, feas['pos_weight'], feas['norm'], d_real, feas['num_nodes'])
 
         # Initialize session
-        sess = tf.Session()
+        config = tf.ConfigProto()
+        config.gpu_options.allow_growth = True
+        sess = tf.Session(config=config)
         # sess = tf.Session(config=tf.ConfigProto(log_device_placement=True))
         sess.run(tf.global_variables_initializer())
 
@@ -52,3 +55,12 @@ class Clustering_Runner():
                 predict_labels = kmeans.predict(emb)
                 cm = clustering_metrics(feas['true_labels'], predict_labels)
                 cm.evaluationClusterModelFromLabel()
+
+        kmeans = KMeans(n_clusters=self.n_clusters, random_state=0).fit(emb)
+        predict_labels = kmeans.predict(emb)
+
+        import numpy as np
+        np.save('results/emb.npy', emb, allow_pickle=False)
+        np.save('results/labels.npy', predict_labels, allow_pickle=False)
+
+        sess.close()

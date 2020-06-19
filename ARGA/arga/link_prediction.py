@@ -2,9 +2,9 @@ from __future__ import division
 from __future__ import print_function
 import os
 # Train on CPU (hide GPU) due to memory constraints
-os.environ['CUDA_VISIBLE_DEVICES'] = ""
+# os.environ['CUDA_VISIBLE_DEVICES'] = ""
 
-import tensorflow as tf
+import tensorflow.compat.v1 as tf
 import settings
 from constructor import get_placeholder, get_model, format_data, get_optimizer, update
 from metrics import linkpred_metrics
@@ -33,7 +33,9 @@ class Link_pred_Runner():
         opt = get_optimizer(model_str, ae_model, discriminator, placeholders, feas['pos_weight'], feas['norm'], d_real, feas['num_nodes'])
 
         # Initialize session
-        sess = tf.Session()
+        config = tf.ConfigProto()
+        config.gpu_options.allow_growth = True
+        sess = tf.Session(config=config)
         sess.run(tf.global_variables_initializer())
 
         val_roc_score = []
@@ -54,3 +56,5 @@ class Link_pred_Runner():
                 roc_score, ap_score,_ = lm_test.get_roc_score(emb, feas)
                 print('Test ROC score: ' + str(roc_score))
                 print('Test AP score: ' + str(ap_score))
+
+        sess.close()
